@@ -1,1 +1,16 @@
-
+{
+  "packages": [
+    {
+      "name": "MicroG",
+      "apk": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/org.microg.gms-250932014-user.apk"
+    },
+    {
+      "name": "Youtube Revanced",
+      "apk": "https://github.com/j-hc/revanced-magisk-module/releases/download/20221026/youtube-revanced-v20.14.43-all.apk"
+    },
+    {
+      "name": "Youtube Revanced Extended",
+      "apk": "https://github.com/NoName-exe/revanced-extended/releases/download/133/youtube-revanced-extended-v19.47.53-all.apk"
+    }
+  ]
+}
