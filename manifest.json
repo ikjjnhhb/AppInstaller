@@ -2,7 +2,7 @@
   "packages": [
     {
       "name": "MicroG",
-      "apk": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/org.microg.gms-250932014-user.apk"
+      "apk": "https://github.com/microg/GmsCore/releases/download/v0.3.7.250932/com.android.vending-84022614.apk"
     },
     {
       "name": "Youtube Revanced",
