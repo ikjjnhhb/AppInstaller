@@ -21,7 +21,7 @@ jobs:
         run: pip install requests
 
       - name: Generate manifest
-        run: python generate.py
+        run: python update-repo.py
 
       - name: Commit and push changes
         run: |
