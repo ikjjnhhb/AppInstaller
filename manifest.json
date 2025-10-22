@@ -10802,7 +10802,7 @@
   {
     "name": "NeoStumbler",
     "description": "Application for collecting wireless networks to geolocation services",
-    "apk": "https://f-droid.org/repo/xyz.malkki.neostumbler.fdroid_42.apk"
+    "apk": "https://f-droid.org/repo/xyz.malkki.neostumbler.fdroid_43.apk"
   },
   {
     "name": "Netclip",
@@ -15132,7 +15132,7 @@
   {
     "name": "ServerBox",
     "description": "A server status & toolbox app using Flutter",
-    "apk": "https://f-droid.org/repo/tech.lolli.toolbox_12531.apk"
+    "apk": "https://f-droid.org/repo/tech.lolli.toolbox_125601.apk"
   },
   {
     "name": "Service Menu",
@@ -17462,7 +17462,7 @@
   {
     "name": "Tomato",
     "description": "Minimalist Pomodoro timer",
-    "apk": "https://f-droid.org/repo/org.nsh07.pomodoro_10.apk"
+    "apk": "https://f-droid.org/repo/org.nsh07.pomodoro_11.apk"
   },
   {
     "name": "Tomdroid",
@@ -17597,7 +17597,7 @@
   {
     "name": "Trackbook - Movement Recorder",
     "description": "Record your movement",
-    "apk": "https://f-droid.org/repo/org.y20k.trackbook_52.apk"
+    "apk": "https://f-droid.org/repo/org.y20k.trackbook_53.apk"
   },
   {
     "name": "TrackerControl",
@@ -18897,7 +18897,7 @@
   {
     "name": "Webview Kiosk",
     "description": "Turn your Android device into a locked-down web page in fullscreen mode",
-    "apk": "https://f-droid.org/repo/uk.nktnet.webviewkiosk_56.apk"
+    "apk": "https://f-droid.org/repo/uk.nktnet.webviewkiosk_57.apk"
   },
   {
     "name": "WECHANGE",
@@ -18923,11 +18923,6 @@
     "name": "WG Auto Connect",
     "description": "Auto connect to a WireGuard tunnel",
     "apk": "https://f-droid.org/repo/de.marionoll.wgautoconnect_1.apk"
-  },
-  {
-    "name": "WG Tunnel",
-    "description": "A WireGuard & AmneziaWG VPN client with auto-tunneling, lockdown & proxying.",
-    "apk": "https://f-droid.org/repo/com.zaneschepke.wireguardautotunnel_39500.apk"
   },
   {
     "name": "wger Workout Manager",
