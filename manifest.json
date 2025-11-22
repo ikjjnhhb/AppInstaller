@@ -1747,7 +1747,7 @@
   {
     "name": "BILIBILIAS",
     "description": "An auxiliary tool for Bilibili video caching, providing one-click caching",
-    "apk": "https://f-droid.org/repo/com.imcys.bilibilias_207.apk"
+    "apk": "https://f-droid.org/repo/com.imcys.bilibilias_210.apk"
   },
   {
     "name": "BiliDownOut",
@@ -2627,7 +2627,7 @@
   {
     "name": "Cardabase",
     "description": "All your loyalty cards at one place.",
-    "apk": "https://f-droid.org/repo/com.georgeyt9769.cardabase_803.apk"
+    "apk": "https://f-droid.org/repo/com.georgeyt9769.cardabase_901.apk"
   },
   {
     "name": "Cardboard Museum",
@@ -2742,7 +2742,7 @@
   {
     "name": "CClauncher",
     "description": "Minimal launcher that hides apps by default to reduce distractions. Rewrite of C",
-    "apk": "https://f-droid.org/repo/app.cclauncher_870.apk"
+    "apk": "https://f-droid.org/repo/app.cclauncher_877.apk"
   },
   {
     "name": "CDLC Player",
@@ -2978,6 +2978,11 @@
     "name": "CineLog",
     "description": "Rate and review movies and series you saw. Build your own review database !",
     "apk": "https://f-droid.org/repo/com.ulicae.cinelog_40.apk"
+  },
+  {
+    "name": "ciphernotes",
+    "description": "Client-side encrypted notes that sync across devices.",
+    "apk": "https://f-droid.org/repo/com.ciphernotes.twa_5.apk"
   },
   {
     "name": "Circo",
@@ -4097,7 +4102,7 @@
   {
     "name": "Diatronome",
     "description": "A tuner, a visual metronome and a synthesizer",
-    "apk": "https://f-droid.org/repo/org.kalinisa.diatronome_8.apk"
+    "apk": "https://f-droid.org/repo/org.kalinisa.diatronome_9.apk"
   },
   {
     "name": "Dib2Calc",
@@ -9827,7 +9832,7 @@
   {
     "name": "MediLog",
     "description": "Log health metrics such as blood pressure, weight and quite a few others",
-    "apk": "https://f-droid.org/repo/com.zell_mbc.medilog_5501.apk"
+    "apk": "https://f-droid.org/repo/com.zell_mbc.medilog_5502.apk"
   },
   {
     "name": "Meditation",
@@ -13447,7 +13452,7 @@
   {
     "name": "Pomodorot",
     "description": "A simple timer which pauses when not in view",
-    "apk": "https://f-droid.org/repo/app.pomodorot_171.apk"
+    "apk": "https://f-droid.org/repo/app.pomodorot_181.apk"
   },
   {
     "name": "Port Authority",
@@ -13782,7 +13787,7 @@
   {
     "name": "PublicArtExplorer",
     "description": "Discover and view public art",
-    "apk": "https://f-droid.org/repo/com.zell_mbc.publicartexplorer.foss_46.apk"
+    "apk": "https://f-droid.org/repo/com.zell_mbc.publicartexplorer.foss_50.apk"
   },
   {
     "name": "Pulsar",
@@ -19567,7 +19572,7 @@
   {
     "name": "XDYou",
     "description": "Free and Open Source data assistant for XDU students.",
-    "apk": "https://f-droid.org/repo/io.github.benderblog.traintime_pda_291.apk"
+    "apk": "https://f-droid.org/repo/io.github.benderblog.traintime_pda_292.apk"
   },
   {
     "name": "Xearth",
