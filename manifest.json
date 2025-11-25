@@ -5547,7 +5547,7 @@
   {
     "name": "Feeder",
     "description": "An awesome Libre and Open Source RSS feed reader",
-    "apk": "https://f-droid.org/repo/com.nononsenseapps.feeder_3806.apk"
+    "apk": "https://f-droid.org/repo/com.nononsenseapps.feeder_3813.apk"
   },
   {
     "name": "Feeder (Play version)",
@@ -11117,7 +11117,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20251108.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20251111.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -14732,7 +14732,7 @@
   {
     "name": "RustDesk",
     "description": "An open-source remote desktop application, the TeamViewer alternative",
-    "apk": "https://f-droid.org/repo/com.carriez.flutter_hbb_104010002.apk"
+    "apk": "https://f-droid.org/repo/com.carriez.flutter_hbb_104010003.apk"
   },
   {
     "name": "Rusyn for AnySoftKeyboard",
