@@ -5062,7 +5062,7 @@
   {
     "name": "Ente Photos - Encrypted photo storage",
     "description": "Backup, Organise, Share - Private photo storage with end-to-end encryption",
-    "apk": "https://f-droid.org/repo/io.ente.photos.fdroid_1211.apk"
+    "apk": "https://f-droid.org/repo/io.ente.photos.fdroid_1215.apk"
   },
   {
     "name": "Enthusiast Tea Timer",
@@ -5552,7 +5552,7 @@
   {
     "name": "Feeder (Play version)",
     "description": "An awesome Libre and Open Source RSS feed reader",
-    "apk": "https://f-droid.org/repo/com.nononsenseapps.feeder.play_3806.apk"
+    "apk": "https://f-droid.org/repo/com.nononsenseapps.feeder.play_3813.apk"
   },
   {
     "name": "FeedFlow - RSS Reader",
@@ -5667,7 +5667,7 @@
   {
     "name": "Find My Device (FMD)",
     "description": "Locate and control your device remotely",
-    "apk": "https://f-droid.org/repo/de.nulide.findmydevice_34.apk"
+    "apk": "https://f-droid.org/repo/de.nulide.findmydevice_35.apk"
   },
   {
     "name": "Find my IP",
@@ -7057,7 +7057,7 @@
   {
     "name": "Guileless Bopomofo Keyboard",
     "description": "A simple Bopomofo software keyboard (input method editor) for typing Hanyu",
-    "apk": "https://f-droid.org/repo/org.ghostsinthelab.apps.guilelessbopomofo_187.apk"
+    "apk": "https://f-droid.org/repo/org.ghostsinthelab.apps.guilelessbopomofo_188.apk"
   },
   {
     "name": "GuitarFretboardTrainer",
@@ -9161,8 +9161,8 @@
   },
   {
     "name": "Linux Command Library",
-    "description": "7680 manual pages, 22 basic categories and a bunch of general terminal tips.",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_118.apk"
+    "description": "7717 manual pages, 22 basic categories and a bunch of general terminal tips.",
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_119.apk"
   },
   {
     "name": "Linux Counter Updater",
@@ -13192,7 +13192,7 @@
   {
     "name": "Pixiv for Muzei 3",
     "description": "Best Pixiv plugin for Muzei 3",
-    "apk": "https://f-droid.org/repo/com.antony.muzei.pixiv_324.apk"
+    "apk": "https://f-droid.org/repo/com.antony.muzei.pixiv_325.apk"
   },
   {
     "name": "Pixiv-MultiPlatform",
@@ -13212,7 +13212,7 @@
   {
     "name": "PlainApp: File & Web Access",
     "description": "Manage your phone on the web! Access files, contacts, videos, music & more.",
-    "apk": "https://f-droid.org/repo/com.ismartcoding.plain_437.apk"
+    "apk": "https://f-droid.org/repo/com.ismartcoding.plain_440.apk"
   },
   {
     "name": "Planes Android",
@@ -15302,7 +15302,7 @@
   {
     "name": "Sensor Spot",
     "description": "Stream real-time Android sensor data over MQTT",
-    "apk": "https://f-droid.org/repo/com.github.umercodez.sensorspot_9.apk"
+    "apk": "https://f-droid.org/repo/com.github.umercodez.sensorspot_12.apk"
   },
   {
     "name": "Sensorkraken",
@@ -15792,7 +15792,7 @@
   {
     "name": "Simple Keyboard",
     "description": "An app for those who only need a keyboard and nothing more",
-    "apk": "https://f-droid.org/repo/rkr.simplekeyboard.inputmethod_135.apk"
+    "apk": "https://f-droid.org/repo/rkr.simplekeyboard.inputmethod_136.apk"
   },
   {
     "name": "Simple Litecoin Widget",
