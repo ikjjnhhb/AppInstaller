@@ -3862,7 +3862,7 @@
   {
     "name": "De1984",
     "description": "Privacy-focused Firewall and Package Manager for Android devices",
-    "apk": "https://f-droid.org/repo/io.github.dorumrr.de1984_24.apk"
+    "apk": "https://f-droid.org/repo/io.github.dorumrr.de1984_26.apk"
   },
   {
     "name": "DeadHash",
@@ -4132,7 +4132,7 @@
   {
     "name": "Dib2Qm",
     "description": "Messenger for secured chats and groups (end-to-end encrypted)",
-    "apk": "https://f-droid.org/repo/net.sourceforge.dibdib.android.dib2qm_2420.apk"
+    "apk": "https://f-droid.org/repo/net.sourceforge.dibdib.android.dib2qm_2422.apk"
   },
   {
     "name": "Diccionario castellano",
@@ -4457,7 +4457,7 @@
   {
     "name": "Doors of Doom",
     "description": "Adventure into the dungeon of infinite doors! Behind each, a monster awaits!",
-    "apk": "https://f-droid.org/repo/com.github.msx80.doorsofdoom_2.apk"
+    "apk": "https://f-droid.org/repo/com.github.msx80.doorsofdoom_3.apk"
   },
   {
     "name": "Dooz",
@@ -4572,7 +4572,7 @@
   {
     "name": "Droid Pad",
     "description": "Build control interfaces for WebSocket, Bluetooth/LE, MQTT, TCP & UDP protocols.",
-    "apk": "https://f-droid.org/repo/com.github.umer0586.droidpad_31.apk"
+    "apk": "https://f-droid.org/repo/com.github.umer0586.droidpad_32.apk"
   },
   {
     "name": "Droid-ify",
@@ -5267,12 +5267,12 @@
   {
     "name": "Exclave",
     "description": "Proxy client",
-    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1316.apk"
+    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1326.apk"
   },
   {
     "name": "Exercise Reminders",
     "description": "Notifications to do simple exercises at regular intervals.",
-    "apk": "https://f-droid.org/repo/nodo.crogers.exercisereminders_9.apk"
+    "apk": "https://f-droid.org/repo/nodo.crogers.exercisereminders_10.apk"
   },
   {
     "name": "Exfilac",
@@ -5387,7 +5387,7 @@
   {
     "name": "FairEmail",
     "description": "Fully featured email client. Neat, intuitive user interface. Privacy friendly",
-    "apk": "https://f-droid.org/repo/eu.faircode.email_2302.apk"
+    "apk": "https://f-droid.org/repo/eu.faircode.email_2303.apk"
   },
   {
     "name": "Fairphone Checkup",
@@ -5397,7 +5397,7 @@
   {
     "name": "FairScan – PDF Scanner",
     "description": "Scan a document and get a clean PDF you can save or share instantly",
-    "apk": "https://f-droid.org/repo/org.fairscan.app_27.apk"
+    "apk": "https://f-droid.org/repo/org.fairscan.app_29.apk"
   },
   {
     "name": "Fake Contacts",
@@ -5752,7 +5752,7 @@
   {
     "name": "FitBook",
     "description": "Track your calorie intake - Completely offline!",
-    "apk": "https://f-droid.org/repo/com.presley.fit_book_1461.apk"
+    "apk": "https://f-droid.org/repo/com.presley.fit_book_1481.apk"
   },
   {
     "name": "Fitness Calendar",
@@ -5857,7 +5857,7 @@
   {
     "name": "Flexify",
     "description": "Track gym progress",
-    "apk": "https://f-droid.org/repo/com.presley.flexify_32301.apk"
+    "apk": "https://f-droid.org/repo/com.presley.flexify_32401.apk"
   },
   {
     "name": "FlickBoard",
@@ -6982,12 +6982,12 @@
   {
     "name": "Green: Bitcoin Wallet",
     "description": "Bitcoin - secure and easy",
-    "apk": "https://f-droid.org/repo/com.greenaddress.greenbits_android_wallet_22000509.apk"
+    "apk": "https://f-droid.org/repo/com.greenaddress.greenbits_android_wallet_22000510.apk"
   },
   {
     "name": "GreenStash: Track Your Savings",
     "description": "Plan, manage, and achieve your savings goals easily",
-    "apk": "https://f-droid.org/repo/com.starry.greenstash_394.apk"
+    "apk": "https://f-droid.org/repo/com.starry.greenstash_401.apk"
   },
   {
     "name": "Gridle",
@@ -7231,7 +7231,7 @@
   },
   {
     "name": "Harp",
-    "description": "Personal Health Record Application",
+    "description": "Private Health Record Application",
     "apk": "https://f-droid.org/repo/xyz.lepisma.harp_10.apk"
   },
   {
@@ -7787,7 +7787,7 @@
   {
     "name": "Infomaniak Mail",
     "description": "The secure messaging service for your emails",
-    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12100101.apk"
+    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12100201.apk"
   },
   {
     "name": "Information about NCBS",
@@ -9032,7 +9032,7 @@
   {
     "name": "Librera Reader",
     "description": "Book and PDF reader",
-    "apk": "https://f-droid.org/repo/com.foobnix.pro.pdf.reader_6294.apk"
+    "apk": "https://f-droid.org/repo/com.foobnix.pro.pdf.reader_6386.apk"
   },
   {
     "name": "LibreRandonaut",
@@ -12487,7 +12487,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_188.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_189.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -12497,7 +12497,7 @@
   {
     "name": "Pachli for Mastodon",
     "description": "A full-featured Android client for Mastodon and similar servers.",
-    "apk": "https://f-droid.org/repo/app.pachli_37.apk"
+    "apk": "https://f-droid.org/repo/app.pachli_38.apk"
   },
   {
     "name": "Package Manager",
@@ -12547,7 +12547,7 @@
   {
     "name": "PAIesque",
     "description": "Personal Activity Intelligence (PAI) calculator",
-    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_20.apk"
+    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_21.apk"
   },
   {
     "name": "Pain Diary (PFA)",
@@ -14077,7 +14077,7 @@
   {
     "name": "Quitter",
     "description": "Give up on addictions and become a Quitter",
-    "apk": "https://f-droid.org/repo/com.quitter.app_901.apk"
+    "apk": "https://f-droid.org/repo/com.quitter.app_941.apk"
   },
   {
     "name": "Quote Unquote",
@@ -18432,7 +18432,7 @@
   {
     "name": "Unciv",
     "description": "Open source 4X civilization-building game",
-    "apk": "https://f-droid.org/repo/com.unciv.app_1179.apk"
+    "apk": "https://f-droid.org/repo/com.unciv.app_1180.apk"
   },
   {
     "name": "UnderEat",
@@ -18527,7 +18527,7 @@
   {
     "name": "Unstoppable Crypto Wallet",
     "description": "Bitcoin, Ethereum, DeFi",
-    "apk": "https://f-droid.org/repo/io.horizontalsystems.bankwallet_146.apk"
+    "apk": "https://f-droid.org/repo/io.horizontalsystems.bankwallet_147.apk"
   },
   {
     "name": "Untracker",
@@ -19047,7 +19047,7 @@
   {
     "name": "WAFRN",
     "description": "The social network that respects you",
-    "apk": "https://f-droid.org/repo/dev.djara.wafrn_rn_10070021.apk"
+    "apk": "https://f-droid.org/repo/dev.djara.wafrn_rn_10080031.apk"
   },
   {
     "name": "WairToNow - Aviation Navigation",
