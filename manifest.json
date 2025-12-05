@@ -1192,7 +1192,7 @@
   {
     "name": "Audile",
     "description": "Music recognition app",
-    "apk": "https://f-droid.org/repo/com.mrsep.musicrecognizer_31.apk"
+    "apk": "https://f-droid.org/repo/com.mrsep.musicrecognizer_32.apk"
   },
   {
     "name": "Audio Notes",
@@ -4728,6 +4728,11 @@
     "name": "Duress",
     "description": "Duress password trigger",
     "apk": "https://f-droid.org/repo/me.lucky.duress_9.apk"
+  },
+  {
+    "name": "DuressKeyboard",
+    "description": "Keyboard that reacts to triggers and performs security actions",
+    "apk": "https://f-droid.org/repo/duress.keyboard_32.apk"
   },
   {
     "name": "Dutch for AnySoftKeyboard",
@@ -11147,7 +11152,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20251127.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20251128.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -12618,6 +12623,11 @@
     "name": "Parcel",
     "description": "Track all your parcels with ease.",
     "apk": "https://f-droid.org/repo/dev.itsvic.parceltracker_10200000.apk"
+  },
+  {
+    "name": "Parcel - Pickup code",
+    "description": "Extract the address and pickup code from SMS automatically",
+    "apk": "https://f-droid.org/repo/com.xxxx.parcel_39.apk"
   },
   {
     "name": "PariDroid",
