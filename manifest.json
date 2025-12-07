@@ -3972,7 +3972,7 @@
   {
     "name": "Deku SMS",
     "description": "Deku is an SMS app that supports end to end encryption and photo sharing",
-    "apk": "https://f-droid.org/repo/com.afkanerd.deku_67.apk"
+    "apk": "https://f-droid.org/repo/com.afkanerd.deku_68.apk"
   },
   {
     "name": "Delist",
@@ -4887,7 +4887,7 @@
   {
     "name": "Eblan Launcher",
     "description": "Lightweight, fast, customizable, and secure Android launcher",
-    "apk": "https://f-droid.org/repo/com.eblan.launcher_20.apk"
+    "apk": "https://f-droid.org/repo/com.eblan.launcher_22.apk"
   },
   {
     "name": "EBT New Note",
@@ -7002,7 +7002,7 @@
   {
     "name": "Grit",
     "description": "A Simple ToDo List and Daily Habit Tracker",
-    "apk": "https://f-droid.org/repo/com.shub39.grit_5010.apk"
+    "apk": "https://f-droid.org/repo/com.shub39.grit_5100.apk"
   },
   {
     "name": "Grocery manager",
@@ -7222,7 +7222,7 @@
   {
     "name": "HappyTaxes",
     "description": "Private bookkeeping for freelancers, small business, or personal finances.",
-    "apk": "https://f-droid.org/repo/io.github.dorumrr.happytaxes_3.apk"
+    "apk": "https://f-droid.org/repo/io.github.dorumrr.happytaxes_4.apk"
   },
   {
     "name": "HardWhere",
@@ -8292,7 +8292,7 @@
   {
     "name": "Kahon",
     "description": "A fork of Mihon with some annoying restrictions removed",
-    "apk": "https://f-droid.org/repo/com.amanoteam.kahon_13.apk"
+    "apk": "https://f-droid.org/repo/com.amanoteam.kahon_14.apk"
   },
   {
     "name": "Kaku",
@@ -9207,7 +9207,7 @@
   {
     "name": "Linwood Butterfly Nightly",
     "description": "Powerful, minimalistic, cross-platform, opensource note-taking app",
-    "apk": "https://f-droid.org/repo/dev.linwood.butterfly.nightly_157.apk"
+    "apk": "https://f-droid.org/repo/dev.linwood.butterfly.nightly_158.apk"
   },
   {
     "name": "Linwood Flow Nightly",
@@ -10267,7 +10267,7 @@
   {
     "name": "Minis companion",
     "description": "A simple app to help miniature painters keep track of their painting recipes",
-    "apk": "https://f-droid.org/repo/com.cdevaux.miniature_painting_companion_2.apk"
+    "apk": "https://f-droid.org/repo/com.cdevaux.miniature_painting_companion_3.apk"
   },
   {
     "name": "Minos",
@@ -11152,7 +11152,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20251129.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20251203.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -12552,7 +12552,7 @@
   {
     "name": "PAIesque",
     "description": "Personal Activity Intelligence (PAI) calculator",
-    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_22.apk"
+    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_23.apk"
   },
   {
     "name": "Pain Diary (PFA)",
@@ -13422,7 +13422,7 @@
   {
     "name": "Podcini.X - Podcast instrument",
     "description": "Modern, feature-rich, without access to Youtube",
-    "apk": "https://f-droid.org/repo/ac.mdiq.podcini.X_201.apk"
+    "apk": "https://f-droid.org/repo/ac.mdiq.podcini.X_202.apk"
   },
   {
     "name": "Podverse",
@@ -13732,7 +13732,7 @@
   {
     "name": "Privacy Flip",
     "description": "Manage your device privacy based on lock/unlock state",
-    "apk": "https://f-droid.org/repo/io.github.dorumrr.privacyflip_12.apk"
+    "apk": "https://f-droid.org/repo/io.github.dorumrr.privacyflip_14.apk"
   },
   {
     "name": "Privacy Helper",
@@ -15552,7 +15552,7 @@
   {
     "name": "Shattered Pixel Dungeon",
     "description": "A roguelike game based on Pixel Dungeon",
-    "apk": "https://f-droid.org/repo/com.shatteredpixel.shatteredpixeldungeon_868.apk"
+    "apk": "https://f-droid.org/repo/com.shatteredpixel.shatteredpixeldungeon_875.apk"
   },
   {
     "name": "Sheepy Horn",
@@ -17812,7 +17812,7 @@
   {
     "name": "Tomato",
     "description": "Minimalist Pomodoro timer",
-    "apk": "https://f-droid.org/repo/org.nsh07.pomodoro_19.apk"
+    "apk": "https://f-droid.org/repo/org.nsh07.pomodoro_20.apk"
   },
   {
     "name": "Tomdroid",
@@ -18327,12 +18327,12 @@
   {
     "name": "Tuta Calendar",
     "description": "Quantum-safe encrypted planner to schedule & manage your events & sync calendars",
-    "apk": "https://f-droid.org/repo/de.tutao.calendar_196.apk"
+    "apk": "https://f-droid.org/repo/de.tutao.calendar_204.apk"
   },
   {
     "name": "Tuta Mail",
     "description": "Encrypted email & calendar service - easy to use, secure by design.",
-    "apk": "https://f-droid.org/repo/de.tutao.tutanota_396564.apk"
+    "apk": "https://f-droid.org/repo/de.tutao.tutanota_396568.apk"
   },
   {
     "name": "Tuty Fruty Slot for Android",
@@ -18362,7 +18362,7 @@
   {
     "name": "Twili Recipes",
     "description": "Recipe manager and cooking assistant app with ChatGPT and Next Cloud integration",
-    "apk": "https://f-droid.org/repo/net.curiana.recipes_5.apk"
+    "apk": "https://f-droid.org/repo/net.curiana.recipes_6.apk"
   },
   {
     "name": "Twire",
@@ -19302,7 +19302,7 @@
   {
     "name": "wger Workout Manager",
     "description": "Fitness/workout, nutrition and weight tracker",
-    "apk": "https://f-droid.org/repo/de.wger.flutter_90.apk"
+    "apk": "https://f-droid.org/repo/de.wger.flutter_100.apk"
   },
   {
     "name": "WhatExp",
@@ -19792,7 +19792,7 @@
   {
     "name": "YacGuide Dev",
     "description": "Yet Another Climbing Guide - Development Version",
-    "apk": "https://f-droid.org/repo/com.yacgroup.yacguide.dev_20250304.apk"
+    "apk": "https://f-droid.org/repo/com.yacgroup.yacguide.dev_20250325.apk"
   },
   {
     "name": "Yahtzee",
@@ -20037,7 +20037,7 @@
   {
     "name": "聚在工大",
     "description": "All-in-one school service app for Hefei University of Technology students",
-    "apk": "https://f-droid.org/repo/com.hfut.schedule_2342.apk"
+    "apk": "https://f-droid.org/repo/com.hfut.schedule_2352.apk"
   },
   {
     "name": "萊姆輸入法",
