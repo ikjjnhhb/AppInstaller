@@ -5077,7 +5077,7 @@
   {
     "name": "Ente Photos - Encrypted photo storage",
     "description": "Backup, Organise, Share - Private photo storage with end-to-end encryption",
-    "apk": "https://f-droid.org/repo/io.ente.photos.fdroid_1218.apk"
+    "apk": "https://f-droid.org/repo/io.ente.photos.fdroid_1220.apk"
   },
   {
     "name": "Enthusiast Tea Timer",
@@ -5632,7 +5632,7 @@
   {
     "name": "File Navigator",
     "description": "The missing link between Android and a well-sorted file system",
-    "apk": "https://f-droid.org/repo/com.w2sv.filenavigator_10.apk"
+    "apk": "https://f-droid.org/repo/com.w2sv.filenavigator_11.apk"
   },
   {
     "name": "File85Toolkit",
@@ -9712,7 +9712,7 @@
   {
     "name": "Materialious",
     "description": "Modern material design for Invidious",
-    "apk": "https://f-droid.org/repo/us.materialio.app_171.apk"
+    "apk": "https://f-droid.org/repo/us.materialio.app_172.apk"
   },
   {
     "name": "MaterialOS",
@@ -10033,6 +10033,11 @@
     "name": "Meshtastic",
     "description": "The official app for Meshtastic, an open-source, off-grid, mesh radio.",
     "apk": "https://f-droid.org/repo/com.geeksville.mesh_29319394.apk"
+  },
+  {
+    "name": "Messages",
+    "description": null,
+    "apk": "https://f-droid.org/repo/org.prauga.messages_3.apk"
   },
   {
     "name": "Metadata Remover",
@@ -14112,7 +14117,7 @@
   {
     "name": "Quitter",
     "description": "Give up on addictions and become a Quitter",
-    "apk": "https://f-droid.org/repo/com.quitter.app_993.apk"
+    "apk": "https://f-droid.org/repo/com.quitter.app_1001.apk"
   },
   {
     "name": "Quote Unquote",
@@ -17562,7 +17567,7 @@
   {
     "name": "Thunderbird Beta for Testers",
     "description": "Thunderbird is a 100% open source, privacy focused email app.",
-    "apk": "https://f-droid.org/repo/net.thunderbird.android.beta_33.apk"
+    "apk": "https://f-droid.org/repo/net.thunderbird.android.beta_34.apk"
   },
   {
     "name": "Thunderbird: Free Your Inbox",
@@ -17947,7 +17952,7 @@
   {
     "name": "Tournant",
     "description": "Recipe manager and cookbook for your cooking and baking recipes",
-    "apk": "https://f-droid.org/repo/eu.zimbelstern.tournant_36.apk"
+    "apk": "https://f-droid.org/repo/eu.zimbelstern.tournant_37.apk"
   },
   {
     "name": "tower",
