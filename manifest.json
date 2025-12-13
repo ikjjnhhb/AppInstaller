@@ -1007,7 +1007,7 @@
   {
     "name": "ArcaneChat",
     "description": "⚡ Fast encrypted chats for the family 🎉",
-    "apk": "https://f-droid.org/repo/chat.delta.lite_300007304.apk"
+    "apk": "https://f-droid.org/repo/chat.delta.lite_300007321.apk"
   },
   {
     "name": "ArcheryStats",
@@ -1462,7 +1462,7 @@
   {
     "name": "Bangle.js Gadgetbridge",
     "description": "Android companion app for Bangle.js built on top of the Gadgetbridge project.",
-    "apk": "https://f-droid.org/repo/com.espruino.gadgetbridge.banglejs_237.apk"
+    "apk": "https://f-droid.org/repo/com.espruino.gadgetbridge.banglejs_238.apk"
   },
   {
     "name": "Bangumi",
@@ -2247,7 +2247,7 @@
   {
     "name": "Briar",
     "description": "Secure messaging, anywhere",
-    "apk": "https://f-droid.org/repo/org.briarproject.briar.android_10512.apk"
+    "apk": "https://f-droid.org/repo/org.briarproject.briar.android_10513.apk"
   },
   {
     "name": "Briar Mailbox",
@@ -2851,6 +2851,11 @@
   },
   {
     "name": "Chess",
+    "description": "An open-source chess app",
+    "apk": "https://f-droid.org/repo/com.vayunmathur.games.chess_1.apk"
+  },
+  {
+    "name": "Chess",
     "description": "Chess program and FICS client",
     "apk": "https://f-droid.org/repo/jwtc.android.chess_235.apk"
   },
@@ -3003,6 +3008,11 @@
     "name": "ciphernotes",
     "description": "Client-side encrypted notes that sync across devices.",
     "apk": "https://f-droid.org/repo/com.ciphernotes.twa_5.apk"
+  },
+  {
+    "name": "CircleToSearch App",
+    "description": "CircleToSearch with multi search engine support for all android",
+    "apk": "https://f-droid.org/repo/com.akslabs.circletosearch_2.apk"
   },
   {
     "name": "Circo",
@@ -3712,7 +3722,7 @@
   {
     "name": "Daily You",
     "description": "Every day is worth remembering…",
-    "apk": "https://f-droid.org/repo/com.demizo.daily_you_20140003.apk"
+    "apk": "https://f-droid.org/repo/com.demizo.daily_you_20140021.apk"
   },
   {
     "name": "DailyAL",
@@ -9895,7 +9905,7 @@
     "apk": "https://f-droid.org/repo/org.paladyn.mediclog_20.apk"
   },
   {
-    "name": "MediLog",
+    "name": "MediLog (Non-reproducible build)",
     "description": "Log health metrics such as blood pressure, weight and quite a few others",
     "apk": "https://f-droid.org/repo/com.zell_mbc.medilog_5503.apk"
   },
@@ -10838,6 +10848,11 @@
     "name": "My Position",
     "description": "Share your location",
     "apk": "https://f-droid.org/repo/net.mypapit.mobile.myposition_15.apk"
+  },
+  {
+    "name": "My Quran - قرآني",
+    "description": "A lightweight, offline Quran reading app",
+    "apk": "https://f-droid.org/repo/com.dmouayad.my_quran_72.apk"
   },
   {
     "name": "My Wifi Passwords",
@@ -14102,7 +14117,7 @@
   {
     "name": "QUIK SMS",
     "description": "Open source replacement to the stock SMS app on Android. A revival of QKSMS.",
-    "apk": "https://f-droid.org/repo/dev.octoshrimpy.quik_2224.apk"
+    "apk": "https://f-droid.org/repo/dev.octoshrimpy.quik.fdroid_2234.apk"
   },
   {
     "name": "Quillpad",
@@ -15748,6 +15763,11 @@
     "name": "SickStache",
     "description": "Sickbeard client",
     "apk": "https://f-droid.org/repo/org.sickstache_42.apk"
+  },
+  {
+    "name": "SicMu Neo",
+    "description": "Simple, full-featured, file-based music player",
+    "apk": "https://f-droid.org/repo/xyz.mordorx.sicmu_34.apk"
   },
   {
     "name": "SicMu Player",
@@ -18480,6 +18500,11 @@
     "apk": "https://f-droid.org/repo/io.github.muntashirakon.unapkm_3.apk"
   },
   {
+    "name": "Unblock Jam",
+    "description": "Classic game \"Rush Hour\" - private & open source",
+    "apk": "https://f-droid.org/repo/com.vayunmathur.games.unblockjam_1.apk"
+  },
+  {
     "name": "Unchained",
     "description": "App to interact with Real Debrid",
     "apk": "https://f-droid.org/repo/com.github.livingwithhippos.unchained_54.apk"
@@ -18647,7 +18672,7 @@
   {
     "name": "URnetwork",
     "description": "Goodbye VPN!",
-    "apk": "https://f-droid.org/repo/com.bringyour.network_748449172.apk"
+    "apk": "https://f-droid.org/repo/com.bringyour.network_798448522.apk"
   },
   {
     "name": "US Travel Converter",
@@ -20082,7 +20107,7 @@
   {
     "name": "聚在工大",
     "description": "All-in-one school service app for Hefei University of Technology students",
-    "apk": "https://f-droid.org/repo/com.hfut.schedule_2354.apk"
+    "apk": "https://f-droid.org/repo/com.hfut.schedule_2362.apk"
   },
   {
     "name": "萊姆輸入法",
