@@ -6750,6 +6750,11 @@
     "apk": "https://f-droid.org/repo/com.florianthaler.githo_10.apk"
   },
   {
+    "name": "Github Store",
+    "description": "App store for GitHub releases - discover and install apps with one click",
+    "apk": "https://f-droid.org/repo/zed.rainxch.githubstore_5.apk"
+  },
+  {
     "name": "GitNex for Forgejo and Gitea",
     "description": "Client for Gitea",
     "apk": "https://f-droid.org/repo/org.mian.gitnex_1000.apk"
@@ -16007,7 +16012,7 @@
   {
     "name": "Simple Time Tracker",
     "description": "Time tracker for work, study, and building better daily habits.",
-    "apk": "https://f-droid.org/repo/com.razeeman.util.simpletimetracker_99.apk"
+    "apk": "https://f-droid.org/repo/com.razeeman.util.simpletimetracker_105.apk"
   },
   {
     "name": "Simple. : Fitness Simplified.",
