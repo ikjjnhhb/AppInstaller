@@ -787,7 +787,7 @@
   {
     "name": "AnkiDroid: Flashcards",
     "description": "Memorize anything with AnkiDroid!",
-    "apk": "https://f-droid.org/repo/com.ichi2.anki_22200301.apk"
+    "apk": "https://f-droid.org/repo/com.ichi2.anki_22203300.apk"
   },
   {
     "name": "AnkiEditor",
@@ -1662,7 +1662,7 @@
   {
     "name": "BetterCounter",
     "description": "A simple, multi-purpose counter app",
-    "apk": "https://f-droid.org/repo/org.kde.bettercounter_50101.apk"
+    "apk": "https://f-droid.org/repo/org.kde.bettercounter_50102.apk"
   },
   {
     "name": "BetterUntis",
@@ -1827,7 +1827,7 @@
   {
     "name": "Birthday Adapter",
     "description": "Birthday Calendar Adapter",
-    "apk": "https://f-droid.org/repo/org.birthdayadapter_34.apk"
+    "apk": "https://f-droid.org/repo/org.birthdayadapter_35.apk"
   },
   {
     "name": "Birthday Calendar",
@@ -3877,7 +3877,7 @@
   {
     "name": "De1984",
     "description": "Privacy-focused Firewall and Package Manager for Android devices",
-    "apk": "https://f-droid.org/repo/io.github.dorumrr.de1984_30.apk"
+    "apk": "https://f-droid.org/repo/io.github.dorumrr.de1984_31.apk"
   },
   {
     "name": "DeadHash",
@@ -5042,7 +5042,7 @@
   {
     "name": "Encointer Wallet",
     "description": "Interact with the Encointer Blockchain",
-    "apk": "https://f-droid.org/repo/org.encointer.wallet_879.apk"
+    "apk": "https://f-droid.org/repo/org.encointer.wallet_904.apk"
   },
   {
     "name": "Encrypt Text",
@@ -6707,7 +6707,7 @@
   {
     "name": "Ghost Commander",
     "description": "Dual-panel file manager",
-    "apk": "https://f-droid.org/repo/com.ghostsq.commander_474.apk"
+    "apk": "https://f-droid.org/repo/com.ghostsq.commander_475.apk"
   },
   {
     "name": "Ghost Log",
@@ -7632,7 +7632,7 @@
   {
     "name": "HypoStats",
     "description": "Simple tracking and stats for hypos.",
-    "apk": "https://f-droid.org/repo/app.hypostats_51.apk"
+    "apk": "https://f-droid.org/repo/app.hypostats_52.apk"
   },
   {
     "name": "I2P",
@@ -8342,7 +8342,7 @@
   {
     "name": "Kakugo",
     "description": "Learn Japanese with Kakugo",
-    "apk": "https://f-droid.org/repo/org.kaqui_91.apk"
+    "apk": "https://f-droid.org/repo/org.kaqui_92.apk"
   },
   {
     "name": "Kaleidoscope",
@@ -9063,11 +9063,6 @@
     "name": "LibreLynx Lite",
     "description": "Lightweight privacy-focused web browser",
     "apk": "https://f-droid.org/repo/com.librelynx.lite_1.apk"
-  },
-  {
-    "name": "LibreOffice & OpenOffice document reader | ODF",
-    "description": "Document reader & file editor for Libreoffice & OpenOffice | ODF: ODT, ODS +more",
-    "apk": "https://f-droid.org/repo/at.tomtasche.reader_193.apk"
   },
   {
     "name": "LibreOffice 2024 Schedule",
@@ -10457,7 +10452,7 @@
   {
     "name": "Mondstern Acrylic Icons",
     "description": "Mondstern's acrylic art as an Android icon pack",
-    "apk": "https://f-droid.org/repo/de.moooon.acrylicons_17.apk"
+    "apk": "https://f-droid.org/repo/de.moooon.acrylicons_18.apk"
   },
   {
     "name": "Money Logs",
@@ -10862,7 +10857,7 @@
   {
     "name": "My Expenses",
     "description": "Easy to use personal finance manager: rich functionality and Open Source",
-    "apk": "https://f-droid.org/repo/org.totschnig.myexpenses_816.apk"
+    "apk": "https://f-droid.org/repo/org.totschnig.myexpenses_823.apk"
   },
   {
     "name": "My Leaf",
@@ -11702,7 +11697,7 @@
   {
     "name": "NWS Weather Alerts Widget",
     "description": "Weather widget",
-    "apk": "https://f-droid.org/repo/net.justdave.nwsweatheralertswidget_12.apk"
+    "apk": "https://f-droid.org/repo/net.justdave.nwsweatheralertswidget_15.apk"
   },
   {
     "name": "NXT Remote Control",
@@ -11827,7 +11822,7 @@
   {
     "name": "Offi",
     "description": "King of public transit planning!",
-    "apk": "https://f-droid.org/repo/de.schildbach.oeffi_130017.apk"
+    "apk": "https://f-droid.org/repo/de.schildbach.oeffi_130018.apk"
   },
   {
     "name": "Offline Cook Book",
@@ -12173,6 +12168,11 @@
     "name": "OpenDNS Updater",
     "description": "OpenDNS Updater is an extremely easy to use android app to perform IP updates.",
     "apk": "https://f-droid.org/repo/fr.guillaumevillena.opendnsupdater_222.apk"
+  },
+  {
+    "name": "OpenDocument Reader - view ODT",
+    "description": "Document reader & file editor for Libreoffice & OpenOffice | ODF: ODT, ODS +more",
+    "apk": "https://f-droid.org/repo/at.tomtasche.reader_193.apk"
   },
   {
     "name": "OpenDrummer - Drum Loops",
@@ -12627,7 +12627,7 @@
   {
     "name": "PAIesque",
     "description": "A transparent, device-agnostic cardiovascular fitness and RHR tracker.",
-    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_28.apk"
+    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_29.apk"
   },
   {
     "name": "Pain Diary (PFA)",
@@ -12922,7 +12922,7 @@
   {
     "name": "PennyWise AI",
     "description": "Offline expense tracker from bank SMS with optional AI chat",
-    "apk": "https://f-droid.org/repo/com.pennywiseai.tracker_75.apk"
+    "apk": "https://f-droid.org/repo/com.pennywiseai.tracker_76.apk"
   },
   {
     "name": "Penroser",
@@ -13502,7 +13502,7 @@
   {
     "name": "Podcini.X - Podcast instrument",
     "description": "Modern, feature-rich, without access to Youtube",
-    "apk": "https://f-droid.org/repo/ac.mdiq.podcini.X_210.apk"
+    "apk": "https://f-droid.org/repo/ac.mdiq.podcini.X_211.apk"
   },
   {
     "name": "Podverse",
@@ -14262,7 +14262,7 @@
   {
     "name": "RailTrip",
     "description": "Travel through the train stations to stamp your visa!",
-    "apk": "https://f-droid.org/repo/fr.nocle.passegares_259.apk"
+    "apk": "https://f-droid.org/repo/fr.nocle.passegares_260.apk"
   },
   {
     "name": "Railway station photos",
@@ -14527,7 +14527,7 @@
   {
     "name": "Resticopia",
     "description": "Restic Backup Android App (Unofficial)",
-    "apk": "https://f-droid.org/repo/org.dydlakcloud.resticopia_11.apk"
+    "apk": "https://f-droid.org/repo/org.dydlakcloud.resticopia_12.apk"
   },
   {
     "name": "Resume Builder",
@@ -14707,7 +14707,7 @@
   {
     "name": "RomanDigital",
     "description": "Digital Clock App and Widget with Roman Numeral Display",
-    "apk": "https://f-droid.org/repo/net.diffengine.romandigitalclock_11.apk"
+    "apk": "https://f-droid.org/repo/net.diffengine.romandigitalclock_12.apk"
   },
   {
     "name": "Romanian for AnySoftKeyboard",
@@ -14922,7 +14922,7 @@
   {
     "name": "Saber",
     "description": "The notes app built for handwriting",
-    "apk": "https://f-droid.org/repo/com.adilhanney.saber_1280101.apk"
+    "apk": "https://f-droid.org/repo/com.adilhanney.saber_1280201.apk"
   },
   {
     "name": "SAF Media Scanner",
@@ -15787,7 +15787,7 @@
   {
     "name": "ShowCase",
     "description": "Explore and organize your personal collection of movies and shows",
-    "apk": "https://f-droid.org/repo/com.wirelessalien.android.moviedb_22.apk"
+    "apk": "https://f-droid.org/repo/com.wirelessalien.android.moviedb_24.apk"
   },
   {
     "name": "Shutdown",
@@ -17012,7 +17012,7 @@
   {
     "name": "Super Productivity",
     "description": "Free to do list & time tracker",
-    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1605040000.apk"
+    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1605050000.apk"
   },
   {
     "name": "Super Retro Mega Wars",
@@ -17177,7 +17177,7 @@
   {
     "name": "Table Habit",
     "description": "Boost your own habit growth with charts.",
-    "apk": "https://f-droid.org/repo/io.github.friesi23.mhabit_120.apk"
+    "apk": "https://f-droid.org/repo/io.github.friesi23.mhabit_125.apk"
   },
   {
     "name": "Tableau de bord Rolling",
@@ -18077,7 +18077,7 @@
   {
     "name": "Traffic Light",
     "description": "Track your internet usage in the status bar",
-    "apk": "https://f-droid.org/repo/com.leekleak.trafficlight_7.apk"
+    "apk": "https://f-droid.org/repo/com.leekleak.trafficlight_8.apk"
   },
   {
     "name": "Trail Sense",
@@ -18302,7 +18302,7 @@
   {
     "name": "Träwelldroid",
     "description": "Free check-in service for recording journeys in public transport",
-    "apk": "https://f-droid.org/repo/de.hbch.traewelling_203.apk"
+    "apk": "https://f-droid.org/repo/de.hbch.traewelling_204.apk"
   },
   {
     "name": "Tsacdop-Fork - Podcast Player",
@@ -18557,7 +18557,7 @@
   {
     "name": "UnderEat",
     "description": "Restaurant Organiser",
-    "apk": "https://f-droid.org/repo/com.zoffcc.applications.undereat_10020.apk"
+    "apk": "https://f-droid.org/repo/com.zoffcc.applications.undereat_10021.apk"
   },
   {
     "name": "Unexpected Keyboard",
@@ -19167,7 +19167,7 @@
   {
     "name": "WAFRN",
     "description": "The social network that respects you",
-    "apk": "https://f-droid.org/repo/dev.djara.wafrn_rn_10090011.apk"
+    "apk": "https://f-droid.org/repo/dev.djara.wafrn_rn_10090021.apk"
   },
   {
     "name": "WairToNow - Aviation Navigation",
