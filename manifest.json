@@ -2107,7 +2107,7 @@
   {
     "name": "Bold Bitcoin Wallet",
     "description": "Seedless, secure Bitcoin wallet using Threshold Signatures. ",
-    "apk": "https://f-droid.org/repo/com.boldwallet_6.apk"
+    "apk": "https://f-droid.org/repo/com.boldwallet_29.apk"
   },
   {
     "name": "BoltOn",
@@ -3135,6 +3135,11 @@
     "apk": "https://f-droid.org/repo/de.qspool.clementineremote_479.apk"
   },
   {
+    "name": "CleverKeys",
+    "description": "Open-source gesture keyboard with Termux support",
+    "apk": "https://f-droid.org/repo/tribixbite.cleverkeys_101711.apk"
+  },
+  {
     "name": "Click Switch",
     "description": "A game where you will have to hit the correct button.",
     "apk": "https://f-droid.org/repo/com.clicc_31.apk"
@@ -3302,7 +3307,7 @@
   {
     "name": "CoMaps - Hike, Bike, Drive Offline with Privacy",
     "description": "Easy map navigation - Discover more of your journey - Powered by the community",
-    "apk": "https://f-droid.org/repo/app.comaps.fdroid_25111902.apk"
+    "apk": "https://f-droid.org/repo/app.comaps.fdroid_25112504.apk"
   },
   {
     "name": "Comfort Reader",
@@ -3627,7 +3632,7 @@
   {
     "name": "Cuppa - Tea Timer",
     "description": "Cuppa is a small application to time your cup of tea as it steeps.",
-    "apk": "https://f-droid.org/repo/com.nathanatos.Cuppa_59.apk"
+    "apk": "https://f-droid.org/repo/com.nathanatos.Cuppa_60.apk"
   },
   {
     "name": "CUPS Printing",
@@ -4767,7 +4772,7 @@
   {
     "name": "DuressKeyboard",
     "description": "Keyboard that reacts to triggers and performs security actions",
-    "apk": "https://f-droid.org/repo/duress.keyboard_36.apk"
+    "apk": "https://f-droid.org/repo/duress.keyboard_38.apk"
   },
   {
     "name": "Dutch for AnySoftKeyboard",
@@ -5847,7 +5852,7 @@
   {
     "name": "Flare",
     "description": " All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP. ",
-    "apk": "https://f-droid.org/repo/dev.dimension.flare_1070.apk"
+    "apk": "https://f-droid.org/repo/dev.dimension.flare_1120.apk"
   },
   {
     "name": "FLARE",
@@ -5977,7 +5982,7 @@
   {
     "name": "floccus bookmark sync",
     "description": "Sync your bookmarks privately across browsers and devices",
-    "apk": "https://f-droid.org/repo/org.handmadeideas.floccus_5008000.apk"
+    "apk": "https://f-droid.org/repo/org.handmadeideas.floccus_5008001.apk"
   },
   {
     "name": "FLock",
@@ -6137,7 +6142,7 @@
   {
     "name": "Forkgram",
     "description": "Forkgram is a fork of the official Telegram for Android application.",
-    "apk": "https://f-droid.org/repo/org.forkgram.messenger_621107.apk"
+    "apk": "https://f-droid.org/repo/org.forkgram.messenger_629807.apk"
   },
   {
     "name": "Forkyz",
@@ -6642,7 +6647,7 @@
   {
     "name": "Geo Share",
     "description": "Open map links in other map apps and copy coordinates",
-    "apk": "https://f-droid.org/repo/page.ooooo.geoshare_27.apk"
+    "apk": "https://f-droid.org/repo/page.ooooo.geoshare_28.apk"
   },
   {
     "name": "GeoKrety Logger",
@@ -8112,7 +8117,7 @@
   {
     "name": "Janus",
     "description": "Contextual translations using Wikipedia's knowledge graph.",
-    "apk": "https://f-droid.org/repo/com.anysoftkeyboard.janus_2.apk"
+    "apk": "https://f-droid.org/repo/com.anysoftkeyboard.janus_3.apk"
   },
   {
     "name": "Japanese Name Converter",
@@ -8907,7 +8912,7 @@
   {
     "name": "LaundryNotes",
     "description": "Store washing information and symbols for all fabrics, making laundry easier!",
-    "apk": "https://f-droid.org/repo/org.eagsoftware.laundrynotes_1.apk"
+    "apk": "https://f-droid.org/repo/org.eagsoftware.laundrynotes_3.apk"
   },
   {
     "name": "Lavabit Encrypted Proxy",
@@ -11542,7 +11547,7 @@
   {
     "name": "Nora",
     "description": "Facebook, Instagram, Reddit, Threads and X in a single app. No ads.",
-    "apk": "https://f-droid.org/repo/jp.nonbili.nora_3703.apk"
+    "apk": "https://f-droid.org/repo/jp.nonbili.nora_3803.apk"
   },
   {
     "name": "Nori",
@@ -11912,7 +11917,7 @@
   {
     "name": "Oinkoin",
     "description": "Oinkoin Money Manager makes managing personal finances easy and secure.",
-    "apk": "https://f-droid.org/repo/com.github.emavgl.piggybankpro_6087001.apk"
+    "apk": "https://f-droid.org/repo/com.github.emavgl.piggybankpro_7096001.apk"
   },
   {
     "name": "Ojo RTSP IP Camera viewer",
@@ -12305,6 +12310,11 @@
     "apk": "https://f-droid.org/repo/com.example.openpass_1.apk"
   },
   {
+    "name": "OpenPhotoFrame",
+    "description": "Turn your old Android tablet into a beautiful digital photo frame.",
+    "apk": "https://f-droid.org/repo/io.github.micw.openphotoframe_41.apk"
+  },
+  {
     "name": "OpenPods",
     "description": "The Free and Open Source app for monitoring your AirPods on Android",
     "apk": "https://f-droid.org/repo/com.dosse.airpods_22.apk"
@@ -12642,7 +12652,7 @@
   {
     "name": "Padland",
     "description": "Padland is a tool to manage, share, remember and read collaborative documents ba",
-    "apk": "https://f-droid.org/repo/com.mikifus.padland_29.apk"
+    "apk": "https://f-droid.org/repo/com.mikifus.padland_30.apk"
   },
   {
     "name": "PAFCalc",
@@ -13182,7 +13192,7 @@
   {
     "name": "Pie Launcher",
     "description": "Control your phone with a dynamic pie menu instead of fixed positioned icons.",
-    "apk": "https://f-droid.org/repo/de.markusfisch.android.pielauncher_59.apk"
+    "apk": "https://f-droid.org/repo/de.markusfisch.android.pielauncher_60.apk"
   },
   {
     "name": "Piedmontese for AnySoftKeyboard",
@@ -13422,7 +13432,7 @@
   {
     "name": "Play Maker",
     "description": "Play or create your own platformer levels",
-    "apk": "https://f-droid.org/repo/nodomain.playmaker_13.apk"
+    "apk": "https://f-droid.org/repo/nodomain.playmaker_18.apk"
   },
   {
     "name": "Play Music Exporter",
@@ -14437,7 +14447,7 @@
   {
     "name": "Recurring Expense Tracker",
     "description": "Keep track of your monthly spending",
-    "apk": "https://f-droid.org/repo/de.dbauer.expensetracker_52.apk"
+    "apk": "https://f-droid.org/repo/de.dbauer.expensetracker_53.apk"
   },
   {
     "name": "Recursive Runner",
@@ -14582,7 +14592,7 @@
   {
     "name": "Resticopia",
     "description": "Restic Backup Android App (Unofficial)",
-    "apk": "https://f-droid.org/repo/org.dydlakcloud.resticopia_12.apk"
+    "apk": "https://f-droid.org/repo/org.dydlakcloud.resticopia_13.apk"
   },
   {
     "name": "Resume Builder",
@@ -17077,7 +17087,7 @@
   {
     "name": "Super Productivity",
     "description": "Free to do list & time tracker",
-    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1606000000.apk"
+    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1606010000.apk"
   },
   {
     "name": "Super Retro Mega Wars",
@@ -19457,7 +19467,7 @@
   {
     "name": "Webview Kiosk",
     "description": "Turn your Android device into a locked-down web page in fullscreen mode.",
-    "apk": "https://f-droid.org/repo/uk.nktnet.webviewkiosk_103.apk"
+    "apk": "https://f-droid.org/repo/uk.nktnet.webviewkiosk_104.apk"
   },
   {
     "name": "WECHANGE",
@@ -19752,7 +19762,7 @@
   {
     "name": "Working Time Account",
     "description": "Record working hours, generate and send reports (PDF, CSV and ICS)",
-    "apk": "https://f-droid.org/repo/askanimus.arbeitszeiterfassung2_211002.apk"
+    "apk": "https://f-droid.org/repo/askanimus.arbeitszeiterfassung2_211003.apk"
   },
   {
     "name": "Working Time Alert",
@@ -19867,7 +19877,7 @@
   {
     "name": "XDYou",
     "description": "Free and Open Source data assistant for XDU students.",
-    "apk": "https://f-droid.org/repo/io.github.benderblog.traintime_pda_301.apk"
+    "apk": "https://f-droid.org/repo/io.github.benderblog.traintime_pda_303.apk"
   },
   {
     "name": "Xearth",
@@ -19947,7 +19957,7 @@
   {
     "name": "Xtra",
     "description": "Third-party Twitch client",
-    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_311.apk"
+    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_312.apk"
   },
   {
     "name": "xvii messenger for vk",
