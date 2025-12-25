@@ -362,7 +362,7 @@
   {
     "name": "AFWall+",
     "description": "Control network traffic",
-    "apk": "https://f-droid.org/repo/dev.ukanth.ufirewall_20220615.apk"
+    "apk": "https://f-droid.org/repo/dev.ukanth.ufirewall_20230828.apk"
   },
   {
     "name": "AG Store",
@@ -1342,7 +1342,7 @@
   {
     "name": "Aves Libre",
     "description": "Gallery and metadata explorer",
-    "apk": "https://f-droid.org/repo/deckers.thibault.aves.libre_16001.apk"
+    "apk": "https://f-droid.org/repo/deckers.thibault.aves.libre_16101.apk"
   },
   {
     "name": "AVIF Viewer",
@@ -2232,7 +2232,7 @@
   {
     "name": "Breakout 71",
     "description": "Break colourful bricks, catch bouncing coins and select powerful upgrades !",
-    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29213022.apk"
+    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29353327.apk"
   },
   {
     "name": "Breathly",
@@ -2632,7 +2632,7 @@
   {
     "name": "Capy Reader",
     "description": "A smallish RSS reader",
-    "apk": "https://f-droid.org/repo/com.capyreader.app_1175.apk"
+    "apk": "https://f-droid.org/repo/com.capyreader.app_1178.apk"
   },
   {
     "name": "Car Bus Interface",
@@ -2801,8 +2801,8 @@
   },
   {
     "name": "Cfait",
-    "description": "Powerful, fast and elegant CalDAV task manager.",
-    "apk": "https://f-droid.org/repo/com.cfait_305.apk"
+    "description": "Powerful, fast and elegant CalDAV task / TODO manager.",
+    "apk": "https://f-droid.org/repo/com.cfait_307.apk"
   },
   {
     "name": "Chairlock",
@@ -3322,7 +3322,7 @@
   {
     "name": "Commons",
     "description": "Upload images to wikimedia.org",
-    "apk": "https://f-droid.org/repo/fr.free.nrw.commons_1057.apk"
+    "apk": "https://f-droid.org/repo/fr.free.nrw.commons_1058.apk"
   },
   {
     "name": "Community compass",
@@ -5427,7 +5427,7 @@
   {
     "name": "FaFa Runner",
     "description": "Enjoy smooth gameplay, stunning graphics, and endless fun",
-    "apk": "https://f-droid.org/repo/com.chenyifaer.fafarunner_385.apk"
+    "apk": "https://f-droid.org/repo/com.chenyifaer.fafarunner_386.apk"
   },
   {
     "name": "Fahrraddiebstahlwarnung",
@@ -5532,7 +5532,7 @@
   {
     "name": "FastTrack",
     "description": "Track what your body is doing while fasting",
-    "apk": "https://f-droid.org/repo/com.darkrockstudios.apps.fasttrack_31.apk"
+    "apk": "https://f-droid.org/repo/com.darkrockstudios.apps.fasttrack_32.apk"
   },
   {
     "name": "Fate Sheets",
@@ -6292,7 +6292,7 @@
   {
     "name": "FossWallet",
     "description": "FossWallet is a MDY Wallet for Apple Passbook (.pkpass) files",
-    "apk": "https://f-droid.org/repo/nz.eloque.foss_wallet_86.apk"
+    "apk": "https://f-droid.org/repo/nz.eloque.foss_wallet_87.apk"
   },
   {
     "name": "Foto Timer",
@@ -7132,7 +7132,7 @@
   {
     "name": "Guileless Bopomofo Keyboard",
     "description": "A simple Bopomofo software keyboard (input method editor) for typing Hanyu",
-    "apk": "https://f-droid.org/repo/org.ghostsinthelab.apps.guilelessbopomofo_189.apk"
+    "apk": "https://f-droid.org/repo/org.ghostsinthelab.apps.guilelessbopomofo_191.apk"
   },
   {
     "name": "GuitarFretboardTrainer",
@@ -7762,7 +7762,7 @@
   {
     "name": "Imagepipe",
     "description": "removes exif data and modifies images to reduce size before sharing.",
-    "apk": "https://f-droid.org/repo/de.kaffeemitkoffein.imagepipe_51.apk"
+    "apk": "https://f-droid.org/repo/de.kaffeemitkoffein.imagepipe_52.apk"
   },
   {
     "name": "ImapNotes3",
@@ -8237,7 +8237,7 @@
   {
     "name": "Joplin",
     "description": "A note taking and to-do app with sync between Linux, macOS, Windows, and mobile",
-    "apk": "https://f-droid.org/repo/net.cozic.joplin_2097779.apk"
+    "apk": "https://f-droid.org/repo/net.cozic.joplin_2097780.apk"
   },
   {
     "name": "Journal",
@@ -8762,7 +8762,7 @@
   {
     "name": "Kvaesitso",
     "description": "A search-focused, free and open source launcher for Android",
-    "apk": "https://f-droid.org/repo/de.mm20.launcher2.release_2025050301.apk"
+    "apk": "https://f-droid.org/repo/de.mm20.launcher2.release_2025070400.apk"
   },
   {
     "name": "Kwaak3",
@@ -9792,7 +9792,7 @@
   {
     "name": "Materialious",
     "description": "Modern material design for Invidious",
-    "apk": "https://f-droid.org/repo/us.materialio.app_176.apk"
+    "apk": "https://f-droid.org/repo/us.materialio.app_177.apk"
   },
   {
     "name": "MaterialOS",
@@ -10007,7 +10007,7 @@
   {
     "name": "MedTimer",
     "description": "Med reminders and history with full offline privacy",
-    "apk": "https://f-droid.org/repo/com.futsch1.medtimer_142.apk"
+    "apk": "https://f-droid.org/repo/com.futsch1.medtimer_143.apk"
   },
   {
     "name": "Meerkat Challenge",
@@ -12627,7 +12627,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_198.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_199.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -12687,7 +12687,7 @@
   {
     "name": "PAIesque",
     "description": "A transparent, device-agnostic cardiovascular fitness and RHR tracker.",
-    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_31.apk"
+    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_32.apk"
   },
   {
     "name": "Pain Diary (PFA)",
@@ -14062,7 +14062,7 @@
   {
     "name": "Qalculate!",
     "description": "Powerful and versatile multi-purpose calculator",
-    "apk": "https://f-droid.org/repo/com.jherkenhoff.qalculate_21.apk"
+    "apk": "https://f-droid.org/repo/com.jherkenhoff.qalculate_31.apk"
   },
   {
     "name": "qBitController",
@@ -14237,7 +14237,7 @@
   {
     "name": "Quitter",
     "description": "Give up on addictions and become a Quitter",
-    "apk": "https://f-droid.org/repo/com.quitter.app_1013.apk"
+    "apk": "https://f-droid.org/repo/com.quitter.app_1021.apk"
   },
   {
     "name": "Quote Unquote",
@@ -14597,7 +14597,7 @@
   {
     "name": "Resticopia",
     "description": "Restic Backup Android App (Unofficial)",
-    "apk": "https://f-droid.org/repo/org.dydlakcloud.resticopia_13.apk"
+    "apk": "https://f-droid.org/repo/org.dydlakcloud.resticopia_14.apk"
   },
   {
     "name": "Resume Builder",
@@ -16447,7 +16447,7 @@
   {
     "name": "SnapSaver",
     "description": "An app to quickly take photos and organize them into specified directories.",
-    "apk": "https://f-droid.org/repo/lying.fengfeng.snapsaver_8.apk"
+    "apk": "https://f-droid.org/repo/lying.fengfeng.snapsaver_9.apk"
   },
   {
     "name": "Snikket",
@@ -18652,7 +18652,7 @@
   {
     "name": "UnderEat",
     "description": "Restaurant Organiser",
-    "apk": "https://f-droid.org/repo/com.zoffcc.applications.undereat_10022.apk"
+    "apk": "https://f-droid.org/repo/com.zoffcc.applications.undereat_10023.apk"
   },
   {
     "name": "Unexpected Keyboard",
@@ -19472,7 +19472,7 @@
   {
     "name": "Webview Kiosk",
     "description": "Turn your Android device into a locked-down web page in fullscreen mode.",
-    "apk": "https://f-droid.org/repo/uk.nktnet.webviewkiosk_105.apk"
+    "apk": "https://f-droid.org/repo/uk.nktnet.webviewkiosk_106.apk"
   },
   {
     "name": "WECHANGE",
@@ -19502,7 +19502,7 @@
   {
     "name": "wger Workout Manager",
     "description": "Fitness/workout, nutrition and weight tracker",
-    "apk": "https://f-droid.org/repo/de.wger.flutter_110.apk"
+    "apk": "https://f-droid.org/repo/de.wger.flutter_120.apk"
   },
   {
     "name": "WhatExp",
@@ -19580,9 +19580,9 @@
     "apk": "https://f-droid.org/repo/org.woheller69.whobird_48.apk"
   },
   {
-    "name": "WHPH",
+    "name": "WHPH - Work Hard Play Hard",
     "description": "Productivity app for task management, habit tracking and time optimization",
-    "apk": "https://f-droid.org/repo/me.ahmetcetinkaya.whph_62.apk"
+    "apk": "https://f-droid.org/repo/me.ahmetcetinkaya.whph_64.apk"
   },
   {
     "name": "Wi-Fi Privacy Police",
