@@ -82,7 +82,7 @@
   {
     "name": "8-Bit Wonders",
     "description": "Flexible and easy to use Commodore 8-bit emulation with builtin games",
-    "apk": "https://f-droid.org/repo/de.rainerhock.eightbitwonders_100074.apk"
+    "apk": "https://f-droid.org/repo/de.rainerhock.eightbitwonders_100075.apk"
   },
   {
     "name": "8Vim Keyboard",
@@ -1037,22 +1037,22 @@
   {
     "name": "Arcticons",
     "description": "A monotone line-based icon pack for dark themed setups.",
-    "apk": "https://f-droid.org/repo/com.donnnno.arcticons_1460.apk"
+    "apk": "https://f-droid.org/repo/com.donnnno.arcticons_1470.apk"
   },
   {
     "name": "Arcticons Black",
     "description": "A monotone line-based icon pack for light themed setups.",
-    "apk": "https://f-droid.org/repo/com.donnnno.arcticons.light_1460.apk"
+    "apk": "https://f-droid.org/repo/com.donnnno.arcticons.light_1470.apk"
   },
   {
     "name": "Arcticons Day & Night",
     "description": "A monotone line-based icon pack for dark & light themed setups.",
-    "apk": "https://f-droid.org/repo/com.donnnno.arcticons.daynight_1460.apk"
+    "apk": "https://f-droid.org/repo/com.donnnno.arcticons.daynight_1470.apk"
   },
   {
     "name": "Arcticons Material You",
     "description": "A line-based icon pack with a Material You color palette.",
-    "apk": "https://f-droid.org/repo/com.donnnno.arcticons.you_1460.apk"
+    "apk": "https://f-droid.org/repo/com.donnnno.arcticons.you_1470.apk"
   },
   {
     "name": "Aria for Misskey",
@@ -2776,8 +2776,8 @@
   },
   {
     "name": "CClauncher",
-    "description": "Minimal launcher that hides apps by default to reduce distractions. Rewrite of C",
-    "apk": "https://f-droid.org/repo/app.cclauncher_927.apk"
+    "description": "Minimal home launcher that hides apps by default to reduce distractions",
+    "apk": "https://f-droid.org/repo/app.cclauncher_977.apk"
   },
   {
     "name": "CDLC Player",
@@ -3137,7 +3137,7 @@
   {
     "name": "CleverKeys",
     "description": "Open-source gesture keyboard with Termux support",
-    "apk": "https://f-droid.org/repo/tribixbite.cleverkeys_101721.apk"
+    "apk": "https://f-droid.org/repo/tribixbite.cleverkeys_101771.apk"
   },
   {
     "name": "Click Switch",
@@ -3313,6 +3313,11 @@
     "name": "Comfort Reader",
     "description": "Streams text directly to your eyes",
     "apk": "https://f-droid.org/repo/com.mschlauch.comfortreader_11.apk"
+  },
+  {
+    "name": "ComfyChair",
+    "description": "Native Android client for ComfyUI - generate AI images and videos on mobile",
+    "apk": "https://f-droid.org/repo/sh.hnet.comfychair_31.apk"
   },
   {
     "name": "Comics Reader",
@@ -7247,7 +7252,7 @@
   {
     "name": "Hammer",
     "description": "A simple tool for building stories.",
-    "apk": "https://f-droid.org/repo/com.darkrockstudios.apps.hammer.android_112030000.apk"
+    "apk": "https://f-droid.org/repo/com.darkrockstudios.apps.hammer.android_112050000.apk"
   },
   {
     "name": "HAMtrainer",
@@ -8237,7 +8242,7 @@
   {
     "name": "JMP SIM Manager",
     "description": "Companion app for the JMP eSIM Adapter",
-    "apk": "https://f-droid.org/repo/chat.jmp.simmanager_285.apk"
+    "apk": "https://f-droid.org/repo/chat.jmp.simmanager_287.apk"
   },
   {
     "name": "Joplin",
@@ -9117,7 +9122,7 @@
   {
     "name": "Librera Reader",
     "description": "Book and PDF reader",
-    "apk": "https://f-droid.org/repo/com.foobnix.pro.pdf.reader_6458.apk"
+    "apk": "https://f-droid.org/repo/com.foobnix.pro.pdf.reader_6506.apk"
   },
   {
     "name": "LibreRandonaut",
@@ -9662,7 +9667,7 @@
   {
     "name": "MakeACopy",
     "description": "Privacy-focused document scanner with OCR and PDF export",
-    "apk": "https://f-droid.org/repo/de.schliweb.makeacopy_201012.apk"
+    "apk": "https://f-droid.org/repo/de.schliweb.makeacopy_202021.apk"
   },
   {
     "name": "MakeACopy – OCR Latin (Best)",
