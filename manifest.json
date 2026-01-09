@@ -2176,7 +2176,7 @@
   },
   {
     "name": "boQwI'",
-    "description": "Lexicon dictionary for the Klingon language",
+    "description": null,
     "apk": "https://f-droid.org/repo/org.tlhInganHol.android.klingonassistant_567.apk"
   },
   {
@@ -7897,7 +7897,7 @@
   {
     "name": "Infomaniak Mail",
     "description": "The secure messaging service for your emails",
-    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12200001.apk"
+    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12200102.apk"
   },
   {
     "name": "Information about NCBS",
@@ -10777,7 +10777,7 @@
   {
     "name": "MsgGo",
     "description": "Open source, lightweight, and modern bulk SMS tool for Android.",
-    "apk": "https://f-droid.org/repo/top.yztz.msggo_26000301.apk"
+    "apk": "https://f-droid.org/repo/top.yztz.msggo_26000302.apk"
   },
   {
     "name": "MSnake",
@@ -11612,7 +11612,7 @@
   {
     "name": "Nora",
     "description": "Facebook, Instagram, Reddit, Threads and X in a single app. No ads.",
-    "apk": "https://f-droid.org/repo/jp.nonbili.nora_4003.apk"
+    "apk": "https://f-droid.org/repo/jp.nonbili.nora_4103.apk"
   },
   {
     "name": "Nori",
@@ -12497,7 +12497,7 @@
   {
     "name": "OpenVPN for Android",
     "description": "OpenVPN without root",
-    "apk": "https://f-droid.org/repo/de.blinkt.openvpn_214.apk"
+    "apk": "https://f-droid.org/repo/de.blinkt.openvpn_216.apk"
   },
   {
     "name": "OpenWebWeaver",
@@ -14322,7 +14322,7 @@
   {
     "name": "Quitter",
     "description": "Give up on addictions and become a Quitter",
-    "apk": "https://f-droid.org/repo/com.quitter.app_1033.apk"
+    "apk": "https://f-droid.org/repo/com.quitter.app_1041.apk"
   },
   {
     "name": "Quote Unquote",
@@ -15726,7 +15726,7 @@
   },
   {
     "name": "SFTP-SAF",
-    "description": "SAF documents provider for SFTP. Browse SFTP server in your file browser.",
+    "description": "Browse SFTP server in your file manager",
     "apk": "https://f-droid.org/repo/lu.knaff.alain.saf_sftp_203.apk"
   },
   {
@@ -16347,7 +16347,7 @@
   {
     "name": "SleepTimer",
     "description": "Timer, which activates the devices standby mode",
-    "apk": "https://f-droid.org/repo/com.sleeptimer_6.apk"
+    "apk": "https://f-droid.org/repo/com.sleeptimer_7.apk"
   },
   {
     "name": "SleepyWifi",
@@ -19555,9 +19555,9 @@
     "apk": "https://f-droid.org/repo/org.dyndns.warenix.web2pdf_66.apk"
   },
   {
-    "name": "WebLibre: Private Browser",
-    "description": "Browse privately, search locally. Organize tabs, block tracking, and use Tor.",
-    "apk": "https://f-droid.org/repo/eu.weblibre.gecko_233.apk"
+    "name": "WebLibre: The Privacy-Focused Browser",
+    "description": "Privacy-focused browser with local AI, advanced tab management, personal search,",
+    "apk": "https://f-droid.org/repo/eu.weblibre.gecko_313.apk"
   },
   {
     "name": "Webmon",
