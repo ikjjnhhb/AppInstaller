@@ -1267,7 +1267,7 @@
   {
     "name": "Authnkey",
     "description": "Passkey credential provider for hardware security keys",
-    "apk": "https://f-droid.org/repo/pl.lebihan.authnkey_3.apk"
+    "apk": "https://f-droid.org/repo/pl.lebihan.authnkey_4.apk"
   },
   {
     "name": "Authorizer",
@@ -11307,7 +11307,7 @@
   {
     "name": "NewPipe",
     "description": "Lightweight YouTube frontend",
-    "apk": "https://f-droid.org/repo/org.schabi.newpipe_1002.apk"
+    "apk": "https://f-droid.org/repo/org.schabi.newpipe_1003.apk"
   },
   {
     "name": "News",
@@ -11913,11 +11913,6 @@
     "name": "Oblique Strategies",
     "description": "Over one hundred worthwhile dilemmas",
     "apk": "https://f-droid.org/repo/garden.lina.oblique_strategies_1.apk"
-  },
-  {
-    "name": "Oblivion",
-    "description": "Remote lock and wipe triggers for compromised or unattended devices.",
-    "apk": "https://f-droid.org/repo/app.oblivion.wipe_40.apk"
   },
   {
     "name": "OBS Blade",
@@ -14822,7 +14817,7 @@
   {
     "name": "Ricochlime",
     "description": "Satisfying monster shooter",
-    "apk": "https://f-droid.org/repo/com.adilhanney.ricochlime_1111101.apk"
+    "apk": "https://f-droid.org/repo/com.adilhanney.ricochlime_1111301.apk"
   },
   {
     "name": "RidgeScout",
