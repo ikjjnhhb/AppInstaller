@@ -332,7 +332,7 @@
   {
     "name": "AF Weather Widget",
     "description": "Graph weather widget for Android",
-    "apk": "https://f-droid.org/repo/net.gitsaibot.af_20.apk"
+    "apk": "https://f-droid.org/repo/net.gitsaibot.af_21.apk"
   },
   {
     "name": "AFH Downloader",
@@ -412,7 +412,7 @@
   {
     "name": "Aisleron Shopping List",
     "description": "Aisleron: Fly through the shops!",
-    "apk": "https://f-droid.org/repo/com.aisleron_14.apk"
+    "apk": "https://f-droid.org/repo/com.aisleron_16.apk"
   },
   {
     "name": "Aiyo",
@@ -1502,7 +1502,7 @@
   {
     "name": "baresip",
     "description": "VoIP User Agent app for Android based on baresip SIP library",
-    "apk": "https://f-droid.org/repo/com.tutpro.baresip_469.apk"
+    "apk": "https://f-droid.org/repo/com.tutpro.baresip_470.apk"
   },
   {
     "name": "baresip+",
@@ -2247,7 +2247,7 @@
   {
     "name": "Breakout 71",
     "description": "Break colourful bricks, catch bouncing coins and select powerful upgrades !",
-    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29441323.apk"
+    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29452887.apk"
   },
   {
     "name": "Breathly",
@@ -3082,7 +3082,7 @@
   {
     "name": "Citrine",
     "description": "Nostr relay for Android",
-    "apk": "https://f-droid.org/repo/com.greenart7c3.citrine_49.apk"
+    "apk": "https://f-droid.org/repo/com.greenart7c3.citrine_51.apk"
   },
   {
     "name": "CityZen",
@@ -3102,7 +3102,7 @@
   {
     "name": "Clash Meta For Android",
     "description": "A rule-based tunnel",
-    "apk": "https://f-droid.org/repo/com.github.metacubex.clash.meta_211015.apk"
+    "apk": "https://f-droid.org/repo/com.github.metacubex.clash.meta_211016.apk"
   },
   {
     "name": "Classic PC Theme",
@@ -3352,7 +3352,7 @@
   {
     "name": "ComfyChair",
     "description": "Native Android client for ComfyUI - generate AI images and videos on mobile",
-    "apk": "https://f-droid.org/repo/sh.hnet.comfychair_34.apk"
+    "apk": "https://f-droid.org/repo/sh.hnet.comfychair_35.apk"
   },
   {
     "name": "Comics Reader",
@@ -4032,7 +4032,7 @@
   {
     "name": "Deepr",
     "description": "Simplify link handling. Save, organize, and open links with ease.",
-    "apk": "https://f-droid.org/repo/com.yogeshpaliyal.deepr_19.apk"
+    "apk": "https://f-droid.org/repo/com.yogeshpaliyal.deepr_20.apk"
   },
   {
     "name": "Defendo",
@@ -6247,7 +6247,7 @@
   {
     "name": "FOSDEM Companion",
     "description": "Schedule browser for the FOSDEM conference",
-    "apk": "https://f-droid.org/repo/be.digitalia.fosdem_2100227.apk"
+    "apk": "https://f-droid.org/repo/be.digitalia.fosdem_2100228.apk"
   },
   {
     "name": "FOSS Browser",
@@ -7322,7 +7322,7 @@
   {
     "name": "Hammer",
     "description": "A simple tool for building stories.",
-    "apk": "https://f-droid.org/repo/com.darkrockstudios.apps.hammer.android_114010000.apk"
+    "apk": "https://f-droid.org/repo/com.darkrockstudios.apps.hammer.android_200020000.apk"
   },
   {
     "name": "HAMtrainer",
@@ -8085,7 +8085,7 @@
     "apk": "https://f-droid.org/repo/org.ligi.ipfsdroid_5.apk"
   },
   {
-    "name": "IR Blaster",
+    "name": "IR Blaster Remote",
     "description": "Turn your Android into an IR remote: hex/raw/Flipper Zero .ir + Signal Tester",
     "apk": "https://f-droid.org/repo/org.nslabs.ir_blaster_17.apk"
   },
@@ -8562,7 +8562,7 @@
   {
     "name": "KeePassDX Passkey Vault",
     "description": "Manage Passkey / Password in a local and open-source vault",
-    "apk": "https://f-droid.org/repo/com.kunzisoft.keepass.libre_149.apk"
+    "apk": "https://f-droid.org/repo/com.kunzisoft.keepass.libre_151.apk"
   },
   {
     "name": "KeePassVault",
@@ -10077,7 +10077,7 @@
   {
     "name": "Medic Log",
     "description": "A simple and easy to use personal medical notes",
-    "apk": "https://f-droid.org/repo/m.co.rh.id.a_medic_log_20.apk"
+    "apk": "https://f-droid.org/repo/m.co.rh.id.a_medic_log_21.apk"
   },
   {
     "name": "Medical Calendarlog",
@@ -10692,7 +10692,7 @@
   {
     "name": "MonsterMusic",
     "description": "A Music Player with Equalizer and more",
-    "apk": "https://f-droid.org/repo/com.ztftrue.music_63.apk"
+    "apk": "https://f-droid.org/repo/com.ztftrue.music_64.apk"
   },
   {
     "name": "Month Calendar Widget",
@@ -11062,7 +11062,7 @@
   {
     "name": "My Quran - قرآني",
     "description": "A lightweight, offline Quran reading app",
-    "apk": "https://f-droid.org/repo/com.dmouayad.my_quran_92.apk"
+    "apk": "https://f-droid.org/repo/com.dmouayad.my_quran_102.apk"
   },
   {
     "name": "My Wifi Passwords",
@@ -11402,7 +11402,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260114.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260115.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -11493,6 +11493,11 @@
     "name": "NFC Quick Settings",
     "description": "View NFC status, and quickly access NFC settings, from the Quick Settings menu",
     "apk": "https://f-droid.org/repo/au.id.colby.nfcquicksettings_17.apk"
+  },
+  {
+    "name": "NFC Radio",
+    "description": "Simple NFC audio player to start playback with NFC tags",
+    "apk": "https://f-droid.org/repo/com.trapplab.nfc_radio_801.apk"
   },
   {
     "name": "NFC Reader",
@@ -12625,9 +12630,9 @@
     "apk": "https://f-droid.org/repo/orbitlivewallpaperfree.puzzleduck.com_1.apk"
   },
   {
-    "name": "Organic Maps: Hike, Bike, Drive Offline",
-    "description": "Navigate with Privacy - Community-Driven & Open-Source",
-    "apk": "https://f-droid.org/repo/app.organicmaps_25121613.apk"
+    "name": "Organic Maps・Offline Map & GPS",
+    "description": "Get reliable offline maps with GPS navigation for hiking, cycling, and travel.",
+    "apk": "https://f-droid.org/repo/app.organicmaps_25121616.apk"
   },
   {
     "name": "Orgro",
@@ -12787,7 +12792,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_201.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_202.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -12832,7 +12837,7 @@
   {
     "name": "Pagan",
     "description": "A Mobile Music Sequencer",
-    "apk": "https://f-droid.org/repo/com.qfs.pagan_134.apk"
+    "apk": "https://f-droid.org/repo/com.qfs.pagan_135.apk"
   },
   {
     "name": "Page",
@@ -14057,7 +14062,7 @@
   {
     "name": "Privacy Flip",
     "description": "Manage your device privacy based on lock/unlock state",
-    "apk": "https://f-droid.org/repo/io.github.dorumrr.privacyflip_19.apk"
+    "apk": "https://f-droid.org/repo/io.github.dorumrr.privacyflip_20.apk"
   },
   {
     "name": "Privacy Helper",
@@ -17177,7 +17182,7 @@
   {
     "name": "Street­Complete",
     "description": "OpenStreetMap surveyor app",
-    "apk": "https://f-droid.org/repo/de.westnordost.streetcomplete_6200.apk"
+    "apk": "https://f-droid.org/repo/de.westnordost.streetcomplete_6201.apk"
   },
   {
     "name": "Stride",
@@ -18407,7 +18412,7 @@
   {
     "name": "Trail Sense",
     "description": "Use your phone's sensors to assist with wilderness treks",
-    "apk": "https://f-droid.org/repo/com.kylecorry.trail_sense_137.apk"
+    "apk": "https://f-droid.org/repo/com.kylecorry.trail_sense_136.apk"
   },
   {
     "name": "Trailence",
