@@ -3797,7 +3797,7 @@
   {
     "name": "Daily You",
     "description": "Every day is worth remembering…",
-    "apk": "https://f-droid.org/repo/com.demizo.daily_you_20150003.apk"
+    "apk": "https://f-droid.org/repo/com.demizo.daily_you_20160001.apk"
   },
   {
     "name": "DailyAL",
@@ -6017,7 +6017,7 @@
   {
     "name": "Flip 2 DND",
     "description": "Toggle Do Not Disturb mode by flipping your phone face down",
-    "apk": "https://f-droid.org/repo/dev.robin.flip_2_dnd_801.apk"
+    "apk": "https://f-droid.org/repo/dev.robin.flip_2_dnd_900.apk"
   },
   {
     "name": "Flip a coin",
@@ -6102,7 +6102,7 @@
   {
     "name": "Flux News",
     "description": "Newsreader for miniflux backend",
-    "apk": "https://f-droid.org/repo/de.circle_dev.flux_news_2025101911.apk"
+    "apk": "https://f-droid.org/repo/de.circle_dev.flux_news_2025102411.apk"
   },
   {
     "name": "Flying Carpet",
@@ -9902,7 +9902,7 @@
   {
     "name": "Materialious",
     "description": "Modern material design for Invidious",
-    "apk": "https://f-droid.org/repo/us.materialio.app_180.apk"
+    "apk": "https://f-droid.org/repo/us.materialio.app_185.apk"
   },
   {
     "name": "MaterialOS",
@@ -10942,7 +10942,7 @@
   {
     "name": "Muse - Text to Speech",
     "description": "Convert text to natural-speaking audio with custom voices and pauses",
-    "apk": "https://f-droid.org/repo/io.github.kkoshin.muse_3.apk"
+    "apk": "https://f-droid.org/repo/io.github.kkoshin.muse_4.apk"
   },
   {
     "name": "Musekit",
@@ -11377,7 +11377,7 @@
   {
     "name": "Nextcloud",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.client_30340190.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.client_30350053.apk"
   },
   {
     "name": "Nextcloud Bookmarks",
@@ -15192,7 +15192,7 @@
   {
     "name": "Saber",
     "description": "The notes app built for handwriting",
-    "apk": "https://f-droid.org/repo/com.adilhanney.saber_1290201.apk"
+    "apk": "https://f-droid.org/repo/com.adilhanney.saber_1290301.apk"
   },
   {
     "name": "SAF Media Scanner",
