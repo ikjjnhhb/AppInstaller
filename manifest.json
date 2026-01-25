@@ -767,7 +767,7 @@
   {
     "name": "ANeko Reborn",
     "description": "A modern remake of Neko—your classic desktop cat pet on Android.",
-    "apk": "https://f-droid.org/repo/org.nqmgaming.aneko_18.apk"
+    "apk": "https://f-droid.org/repo/org.nqmgaming.aneko_19.apk"
   },
   {
     "name": "Anemo",
@@ -1391,7 +1391,7 @@
   },
   {
     "name": "Baby Name",
-    "description": "Findout your future baby name",
+    "description": "Search for baby names in a collection +10000 names organized by genre and origin",
     "apk": "https://f-droid.org/repo/fr.hnit.babyname_202.apk"
   },
   {
@@ -2387,7 +2387,7 @@
   {
     "name": "Butterfly",
     "description": "Powerful, minimalistic, cross-platform, opensource note-taking app",
-    "apk": "https://f-droid.org/repo/dev.linwood.butterfly_151.apk"
+    "apk": "https://f-droid.org/repo/dev.linwood.butterfly_157.apk"
   },
   {
     "name": "BVD",
@@ -2807,7 +2807,7 @@
   {
     "name": "CClauncher",
     "description": "Minimal home launcher that hides apps by default to reduce distractions",
-    "apk": "https://f-droid.org/repo/app.cclauncher_1047.apk"
+    "apk": "https://f-droid.org/repo/app.cclauncher_1087.apk"
   },
   {
     "name": "CDLC Player",
@@ -2828,11 +2828,6 @@
     "name": "CEToolbox",
     "description": "Medical tool",
     "apk": "https://f-droid.org/repo/com.github.cetoolbox_15.apk"
-  },
-  {
-    "name": "Cfait",
-    "description": "Powerful, fast and elegant TODO / task manager. (CalDAV and local)",
-    "apk": "https://f-droid.org/repo/com.cfait_400.apk"
   },
   {
     "name": "Cfait",
@@ -3177,7 +3172,7 @@
   {
     "name": "CleverKeys",
     "description": "Open-source gesture keyboard with Termux support",
-    "apk": "https://f-droid.org/repo/tribixbite.cleverkeys_102011.apk"
+    "apk": "https://f-droid.org/repo/tribixbite.cleverkeys_102021.apk"
   },
   {
     "name": "Click Switch",
@@ -4447,7 +4442,7 @@
   {
     "name": "DobbyVPN",
     "description": "VPN client-side toolset.",
-    "apk": "https://f-droid.org/repo/com.dobby.vpn_1001000.apk"
+    "apk": "https://f-droid.org/repo/com.dobby.vpn_1001001.apk"
   },
   {
     "name": "Dockeep: Pocket for Files",
@@ -6547,7 +6542,7 @@
   {
     "name": "Fulguris Web Browser",
     "description": "Fast, customizable with sessions, ad blocking & privacy features",
-    "apk": "https://f-droid.org/repo/net.slions.fulguris.full.fdroid_255.apk"
+    "apk": "https://f-droid.org/repo/net.slions.fulguris.full.fdroid_256.apk"
   },
   {
     "name": "Full colemak",
@@ -6987,7 +6982,7 @@
   {
     "name": "Goguma",
     "description": "An IRC client for mobile devices",
-    "apk": "https://f-droid.org/repo/fr.emersion.goguma_1079.apk"
+    "apk": "https://f-droid.org/repo/fr.emersion.goguma_1206.apk"
   },
   {
     "name": "GoL Screensaver",
@@ -7102,7 +7097,7 @@
   {
     "name": "GraphHopper Maps",
     "description": "Online route planner and experimental GPS navigation",
-    "apk": "https://f-droid.org/repo/com.graphhopper.maps_19.apk"
+    "apk": "https://f-droid.org/repo/com.graphhopper.maps_20.apk"
   },
   {
     "name": "Gravity Defied",
@@ -7377,7 +7372,7 @@
   {
     "name": "Harp",
     "description": "Private Health Record Application",
-    "apk": "https://f-droid.org/repo/xyz.lepisma.harp_12.apk"
+    "apk": "https://f-droid.org/repo/xyz.lepisma.harp_13.apk"
   },
   {
     "name": "Hash Droid",
@@ -7867,7 +7862,7 @@
   {
     "name": "Immich Uploader",
     "description": "App that can upload media files to your Immich instance.",
-    "apk": "https://f-droid.org/repo/com.exner.tools.immichuploader_5.apk"
+    "apk": "https://f-droid.org/repo/com.exner.tools.immichuploader_6.apk"
   },
   {
     "name": "Impress Remote",
@@ -8227,7 +8222,7 @@
   {
     "name": "Jass board",
     "description": "Very flexible Jass board to write points at the Schieber, Coiffeur, Molotov.",
-    "apk": "https://f-droid.org/repo/ch.simonste.jasstafel_69.apk"
+    "apk": "https://f-droid.org/repo/ch.simonste.jasstafel_70.apk"
   },
   {
     "name": "Java installer",
@@ -8737,7 +8732,7 @@
   {
     "name": "Komelia",
     "description": "Komga media client",
-    "apk": "https://f-droid.org/repo/io.github.snd_r.komelia_10.apk"
+    "apk": "https://f-droid.org/repo/io.github.snd_r.komelia_15.apk"
   },
   {
     "name": "Komodo Wallet",
@@ -9366,8 +9361,8 @@
   },
   {
     "name": "Linux Command Library",
-    "description": "7896 manual pages, 22 basic categories and a bunch of general terminal tips.",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_121.apk"
+    "description": "4299 manual pages, 23 basic categories and a bunch of general terminal tips.",
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_122.apk"
   },
   {
     "name": "Linux Counter Updater",
@@ -9377,7 +9372,7 @@
   {
     "name": "Linwood Butterfly Nightly",
     "description": "Powerful, minimalistic, cross-platform, opensource note-taking app",
-    "apk": "https://f-droid.org/repo/dev.linwood.butterfly.nightly_162.apk"
+    "apk": "https://f-droid.org/repo/dev.linwood.butterfly.nightly_163.apk"
   },
   {
     "name": "Linwood Flow Nightly",
@@ -9397,7 +9392,7 @@
   {
     "name": "Lissen: Audiobookshelf client",
     "description": "Clean Audiobookshelf Player",
-    "apk": "https://f-droid.org/repo/org.grakovne.lissen_10803.apk"
+    "apk": "https://f-droid.org/repo/org.grakovne.lissen_10805.apk"
   },
   {
     "name": "List My Apps",
@@ -9757,7 +9752,7 @@
   {
     "name": "MakeACopy",
     "description": "Privacy-focused document scanner with OCR and PDF export",
-    "apk": "https://f-droid.org/repo/de.schliweb.makeacopy_203011.apk"
+    "apk": "https://f-droid.org/repo/de.schliweb.makeacopy_204001.apk"
   },
   {
     "name": "MakeACopy – OCR Latin (Best)",
@@ -9922,7 +9917,7 @@
   {
     "name": "Mattermost Beta",
     "description": "Secure, self-hosted workplace messaging",
-    "apk": "https://f-droid.org/repo/com.mattermost.rnbeta_68504.apk"
+    "apk": "https://f-droid.org/repo/com.mattermost.rnbeta_69301.apk"
   },
   {
     "name": "Mauth",
@@ -10082,7 +10077,7 @@
   {
     "name": "Medical Calendarlog",
     "description": "Privacy-focused medical event tracking using your device's calendar system",
-    "apk": "https://f-droid.org/repo/de.ntdote.medicalcalendarlog_38.apk"
+    "apk": "https://f-droid.org/repo/de.ntdote.medicalcalendarlog_40.apk"
   },
   {
     "name": "MedicLog",
@@ -10392,7 +10387,7 @@
   {
     "name": "MIFARE Classic Tool",
     "description": "An NFC app for reading, writing, analyzing, etc. MIFARE Classic RFID tags.",
-    "apk": "https://f-droid.org/repo/de.syss.MifareClassicTool_66.apk"
+    "apk": "https://f-droid.org/repo/de.syss.MifareClassicTool_67.apk"
   },
   {
     "name": "Mightier Amp",
@@ -11377,7 +11372,7 @@
   {
     "name": "Nextcloud",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.client_30350053.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.client_30350054.apk"
   },
   {
     "name": "Nextcloud Bookmarks",
@@ -11692,7 +11687,7 @@
   {
     "name": "Nora",
     "description": "Facebook, Instagram, Reddit, Threads and X in a single app. No ads.",
-    "apk": "https://f-droid.org/repo/jp.nonbili.nora_4303.apk"
+    "apk": "https://f-droid.org/repo/jp.nonbili.nora_4403.apk"
   },
   {
     "name": "Nori",
@@ -11712,7 +11707,7 @@
   {
     "name": "nospeak",
     "description": "nospeak is a modern Nostr chat client",
-    "apk": "https://f-droid.org/repo/com.nospeak.app_90210.apk"
+    "apk": "https://f-droid.org/repo/com.nospeak.app_90220.apk"
   },
   {
     "name": "Notable Plus",
@@ -11807,7 +11802,7 @@
   {
     "name": "NotiFilter",
     "description": "Silence annoying notifications",
-    "apk": "https://f-droid.org/repo/co.adityarajput.notifilter_11.apk"
+    "apk": "https://f-droid.org/repo/co.adityarajput.notifilter_12.apk"
   },
   {
     "name": "Notify Lite",
@@ -13737,7 +13732,7 @@
   {
     "name": "Podcini.X - Podcast instrument",
     "description": "Modern, feature-rich, without access to Youtube",
-    "apk": "https://f-droid.org/repo/ac.mdiq.podcini.X_238.apk"
+    "apk": "https://f-droid.org/repo/ac.mdiq.podcini.X_239.apk"
   },
   {
     "name": "Podverse",
@@ -14062,7 +14057,7 @@
   {
     "name": "Privacy Flip",
     "description": "Manage your device privacy based on lock/unlock state",
-    "apk": "https://f-droid.org/repo/io.github.dorumrr.privacyflip_20.apk"
+    "apk": "https://f-droid.org/repo/io.github.dorumrr.privacyflip_21.apk"
   },
   {
     "name": "Privacy Helper",
@@ -15962,7 +15957,7 @@
   {
     "name": "ShikiApp",
     "description": "Unofficial Shikimori mobile app",
-    "apk": "https://f-droid.org/repo/org.application.shikiapp_29.apk"
+    "apk": "https://f-droid.org/repo/org.application.shikiapp_30.apk"
   },
   {
     "name": "Shiori",
@@ -17842,7 +17837,7 @@
   {
     "name": "The Battle for Wesnoth",
     "description": "A turn-based strategy game with a high fantasy theme",
-    "apk": "https://f-droid.org/repo/org.wesnoth.Wesnoth_1191700001.apk"
+    "apk": "https://f-droid.org/repo/org.wesnoth.Wesnoth_1191800001.apk"
   },
   {
     "name": "The Hat",
@@ -18252,7 +18247,7 @@
   {
     "name": "ToLoShare",
     "description": "ToLoShare Location Share via Tox",
-    "apk": "https://f-droid.org/repo/com.zoffcc.applications.toloshare_10004.apk"
+    "apk": "https://f-droid.org/repo/com.zoffcc.applications.toloshare_10006.apk"
   },
   {
     "name": "Tomato",
@@ -18907,7 +18902,7 @@
   {
     "name": "Unciv",
     "description": "Open source 4X civilization-building game",
-    "apk": "https://f-droid.org/repo/com.unciv.app_1194.apk"
+    "apk": "https://f-droid.org/repo/com.unciv.app_1195.apk"
   },
   {
     "name": "UnderEat",
@@ -19862,7 +19857,7 @@
   {
     "name": "WHPH • Work Hard Play Hard",
     "description": "Productivity app for task management, habit tracking and time optimization",
-    "apk": "https://f-droid.org/repo/me.ahmetcetinkaya.whph_68.apk"
+    "apk": "https://f-droid.org/repo/me.ahmetcetinkaya.whph_69.apk"
   },
   {
     "name": "Wi-Fi Privacy Police",
@@ -20242,7 +20237,7 @@
   {
     "name": "Xtra",
     "description": "Third-party Twitch client",
-    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_315.apk"
+    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_316.apk"
   },
   {
     "name": "xvii messenger for vk",
