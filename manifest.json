@@ -2662,7 +2662,7 @@
   {
     "name": "Capy Reader",
     "description": "A smallish RSS reader",
-    "apk": "https://f-droid.org/repo/com.capyreader.app_1183.apk"
+    "apk": "https://f-droid.org/repo/com.capyreader.app_1186.apk"
   },
   {
     "name": "Car Bus Interface",
@@ -3092,7 +3092,7 @@
   {
     "name": "Ciyue",
     "description": "A simple mdict dictionary",
-    "apk": "https://f-droid.org/repo/org.eu.mumulhl.ciyue_701000.apk"
+    "apk": "https://f-droid.org/repo/org.eu.mumulhl.ciyue_781000.apk"
   },
   {
     "name": "CKPool Watcher",
@@ -3342,7 +3342,7 @@
   {
     "name": "CoMaps - Hike, Bike, Drive Offline with Privacy",
     "description": "Easy map navigation - Discover more of your journey - Powered by the community",
-    "apk": "https://f-droid.org/repo/app.comaps.fdroid_25121911.apk"
+    "apk": "https://f-droid.org/repo/app.comaps.fdroid_25122802.apk"
   },
   {
     "name": "Comfort Reader",
@@ -3697,7 +3697,7 @@
   {
     "name": "Cuscon",
     "description": "This icon pack adds variety and dynamism to your Home screen",
-    "apk": "https://f-droid.org/repo/com.froxot.cuscon.foss_4081.apk"
+    "apk": "https://f-droid.org/repo/com.froxot.cuscon.foss_4082.apk"
   },
   {
     "name": "Custom Riddle Generator [small, no ads]",
@@ -6097,7 +6097,7 @@
   {
     "name": "Flux News",
     "description": "Newsreader for miniflux backend",
-    "apk": "https://f-droid.org/repo/de.circle_dev.flux_news_2025102411.apk"
+    "apk": "https://f-droid.org/repo/de.circle_dev.flux_news_2025110221.apk"
   },
   {
     "name": "Flying Carpet",
@@ -6207,7 +6207,7 @@
   {
     "name": "Forkgram",
     "description": "Forkgram is a fork of the official Telegram for Android application.",
-    "apk": "https://f-droid.org/repo/org.forkgram.messenger_630107.apk"
+    "apk": "https://f-droid.org/repo/org.forkgram.messenger_630207.apk"
   },
   {
     "name": "Forkyz",
@@ -7322,7 +7322,7 @@
   {
     "name": "Hammer",
     "description": "A simple tool for building stories.",
-    "apk": "https://f-droid.org/repo/com.darkrockstudios.apps.hammer.android_201010000.apk"
+    "apk": "https://f-droid.org/repo/com.darkrockstudios.apps.hammer.android_201020000.apk"
   },
   {
     "name": "HAMtrainer",
@@ -7432,7 +7432,7 @@
   {
     "name": "Healthy Battery Charging",
     "description": "Prolong the life of your battery by keeping it charged between 40% and 80%",
-    "apk": "https://f-droid.org/repo/biz.binarysolutions.healthybatterycharging_19.apk"
+    "apk": "https://f-droid.org/repo/biz.binarysolutions.healthybatterycharging_20.apk"
   },
   {
     "name": "HeartBeat",
@@ -8842,7 +8842,7 @@
   {
     "name": "Kvaesitso",
     "description": "A search-focused, free and open source launcher for Android",
-    "apk": "https://f-droid.org/repo/de.mm20.launcher2.release_2025122300.apk"
+    "apk": "https://f-droid.org/repo/de.mm20.launcher2.release_2025122400.apk"
   },
   {
     "name": "Kwaak3",
@@ -9361,8 +9361,8 @@
   },
   {
     "name": "Linux Command Library",
-    "description": "4299 manual pages, 23 basic categories and a bunch of general terminal tips.",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_122.apk"
+    "description": "5347 manual pages, 23 basic categories and a bunch of general terminal tips.",
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_123.apk"
   },
   {
     "name": "Linux Counter Updater",
@@ -9872,7 +9872,7 @@
   {
     "name": "MateDroid",
     "description": "View Tesla vehicle data from your self-hosted Teslamate instance",
-    "apk": "https://f-droid.org/repo/com.matedroid_18.apk"
+    "apk": "https://f-droid.org/repo/com.matedroid_19.apk"
   },
   {
     "name": "Material Files",
@@ -10407,7 +10407,7 @@
   {
     "name": "Mill",
     "description": "A Mill Game which supports many rule variants, written in Flutter",
-    "apk": "https://f-droid.org/repo/com.calcitem.sanmill_5008.apk"
+    "apk": "https://f-droid.org/repo/com.calcitem.sanmill_5013.apk"
   },
   {
     "name": "Min Time",
@@ -12922,7 +12922,7 @@
   {
     "name": "Parcel - Pickup code",
     "description": "Extract the address and pickup code from SMS automatically",
-    "apk": "https://f-droid.org/repo/com.xxxx.parcel_40.apk"
+    "apk": "https://f-droid.org/repo/com.xxxx.parcel_42.apk"
   },
   {
     "name": "PariDroid",
@@ -13147,7 +13147,7 @@
   {
     "name": "PennyWise AI",
     "description": "Offline expense tracker from bank SMS with optional AI chat",
-    "apk": "https://f-droid.org/repo/com.pennywiseai.tracker_77.apk"
+    "apk": "https://f-droid.org/repo/com.pennywiseai.tracker_78.apk"
   },
   {
     "name": "Penroser",
@@ -14432,7 +14432,7 @@
   {
     "name": "Quotes.app",
     "description": "A minimalistic quotes app",
-    "apk": "https://f-droid.org/repo/com.shalenmathew.quotesapp_33.apk"
+    "apk": "https://f-droid.org/repo/com.shalenmathew.quotesapp_34.apk"
   },
   {
     "name": "Quran Revision Companion",
@@ -14627,7 +14627,7 @@
   {
     "name": "Recurring Expense Tracker",
     "description": "Keep track of your monthly spending",
-    "apk": "https://f-droid.org/repo/de.dbauer.expensetracker_54.apk"
+    "apk": "https://f-droid.org/repo/de.dbauer.expensetracker_55.apk"
   },
   {
     "name": "Recursive Runner",
@@ -14857,7 +14857,7 @@
   {
     "name": "Ricevapp Documento Commerciale",
     "description": "Third-party app for quick access, not affiliated with Agenzia delle Entrate",
-    "apk": "https://f-droid.org/repo/com.giacomomensio.ricevapp_14.apk"
+    "apk": "https://f-droid.org/repo/com.giacomomensio.ricevapp_16.apk"
   },
   {
     "name": "Ricochlime",
@@ -14887,7 +14887,7 @@
   {
     "name": "Ringdroid - Ringtone editor",
     "description": "An application for creating your own ringtones.",
-    "apk": "https://f-droid.org/repo/org.thayyil.ringdroid_20803.apk"
+    "apk": "https://f-droid.org/repo/org.thayyil.ringdroid_20804.apk"
   },
   {
     "name": "Ripple: respond when panicking",
@@ -15392,7 +15392,7 @@
   {
     "name": "Schulrechner",
     "description": "The calculator you know from school",
-    "apk": "https://f-droid.org/repo/io.cardijey.schulrechner_11000.apk"
+    "apk": "https://f-droid.org/repo/io.cardijey.schulrechner_11100.apk"
   },
   {
     "name": "Scid on the go",
@@ -15922,7 +15922,7 @@
   {
     "name": "Shattered Pixel Dungeon",
     "description": "A roguelike game based on Pixel Dungeon",
-    "apk": "https://f-droid.org/repo/com.shatteredpixel.shatteredpixeldungeon_884.apk"
+    "apk": "https://f-droid.org/repo/com.shatteredpixel.shatteredpixeldungeon_886.apk"
   },
   {
     "name": "Sheepy Horn",
@@ -16232,7 +16232,7 @@
   {
     "name": "Simple Keyboard",
     "description": "An app for those who only need a keyboard and nothing more",
-    "apk": "https://f-droid.org/repo/rkr.simplekeyboard.inputmethod_141.apk"
+    "apk": "https://f-droid.org/repo/rkr.simplekeyboard.inputmethod_142.apk"
   },
   {
     "name": "Simple Litecoin Widget",
@@ -17322,7 +17322,7 @@
   {
     "name": "Super Productivity",
     "description": "Free to do list & time tracker",
-    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1609020000.apk"
+    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1609040000.apk"
   },
   {
     "name": "Super Retro Mega Wars",
@@ -17382,7 +17382,7 @@
   {
     "name": "SwatchIt",
     "description": "Manage your knitted swatches",
-    "apk": "https://f-droid.org/repo/net.damschen.swatchit_8.apk"
+    "apk": "https://f-droid.org/repo/net.damschen.swatchit_9.apk"
   },
   {
     "name": "Swedish for AnySoftKeyboard",
@@ -17746,7 +17746,7 @@
   },
   {
     "name": "Termux Hub",
-    "description": "A lightweight Android app that indexes Termux tools from GitHub metadata.",
+    "description": "A lightweight Android app that indexes Termux tools from metadata.",
     "apk": "https://f-droid.org/repo/com.maazm7d.termuxhub_1.apk"
   },
   {
@@ -18247,7 +18247,7 @@
   {
     "name": "ToLoShare",
     "description": "ToLoShare Location Share via Tox",
-    "apk": "https://f-droid.org/repo/com.zoffcc.applications.toloshare_10006.apk"
+    "apk": "https://f-droid.org/repo/com.zoffcc.applications.toloshare_10007.apk"
   },
   {
     "name": "Tomato",
@@ -18387,7 +18387,7 @@
   {
     "name": "Track & Graph",
     "description": "Dashboards for life!",
-    "apk": "https://f-droid.org/repo/com.samco.trackandgraph_700012.apk"
+    "apk": "https://f-droid.org/repo/com.samco.trackandgraph_800002.apk"
   },
   {
     "name": "Track Work Time",
@@ -20517,7 +20517,7 @@
   {
     "name": "聚在工大",
     "description": "All-in-one school service app for Hefei University of Technology students",
-    "apk": "https://f-droid.org/repo/com.hfut.schedule_2402.apk"
+    "apk": "https://f-droid.org/repo/com.hfut.schedule_2412.apk"
   },
   {
     "name": "萊姆輸入法",
