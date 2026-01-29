@@ -5437,7 +5437,7 @@
   {
     "name": "F-Droid Basic",
     "description": "The minimal client app for the app store that respects freedom and privacy",
-    "apk": "https://f-droid.org/repo/org.fdroid.basic_1022050.apk"
+    "apk": "https://f-droid.org/repo/org.fdroid.basic_1023000.apk"
   },
   {
     "name": "F-Droid Build Status",
@@ -6766,7 +6766,7 @@
   },
   {
     "name": "GeoWeather",
-    "description": "A Weather App that is still WIP (Work In Progress)",
+    "description": "A Weather App that is so good, WIP (Work In Progress) and has many Features.",
     "apk": "https://f-droid.org/repo/com.freetime.geoweather_7.apk"
   },
   {
@@ -11692,7 +11692,7 @@
   {
     "name": "Nora",
     "description": "Facebook, Instagram, Reddit, Threads and X in a single app. No ads.",
-    "apk": "https://f-droid.org/repo/jp.nonbili.nora_4403.apk"
+    "apk": "https://f-droid.org/repo/jp.nonbili.nora_4603.apk"
   },
   {
     "name": "Nori",
@@ -12792,7 +12792,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_202.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_203.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -15132,7 +15132,7 @@
   {
     "name": "Rush - Lyrics App",
     "description": "App to search, view, save and share lyrics",
-    "apk": "https://f-droid.org/repo/com.shub39.rush_3100.apk"
+    "apk": "https://f-droid.org/repo/com.shub39.rush_3110.apk"
   },
   {
     "name": "Ruslin",
@@ -16382,7 +16382,7 @@
   {
     "name": "SimpMusic",
     "description": "A simple music app using YouTube Music for backend",
-    "apk": "https://f-droid.org/repo/com.maxrave.simpmusic_35.apk"
+    "apk": "https://f-droid.org/repo/com.maxrave.simpmusic_37.apk"
   },
   {
     "name": "sing-box",
@@ -17957,7 +17957,7 @@
   {
     "name": "Thunderbird Beta for Testers",
     "description": "Thunderbird is a 100% open source, privacy focused email app.",
-    "apk": "https://f-droid.org/repo/net.thunderbird.android.beta_37.apk"
+    "apk": "https://f-droid.org/repo/net.thunderbird.android.beta_38.apk"
   },
   {
     "name": "Thunderbird: Free Your Inbox",
@@ -18252,7 +18252,7 @@
   {
     "name": "Tomato",
     "description": "Minimalist Pomodoro timer",
-    "apk": "https://f-droid.org/repo/org.nsh07.pomodoro_24.apk"
+    "apk": "https://f-droid.org/repo/org.nsh07.pomodoro_25.apk"
   },
   {
     "name": "Tomdroid",
