@@ -172,7 +172,7 @@
   {
     "name": "Acode editor - Android code editor",
     "description": "A lightweight but powerful text/code editor.",
-    "apk": "https://f-droid.org/repo/com.foxdebug.acode_963.apk"
+    "apk": "https://f-droid.org/repo/com.foxdebug.acode_965.apk"
   },
   {
     "name": "Acrylic Paint",
@@ -2832,7 +2832,7 @@
   {
     "name": "Cfait",
     "description": "Powerful, fast and elegant TODO / task manager. (CalDAV and local)",
-    "apk": "https://f-droid.org/repo/com.trougnouf.cfait_406.apk"
+    "apk": "https://f-droid.org/repo/com.trougnouf.cfait_407.apk"
   },
   {
     "name": "Chairlock",
@@ -4662,7 +4662,7 @@
   {
     "name": "Droid Pad",
     "description": "Build control interfaces for WebSocket, Bluetooth/LE, MQTT, TCP & UDP protocols.",
-    "apk": "https://f-droid.org/repo/com.github.umer0586.droidpad_36.apk"
+    "apk": "https://f-droid.org/repo/com.github.umer0586.droidpad_38.apk"
   },
   {
     "name": "Droid-ify",
@@ -8512,7 +8512,7 @@
   {
     "name": "Kazumi",
     "description": "An anime collection APP based on custom rules.",
-    "apk": "https://f-droid.org/repo/com.predidit.kazumi_109022.apk"
+    "apk": "https://f-droid.org/repo/com.predidit.kazumi_109032.apk"
   },
   {
     "name": "kboard",
@@ -9252,7 +9252,7 @@
   {
     "name": "LibreTube",
     "description": "Alternative frontend for YouTube with focus on privacy",
-    "apk": "https://f-droid.org/repo/com.github.libretube_62.apk"
+    "apk": "https://f-droid.org/repo/com.github.libretube_63.apk"
   },
   {
     "name": "lichess",
@@ -9447,7 +9447,7 @@
   {
     "name": "Little Relay",
     "description": "Bidirectional data bridge between BLE and an MQTT broker",
-    "apk": "https://f-droid.org/repo/app.umerfarooq.littlerelay_2.apk"
+    "apk": "https://f-droid.org/repo/app.umerfarooq.littlerelay_3.apk"
   },
   {
     "name": "Litube",
@@ -11337,7 +11337,7 @@
   {
     "name": "NewPipe",
     "description": "Lightweight YouTube frontend",
-    "apk": "https://f-droid.org/repo/org.schabi.newpipe_1003.apk"
+    "apk": "https://f-droid.org/repo/org.schabi.newpipe_1004.apk"
   },
   {
     "name": "News",
@@ -11402,7 +11402,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260121.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260127.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -11862,7 +11862,7 @@
   {
     "name": "ntfy - PUT/POST to your phone",
     "description": "Send notifications to your phone from any script using PUT/POST requests",
-    "apk": "https://f-droid.org/repo/io.heckel.ntfy_52.apk"
+    "apk": "https://f-droid.org/repo/io.heckel.ntfy_53.apk"
   },
   {
     "name": "ntodotxt",
@@ -12082,7 +12082,7 @@
   {
     "name": "Oinkoin",
     "description": "Oinkoin Money Manager makes managing personal finances easy and secure.",
-    "apk": "https://f-droid.org/repo/com.github.emavgl.piggybankpro_7106001.apk"
+    "apk": "https://f-droid.org/repo/com.github.emavgl.piggybankpro_7108001.apk"
   },
   {
     "name": "Ojo RTSP IP Camera viewer",
@@ -12302,7 +12302,7 @@
   {
     "name": "Open Surge: retro game engine",
     "description": "A retro game engine with a fun platformer inspired by 16-bit Sonic games.",
-    "apk": "https://f-droid.org/repo/org.opensurge2d.surgeengine_30501.apk"
+    "apk": "https://f-droid.org/repo/org.opensurge2d.surgeengine_30550.apk"
   },
   {
     "name": "Open TimeLimit",
@@ -12792,7 +12792,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_203.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_204.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -16452,12 +16452,12 @@
   {
     "name": "SkyTube",
     "description": "An ad-free and open-source YouTube client.",
-    "apk": "https://f-droid.org/repo/free.rm.skytube.oss_55.apk"
+    "apk": "https://f-droid.org/repo/free.rm.skytube.oss_56.apk"
   },
   {
     "name": "SkyTube Legacy",
     "description": "An ad-free and open-source YouTube client for legacy devices.",
-    "apk": "https://f-droid.org/repo/free.rm.skytube.legacy.oss_55.apk"
+    "apk": "https://f-droid.org/repo/free.rm.skytube.legacy.oss_56.apk"
   },
   {
     "name": "Slauncher",
@@ -16672,7 +16672,7 @@
   {
     "name": "SnapSafe",
     "description": "Snap pics of anything, safely.",
-    "apk": "https://f-droid.org/repo/com.darkrockstudios.app.securecamera_22.apk"
+    "apk": "https://f-droid.org/repo/com.darkrockstudios.app.securecamera_23.apk"
   },
   {
     "name": "SnapSaver",
@@ -17327,7 +17327,7 @@
   {
     "name": "Super Productivity",
     "description": "Free to do list & time tracker",
-    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1700029000.apk"
+    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1700059000.apk"
   },
   {
     "name": "Super Retro Mega Wars",
@@ -17952,7 +17952,7 @@
   {
     "name": "Thumb-Key",
     "description": "A privacy-conscious keyboard made for your thumbs.",
-    "apk": "https://f-droid.org/repo/com.dessalines.thumbkey_168.apk"
+    "apk": "https://f-droid.org/repo/com.dessalines.thumbkey_169.apk"
   },
   {
     "name": "Thunderbird Beta for Testers",
@@ -18302,7 +18302,7 @@
   {
     "name": "Torrents Digger",
     "description": "Dig Torrents from Internet.",
-    "apk": "https://f-droid.org/repo/org.forthecommunity.torrentsdigger_1501.apk"
+    "apk": "https://f-droid.org/repo/org.forthecommunity.torrentsdigger_1601.apk"
   },
   {
     "name": "Torrents-csv-android",
@@ -18782,7 +18782,7 @@
   {
     "name": "Tuta Mail",
     "description": "Encrypted email & calendar service - easy to use, secure by design.",
-    "apk": "https://f-droid.org/repo/de.tutao.tutanota_396570.apk"
+    "apk": "https://f-droid.org/repo/de.tutao.tutanota_396574.apk"
   },
   {
     "name": "Tutto Counter",
