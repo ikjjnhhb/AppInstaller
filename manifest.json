@@ -497,7 +497,7 @@
   {
     "name": "AliasVault",
     "description": "Privacy-first Password Manager with Built-in Email Aliasing",
-    "apk": "https://f-droid.org/repo/net.aliasvault.app_2400902.apk"
+    "apk": "https://f-droid.org/repo/net.aliasvault.app_2501900.apk"
   },
   {
     "name": "Alibi",
@@ -522,7 +522,7 @@
   {
     "name": "Alovoa",
     "description": "Open-source online dating application",
-    "apk": "https://f-droid.org/repo/com.alovoa.expo_43.apk"
+    "apk": "https://f-droid.org/repo/com.alovoa.expo_44.apk"
   },
   {
     "name": "Alt Launcher",
@@ -1927,7 +1927,7 @@
   {
     "name": "BleOta",
     "description": "Upload firmware over Bluetooth",
-    "apk": "https://f-droid.org/repo/com.vovagorodok.ble_ota_app_10.apk"
+    "apk": "https://f-droid.org/repo/com.vovagorodok.ble_ota_app_12.apk"
   },
   {
     "name": "BLExplorer",
@@ -2807,7 +2807,7 @@
   {
     "name": "CClauncher",
     "description": "Minimal home launcher that hides apps by default to reduce distractions",
-    "apk": "https://f-droid.org/repo/app.cclauncher_1107.apk"
+    "apk": "https://f-droid.org/repo/app.cclauncher_1127.apk"
   },
   {
     "name": "CDLC Player",
@@ -5697,7 +5697,7 @@
   {
     "name": "Fennec F-Droid",
     "description": "Browse the web",
-    "apk": "https://f-droid.org/repo/org.mozilla.fennec_fdroid_1460000.apk"
+    "apk": "https://f-droid.org/repo/org.mozilla.fennec_fdroid_1460120.apk"
   },
   {
     "name": "Fertility Test Analyzer App: Ovulation & Pregnancy",
@@ -6277,22 +6277,22 @@
   {
     "name": "Fossify Calculator Beta",
     "description": "Simple and open-source calculator for quick and easy calculations",
-    "apk": "https://f-droid.org/repo/org.fossify.math_7.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.math_8.apk"
   },
   {
     "name": "Fossify Calendar",
     "description": "Securely plan, schedule, and set reminders with our private calendar app.",
-    "apk": "https://f-droid.org/repo/org.fossify.calendar_14.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.calendar_15.apk"
   },
   {
     "name": "Fossify Camera Beta",
     "description": "Lightweight open-source camera app for quick, easy, and secure photography",
-    "apk": "https://f-droid.org/repo/org.fossify.camera_8.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.camera_9.apk"
   },
   {
     "name": "Fossify Clock Beta",
     "description": "Handy, lightweight, open-source clock app with essential features.",
-    "apk": "https://f-droid.org/repo/org.fossify.clock_7.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.clock_8.apk"
   },
   {
     "name": "Fossify Contacts",
@@ -6317,7 +6317,7 @@
   {
     "name": "Fossify Launcher Beta",
     "description": "Customize your home screen with a fast, ad-free, open-source launcher",
-    "apk": "https://f-droid.org/repo/org.fossify.home_11.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.home_12.apk"
   },
   {
     "name": "Fossify Messages",
@@ -6347,7 +6347,7 @@
   {
     "name": "Fossify Voice Recorder Beta",
     "description": "Record anything with this Open-source and Ad-free recorder",
-    "apk": "https://f-droid.org/repo/org.fossify.voicerecorder_14.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.voicerecorder_15.apk"
   },
   {
     "name": "FossWallet",
@@ -7937,7 +7937,7 @@
   {
     "name": "Infomaniak Mail",
     "description": "The secure messaging service for your emails",
-    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12200102.apk"
+    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12200202.apk"
   },
   {
     "name": "Information about NCBS",
@@ -8677,7 +8677,7 @@
   {
     "name": "kitshn (for Tandoor)",
     "description": "An unofficial client for the self-hosted Tandoor recipe management software.",
-    "apk": "https://f-droid.org/repo/de.kitshn.android_20000.apk"
+    "apk": "https://f-droid.org/repo/de.kitshn.android_20010.apk"
   },
   {
     "name": "Kitsune",
@@ -11397,7 +11397,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260129.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260130.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -13457,7 +13457,7 @@
   {
     "name": "PipePipe",
     "description": "A FLOSS Android app to let you browse YouTube, NicoNico and BiliBili freely.",
-    "apk": "https://f-droid.org/repo/InfinityLoop1309.NewPipeEnhanced_108901.apk"
+    "apk": "https://f-droid.org/repo/InfinityLoop1309.NewPipeEnhanced_109001.apk"
   },
   {
     "name": "PiPixiv",
@@ -14887,7 +14887,7 @@
   {
     "name": "Ringdroid - Ringtone editor",
     "description": "An application for creating your own ringtones.",
-    "apk": "https://f-droid.org/repo/org.thayyil.ringdroid_20807.apk"
+    "apk": "https://f-droid.org/repo/org.thayyil.ringdroid_20900.apk"
   },
   {
     "name": "Ripple: respond when panicking",
@@ -16407,7 +16407,7 @@
   {
     "name": "Siteswap Generator",
     "description": "Generate juggling siteswaps for passing",
-    "apk": "https://f-droid.org/repo/namlit.siteswapgenerator_36.apk"
+    "apk": "https://f-droid.org/repo/namlit.siteswapgenerator_37.apk"
   },
   {
     "name": "Sithakuru",
@@ -17647,7 +17647,7 @@
   {
     "name": "Tasks.org: Open-source To-Do Lists & Reminders",
     "description": "Private, ad-free task lists! Optional sync with Google Tasks, CalDAV or EteSync!",
-    "apk": "https://f-droid.org/repo/org.tasks_140824.apk"
+    "apk": "https://f-droid.org/repo/org.tasks_140828.apk"
   },
   {
     "name": "Taskwarrior",
@@ -17862,7 +17862,7 @@
   {
     "name": "The Light",
     "description": "Bible multi languages, free, offline, no advertising.",
-    "apk": "https://f-droid.org/repo/org.hlwd.bible_20251212.apk"
+    "apk": "https://f-droid.org/repo/org.hlwd.bible_20251224.apk"
   },
   {
     "name": "The One App",
