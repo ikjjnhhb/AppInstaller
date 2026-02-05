@@ -737,7 +737,7 @@
   {
     "name": "AndroidMic",
     "description": "Use your Android phone as a microphone for your PC",
-    "apk": "https://f-droid.org/repo/io.github.teamclouday.AndroidMic_17.apk"
+    "apk": "https://f-droid.org/repo/io.github.teamclouday.AndroidMic_18.apk"
   },
   {
     "name": "Androidomatic Keyer",
@@ -1507,7 +1507,7 @@
   {
     "name": "baresip",
     "description": "VoIP User Agent app for Android based on baresip SIP library",
-    "apk": "https://f-droid.org/repo/com.tutpro.baresip_473.apk"
+    "apk": "https://f-droid.org/repo/com.tutpro.baresip_474.apk"
   },
   {
     "name": "baresip+",
@@ -2662,7 +2662,7 @@
   {
     "name": "Capy Reader",
     "description": "A smallish RSS reader",
-    "apk": "https://f-droid.org/repo/com.capyreader.app_1186.apk"
+    "apk": "https://f-droid.org/repo/com.capyreader.app_1187.apk"
   },
   {
     "name": "Car Bus Interface",
@@ -3077,7 +3077,7 @@
   {
     "name": "Cirrus",
     "description": "Weather and rain radar for any location - worldwide",
-    "apk": "https://f-droid.org/repo/org.woheller69.omweather_41.apk"
+    "apk": "https://f-droid.org/repo/org.woheller69.omweather_42.apk"
   },
   {
     "name": "Citrine",
@@ -4492,7 +4492,7 @@
   {
     "name": "DoliDroid",
     "description": "Front-end application to use any Dolibarr ERP CRM instances",
-    "apk": "https://f-droid.org/repo/com.nltechno.dolidroidpro_65.apk"
+    "apk": "https://f-droid.org/repo/com.nltechno.dolidroidpro_66.apk"
   },
   {
     "name": "Dollphone Icon Pack",
@@ -4662,7 +4662,7 @@
   {
     "name": "Droid Pad",
     "description": "Build control interfaces for WebSocket, Bluetooth/LE, MQTT, TCP & UDP protocols.",
-    "apk": "https://f-droid.org/repo/com.github.umer0586.droidpad_38.apk"
+    "apk": "https://f-droid.org/repo/com.github.umer0586.droidpad_40.apk"
   },
   {
     "name": "Droid-ify",
@@ -5072,7 +5072,7 @@
   {
     "name": "Element X - Secure Chat & Call",
     "description": "Sovereign. Seamless. On Matrix",
-    "apk": "https://f-droid.org/repo/io.element.android.x_202511031.apk"
+    "apk": "https://f-droid.org/repo/io.element.android.x_202512001.apk"
   },
   {
     "name": "Elements",
@@ -5502,7 +5502,7 @@
   {
     "name": "FairScan – PDF Scanner",
     "description": "Scan a document and get a clean PDF you can save or share instantly",
-    "apk": "https://f-droid.org/repo/org.fairscan.app_37.apk"
+    "apk": "https://f-droid.org/repo/org.fairscan.app_40.apk"
   },
   {
     "name": "Fake Contacts",
@@ -6287,7 +6287,7 @@
   {
     "name": "Fossify Calendar",
     "description": "Securely plan, schedule, and set reminders with our private calendar app.",
-    "apk": "https://f-droid.org/repo/org.fossify.calendar_15.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.calendar_16.apk"
   },
   {
     "name": "Fossify Camera Beta",
@@ -6317,7 +6317,7 @@
   {
     "name": "Fossify Keyboard Beta",
     "description": "Simple and open-source offline keyboard with emojis",
-    "apk": "https://f-droid.org/repo/org.fossify.keyboard_11.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.keyboard_12.apk"
   },
   {
     "name": "Fossify Launcher Beta",
@@ -6347,7 +6347,7 @@
   {
     "name": "Fossify Phone",
     "description": "Unlock a secure, open-source calling experience with Fossify Phone",
-    "apk": "https://f-droid.org/repo/org.fossify.phone_17.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.phone_18.apk"
   },
   {
     "name": "Fossify Voice Recorder Beta",
@@ -7867,12 +7867,12 @@
   {
     "name": "Immich",
     "description": "This is a client app for the self-hostable Immich Server",
-    "apk": "https://f-droid.org/repo/app.alextran.immich_3030.apk"
+    "apk": "https://f-droid.org/repo/app.alextran.immich_3032.apk"
   },
   {
     "name": "Immich Uploader",
     "description": "App that can upload media files to your Immich instance.",
-    "apk": "https://f-droid.org/repo/com.exner.tools.immichuploader_7.apk"
+    "apk": "https://f-droid.org/repo/com.exner.tools.immichuploader_8.apk"
   },
   {
     "name": "Impress Remote",
@@ -8197,7 +8197,7 @@
   {
     "name": "Jami",
     "description": "Share, freely and privately",
-    "apk": "https://f-droid.org/repo/cx.ring_480.apk"
+    "apk": "https://f-droid.org/repo/cx.ring_481.apk"
   },
   {
     "name": "Jamu",
@@ -8262,7 +8262,7 @@
   {
     "name": "Jellyfin for Android TV",
     "description": "Television client for Jellyfin, the free software media system",
-    "apk": "https://f-droid.org/repo/org.jellyfin.androidtv_190499.apk"
+    "apk": "https://f-droid.org/repo/org.jellyfin.androidtv_190599.apk"
   },
   {
     "name": "Jerboa for Lemmy",
@@ -8427,7 +8427,7 @@
   {
     "name": "K-9 Mail",
     "description": "Full-featured email client",
-    "apk": "https://f-droid.org/repo/com.fsck.k9_39029.apk"
+    "apk": "https://f-droid.org/repo/com.fsck.k9_39030.apk"
   },
   {
     "name": "K2",
@@ -8507,7 +8507,7 @@
   {
     "name": "KashCal",
     "description": "Modern Android calendar. iCloud & CalDAV finally done right. Private. Open.",
-    "apk": "https://f-droid.org/repo/org.onekash.kashcal_349.apk"
+    "apk": "https://f-droid.org/repo/org.onekash.kashcal_350.apk"
   },
   {
     "name": "Katawa Shoujo: Re-Engineered",
@@ -8527,7 +8527,7 @@
   {
     "name": "KDE Connect",
     "description": "KDE Connect integrates your smartphone and computer",
-    "apk": "https://f-droid.org/repo/org.kde.kdeconnect_tp_13402.apk"
+    "apk": "https://f-droid.org/repo/org.kde.kdeconnect_tp_13403.apk"
   },
   {
     "name": "kDI Device Info system permission",
@@ -9452,7 +9452,7 @@
   {
     "name": "Little Relay",
     "description": "Bidirectional data bridge between BLE and an MQTT broker",
-    "apk": "https://f-droid.org/repo/app.umerfarooq.littlerelay_4.apk"
+    "apk": "https://f-droid.org/repo/app.umerfarooq.littlerelay_5.apk"
   },
   {
     "name": "Litube",
@@ -10422,7 +10422,7 @@
   {
     "name": "MinCal Widget",
     "description": "Minimal Calendar Widget",
-    "apk": "https://f-droid.org/repo/cat.mvmike.minimalcalendarwidget_90.apk"
+    "apk": "https://f-droid.org/repo/cat.mvmike.minimalcalendarwidget_91.apk"
   },
   {
     "name": "Mindful Attention Awareness Scale",
@@ -11357,7 +11357,7 @@
   {
     "name": "NewsBlur - News reader",
     "description": "News reader",
-    "apk": "https://f-droid.org/repo/com.newsblur_244.apk"
+    "apk": "https://f-droid.org/repo/com.newsblur_245.apk"
   },
   {
     "name": "Nex Notes",
@@ -11402,7 +11402,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260201.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260202.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -11712,7 +11712,7 @@
   {
     "name": "nospeak",
     "description": "nospeak is a modern Nostr chat client",
-    "apk": "https://f-droid.org/repo/com.nospeak.app_100010.apk"
+    "apk": "https://f-droid.org/repo/com.nospeak.app_100020.apk"
   },
   {
     "name": "Notable Plus",
@@ -12422,7 +12422,7 @@
   {
     "name": "openHAB Beta",
     "description": "Vendor and technology agnostic open source home automation",
-    "apk": "https://f-droid.org/repo/org.openhab.habdroid.beta_578.apk"
+    "apk": "https://f-droid.org/repo/org.openhab.habdroid.beta_581.apk"
   },
   {
     "name": "OpenHub",
@@ -13437,7 +13437,7 @@
   {
     "name": "Pineapple Lock Screen (OSS)",
     "description": "Help you turn your phone screen off (lock screen) without using power button.",
-    "apk": "https://f-droid.org/repo/net.blumia.pineapple.lockscreen.oss_17.apk"
+    "apk": "https://f-droid.org/repo/net.blumia.pineapple.lockscreen.oss_18.apk"
   },
   {
     "name": "PingOff",
@@ -15727,7 +15727,7 @@
   {
     "name": "Sensor Spot",
     "description": "Stream real-time Android sensor data over MQTT",
-    "apk": "https://f-droid.org/repo/com.github.umercodez.sensorspot_21.apk"
+    "apk": "https://f-droid.org/repo/com.github.umercodez.sensorspot_22.apk"
   },
   {
     "name": "Sensorkraken",
@@ -16367,7 +16367,7 @@
   {
     "name": "SimpleXray",
     "description": "A simple, fast Xray client",
-    "apk": "https://f-droid.org/repo/com.simplexray.an_34.apk"
+    "apk": "https://f-droid.org/repo/com.simplexray.an_35.apk"
   },
   {
     "name": "Simply Scored",
@@ -16446,8 +16446,8 @@
   },
   {
     "name": "Sky Map",
-    "description": "Sky Map to explore the skies",
-    "apk": "https://f-droid.org/repo/com.google.android.stardroid_1560.apk"
+    "description": "Sky Map turns your phone into a window on the night sky.",
+    "apk": "https://f-droid.org/repo/com.google.android.stardroid_1565.apk"
   },
   {
     "name": "SkyTube",
@@ -17962,7 +17962,7 @@
   {
     "name": "Thunderbird: Free Your Inbox",
     "description": "Thunderbird is a 100% open source, privacy focused email app.",
-    "apk": "https://f-droid.org/repo/net.thunderbird.android_16.apk"
+    "apk": "https://f-droid.org/repo/net.thunderbird.android_17.apk"
   },
   {
     "name": "Tibetan Keyboard",
@@ -18407,7 +18407,7 @@
   {
     "name": "Traditional T9",
     "description": "A T9 keyboard inspired by the classic Nokia phones of the 2000s.",
-    "apk": "https://f-droid.org/repo/io.github.sspanak.tt9_1385.apk"
+    "apk": "https://f-droid.org/repo/io.github.sspanak.tt9_1449.apk"
   },
   {
     "name": "Traductor Softcatalà",
@@ -18437,7 +18437,7 @@
   {
     "name": "trale",
     "description": "privacy-respecting body weight-diary",
-    "apk": "https://f-droid.org/repo/de.quantumphysique.trale_361.apk"
+    "apk": "https://f-droid.org/repo/de.quantumphysique.trale_371.apk"
   },
   {
     "name": "Tram Hunter",
@@ -18647,7 +18647,7 @@
   {
     "name": "Träwelldroid",
     "description": "Free check-in service for recording journeys in public transport",
-    "apk": "https://f-droid.org/repo/de.hbch.traewelling_206.apk"
+    "apk": "https://f-droid.org/repo/de.hbch.traewelling_207.apk"
   },
   {
     "name": "Tsacdop-Fork - Podcast Player",
