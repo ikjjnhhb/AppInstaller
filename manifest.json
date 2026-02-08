@@ -5177,7 +5177,7 @@
   {
     "name": "Ente Photos - Encrypted photo storage",
     "description": "Backup, Organise, Share - Private photo storage with end-to-end encryption",
-    "apk": "https://f-droid.org/repo/io.ente.photos.fdroid_1228.apk"
+    "apk": "https://f-droid.org/repo/io.ente.photos.fdroid_1231.apk"
   },
   {
     "name": "Enthusiast Tea Timer",
@@ -11342,7 +11342,7 @@
   {
     "name": "NewPipe",
     "description": "Lightweight YouTube frontend",
-    "apk": "https://f-droid.org/repo/org.schabi.newpipe_1004.apk"
+    "apk": "https://f-droid.org/repo/org.schabi.newpipe_1005.apk"
   },
   {
     "name": "News",
@@ -14147,7 +14147,7 @@
   {
     "name": "Proton Pass: Password Manager",
     "description": "Password manager created by the scientists who met at CERN behind Proton Mail.",
-    "apk": "https://f-droid.org/repo/proton.android.pass.fdroid_13600000.apk"
+    "apk": "https://f-droid.org/repo/proton.android.pass.fdroid_13603000.apk"
   },
   {
     "name": "ProtonVPN - Secure and Free VPN",
@@ -15062,7 +15062,7 @@
   {
     "name": "RSAF",
     "description": "An Android Storage Access Framework document provider for rclone",
-    "apk": "https://f-droid.org/repo/com.chiller3.rsaf_203264.apk"
+    "apk": "https://f-droid.org/repo/com.chiller3.rsaf_203520.apk"
   },
   {
     "name": "RSSAid",
@@ -17452,7 +17452,7 @@
   {
     "name": "Syncthing-Fork",
     "description": "Wrapper for Syncthing - Open and decentralized file synchronization",
-    "apk": "https://f-droid.org/repo/com.github.catfriend1.syncthingfork_2001201.apk"
+    "apk": "https://f-droid.org/repo/com.github.catfriend1.syncthingfork_2001300.apk"
   },
   {
     "name": "Syncthing-Lite",
@@ -18792,7 +18792,7 @@
   {
     "name": "Tutto Counter",
     "description": "A simple score counter for the dice game \"Tutto\".",
-    "apk": "https://f-droid.org/repo/de.georgelsas.tuttocounter_2.apk"
+    "apk": "https://f-droid.org/repo/de.georgelsas.tuttocounter_3.apk"
   },
   {
     "name": "Tuty Fruty Slot for Android",
