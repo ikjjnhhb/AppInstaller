@@ -1622,7 +1622,7 @@
   {
     "name": "BeeCount Knitting Counter",
     "description": "Knitting row counter",
-    "apk": "https://f-droid.org/repo/com.knirirr.beecount_134.apk"
+    "apk": "https://f-droid.org/repo/com.knirirr.beecount_135.apk"
   },
   {
     "name": "BeepMe",
@@ -1837,7 +1837,7 @@
   {
     "name": "Birthday Adapter",
     "description": "Birthday Calendar Adapter",
-    "apk": "https://f-droid.org/repo/org.birthdayadapter_44.apk"
+    "apk": "https://f-droid.org/repo/org.birthdayadapter_31005.apk"
   },
   {
     "name": "Birthday Calendar",
@@ -2252,7 +2252,7 @@
   {
     "name": "Breakout 71",
     "description": "Break colourful bricks, catch bouncing coins and select powerful upgrades !",
-    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29453095.apk"
+    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29467455.apk"
   },
   {
     "name": "Breathly",
@@ -2722,7 +2722,7 @@
   {
     "name": "Cartes IGN",
     "description": "Discover France another way and witness the land's evolution",
-    "apk": "https://f-droid.org/repo/fr.ign.geoportail_30401.apk"
+    "apk": "https://f-droid.org/repo/fr.ign.geoportail_30402.apk"
   },
   {
     "name": "Carts Bus Boarding",
@@ -2812,7 +2812,7 @@
   {
     "name": "CClauncher",
     "description": "Minimal home launcher that hides apps by default to reduce distractions",
-    "apk": "https://f-droid.org/repo/app.cclauncher_1137.apk"
+    "apk": "https://f-droid.org/repo/app.cclauncher_1147.apk"
   },
   {
     "name": "CDLC Player",
@@ -5062,7 +5062,7 @@
   {
     "name": "Einstein Launcher",
     "description": "Only 2 MB Android Launcher, total control, zero bloat, zero tracking",
-    "apk": "https://f-droid.org/repo/com.eblan.launcher_39.apk"
+    "apk": "https://f-droid.org/repo/com.eblan.launcher_40.apk"
   },
   {
     "name": "Electrum Bitcoin Wallet",
@@ -5162,7 +5162,7 @@
   {
     "name": "EnigmaDroid",
     "description": "Easily control your Enigma2 box right from your Android device.",
-    "apk": "https://f-droid.org/repo/io.github.deprec8.enigmadroid_12.apk"
+    "apk": "https://f-droid.org/repo/io.github.deprec8.enigmadroid_13.apk"
   },
   {
     "name": "EnRecipes",
@@ -6317,7 +6317,7 @@
   {
     "name": "Fossify Gallery",
     "description": "Gallery with Photo editor. No Ads, Open-source, Private. No strings attached.",
-    "apk": "https://f-droid.org/repo/org.fossify.gallery_24.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.gallery_25.apk"
   },
   {
     "name": "Fossify Keyboard Beta",
@@ -6777,7 +6777,7 @@
   {
     "name": "GeoWeather",
     "description": "A Weather App that is so good, WIP (Work In Progress) and has many Features.",
-    "apk": "https://f-droid.org/repo/com.freetime.geoweather_16.apk"
+    "apk": "https://f-droid.org/repo/com.freetime.geoweather_18.apk"
   },
   {
     "name": "Gerberoid",
@@ -7932,7 +7932,7 @@
   {
     "name": "Infomaniak kDrive",
     "description": "The most secure cloud in Europe for SMEs and private individuals.",
-    "apk": "https://f-droid.org/repo/com.infomaniak.drive_501100701.apk"
+    "apk": "https://f-droid.org/repo/com.infomaniak.drive_501200001.apk"
   },
   {
     "name": "Infomaniak kMeet",
@@ -7947,7 +7947,7 @@
   {
     "name": "Infomaniak Mail",
     "description": "The secure messaging service for your emails",
-    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12300101.apk"
+    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12400001.apk"
   },
   {
     "name": "Information about NCBS",
@@ -8512,7 +8512,7 @@
   {
     "name": "KashCal",
     "description": "Modern Android calendar. iCloud & CalDAV finally done right. Private. Open.",
-    "apk": "https://f-droid.org/repo/org.onekash.kashcal_351.apk"
+    "apk": "https://f-droid.org/repo/org.onekash.kashcal_352.apk"
   },
   {
     "name": "Katawa Shoujo: Re-Engineered",
@@ -8532,7 +8532,7 @@
   {
     "name": "KDE Connect",
     "description": "KDE Connect integrates your smartphone and computer",
-    "apk": "https://f-droid.org/repo/org.kde.kdeconnect_tp_13403.apk"
+    "apk": "https://f-droid.org/repo/org.kde.kdeconnect_tp_13404.apk"
   },
   {
     "name": "kDI Device Info system permission",
@@ -9376,8 +9376,8 @@
   },
   {
     "name": "Linux Command Library",
-    "description": "7703 manual pages, 23 basic categories and a bunch of general terminal tips.",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_131.apk"
+    "description": "7713 manual pages, 23 basic categories and a bunch of general terminal tips.",
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_132.apk"
   },
   {
     "name": "Linux Counter Updater",
@@ -10372,7 +10372,7 @@
   {
     "name": "Middor",
     "description": "Mirror applications for HUD display with horizontal flip.",
-    "apk": "https://f-droid.org/repo/org.nktnet.middor_5.apk"
+    "apk": "https://f-droid.org/repo/org.nktnet.middor_6.apk"
   },
   {
     "name": "MIDICtrl",
@@ -11407,7 +11407,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260204.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260205.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -12342,7 +12342,7 @@
   {
     "name": "OpenBible",
     "description": "OpenBible provides the Bible with as little distractions as possible",
-    "apk": "https://f-droid.org/repo/com.schwegelbin.openbible_37.apk"
+    "apk": "https://f-droid.org/repo/com.schwegelbin.openbible_38.apk"
   },
   {
     "name": "OpenBike",
@@ -12642,7 +12642,7 @@
   {
     "name": "Orgro",
     "description": "Live your life in Org Mode? Take it with you on your Android device.",
-    "apk": "https://f-droid.org/repo/com.madlonkay.orgro_222.apk"
+    "apk": "https://f-droid.org/repo/com.madlonkay.orgro_225.apk"
   },
   {
     "name": "Orgzly Revived",
@@ -13642,7 +13642,7 @@
   {
     "name": "plees-tracker",
     "description": "Plees Tracker is a simple sleep tracker for your Android phone.",
-    "apk": "https://f-droid.org/repo/hu.vmiklos.plees_tracker_62.apk"
+    "apk": "https://f-droid.org/repo/hu.vmiklos.plees_tracker_63.apk"
   },
   {
     "name": "Plexus",
@@ -14897,7 +14897,7 @@
   {
     "name": "Ringdroid - Ringtone editor",
     "description": "An application for creating your own ringtones.",
-    "apk": "https://f-droid.org/repo/org.thayyil.ringdroid_20900.apk"
+    "apk": "https://f-droid.org/repo/org.thayyil.ringdroid_20901.apk"
   },
   {
     "name": "Ripple: respond when panicking",
@@ -15127,7 +15127,7 @@
   {
     "name": "RunnerUp",
     "description": "RunnerUp - an open source GPS tracker with advanced workout and audio cues.",
-    "apk": "https://f-droid.org/repo/org.runnerup.free_21000337.apk"
+    "apk": "https://f-droid.org/repo/org.runnerup.free_21000340.apk"
   },
   {
     "name": "Running Services Monitor",
@@ -16372,7 +16372,7 @@
   {
     "name": "SimpleXray",
     "description": "A simple, fast Xray client",
-    "apk": "https://f-droid.org/repo/com.simplexray.an_35.apk"
+    "apk": "https://f-droid.org/repo/com.simplexray.an_36.apk"
   },
   {
     "name": "Simply Scored",
@@ -17332,7 +17332,7 @@
   {
     "name": "Super Productivity",
     "description": "Free to do list & time tracker",
-    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1700129000.apk"
+    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1701009000.apk"
   },
   {
     "name": "Super Retro Mega Wars",
@@ -17452,7 +17452,7 @@
   {
     "name": "Syncthing-Fork",
     "description": "Wrapper for Syncthing - Open and decentralized file synchronization",
-    "apk": "https://f-droid.org/repo/com.github.catfriend1.syncthingfork_2001300.apk"
+    "apk": "https://f-droid.org/repo/com.github.catfriend1.syncthingfork_2001301.apk"
   },
   {
     "name": "Syncthing-Lite",
@@ -17497,7 +17497,7 @@
   {
     "name": "Table Habit",
     "description": "Boost your own habit growth with charts.",
-    "apk": "https://f-droid.org/repo/io.github.friesi23.mhabit_137.apk"
+    "apk": "https://f-droid.org/repo/io.github.friesi23.mhabit_142.apk"
   },
   {
     "name": "Tableau de bord Rolling",
@@ -18452,7 +18452,7 @@
   {
     "name": "Tranquil Stopwatch",
     "description": "Stopwatch with current time display for long, non-interactive sessions.",
-    "apk": "https://f-droid.org/repo/tibarj.tranquilstopwatch_14.apk"
+    "apk": "https://f-droid.org/repo/tibarj.tranquilstopwatch_15.apk"
   },
   {
     "name": "Trans",
@@ -18997,7 +18997,7 @@
   {
     "name": "Unstoppable Crypto Wallet",
     "description": "Bitcoin, Ethereum, DeFi",
-    "apk": "https://f-droid.org/repo/io.horizontalsystems.bankwallet_152.apk"
+    "apk": "https://f-droid.org/repo/io.horizontalsystems.bankwallet_153.apk"
   },
   {
     "name": "Untracker",
@@ -20447,7 +20447,7 @@
   {
     "name": "Zimly S3 Backup",
     "description": "Synchronise your media and documents to any S3 compatible storage",
-    "apk": "https://f-droid.org/repo/app.zimly.backup_89.apk"
+    "apk": "https://f-droid.org/repo/app.zimly.backup_90.apk"
   },
   {
     "name": "Zorin Connect",
