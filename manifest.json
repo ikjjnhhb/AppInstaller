@@ -1802,7 +1802,7 @@
   {
     "name": "Binary Eye",
     "description": "QR code and barcode scanner with no ads",
-    "apk": "https://f-droid.org/repo/de.markusfisch.android.binaryeye_150.apk"
+    "apk": "https://f-droid.org/repo/de.markusfisch.android.binaryeye_151.apk"
   },
   {
     "name": "Binary Kitchen Doorlock",
@@ -2252,7 +2252,7 @@
   {
     "name": "Breakout 71",
     "description": "Break colourful bricks, catch bouncing coins and select powerful upgrades !",
-    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29467455.apk"
+    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29475764.apk"
   },
   {
     "name": "Breathly",
@@ -2363,6 +2363,11 @@
     "name": "Burger Party",
     "description": "Are you fast enough to put together the burgers ordered by your customers?",
     "apk": "https://f-droid.org/repo/com.agateau.burgerparty_33.apk"
+  },
+  {
+    "name": "Buses",
+    "description": "Geographical GB bus times lookup app",
+    "apk": "https://f-droid.org/repo/org.billthefarmer.buses_106.apk"
   },
   {
     "name": "Bushido Blocks",
@@ -2822,7 +2827,7 @@
   {
     "name": "Celestia",
     "description": "3D interactive planetarium",
-    "apk": "https://f-droid.org/repo/space.celestia.mobilecelestia_649.apk"
+    "apk": "https://f-droid.org/repo/space.celestia.mobilecelestia_670.apk"
   },
   {
     "name": "Ceno Browser: Share the Web",
@@ -3602,7 +3607,7 @@
   {
     "name": "Critical Maps",
     "description": "Critical mass location sharing and chat",
-    "apk": "https://f-droid.org/repo/de.stephanlindauer.criticalmaps_49.apk"
+    "apk": "https://f-droid.org/repo/de.stephanlindauer.criticalmaps_50.apk"
   },
   {
     "name": "Critical Velocity",
@@ -4812,7 +4817,7 @@
   {
     "name": "Dungeon Crawl Stone Soup",
     "description": "A roguelike adventure through dungeons in a quest to find the Orb of Zot",
-    "apk": "https://f-droid.org/repo/org.develz.crawl_34.apk"
+    "apk": "https://f-droid.org/repo/org.develz.crawl_35.apk"
   },
   {
     "name": "Dungeon Crawl: Stone Soup for Android",
@@ -5377,7 +5382,7 @@
   {
     "name": "Exclave",
     "description": "Proxy client",
-    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1541.apk"
+    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1546.apk"
   },
   {
     "name": "Exercise Reminders",
@@ -5447,7 +5452,7 @@
   {
     "name": "F-Droid Build Status",
     "description": "Shows and monitors build status from F-Droid",
-    "apk": "https://f-droid.org/repo/de.storchp.fdroidbuildstatus_115.apk"
+    "apk": "https://f-droid.org/repo/de.storchp.fdroidbuildstatus_116.apk"
   },
   {
     "name": "F-Droid Classic",
@@ -5652,7 +5657,7 @@
   {
     "name": "Fedilab",
     "description": "Fedilab - a multifunctional Android client to access the distributed Fediverse, ",
-    "apk": "https://f-droid.org/repo/fr.gouv.etalab.mastodon_538.apk"
+    "apk": "https://f-droid.org/repo/fr.gouv.etalab.mastodon_539.apk"
   },
   {
     "name": "FediPhoto-Lineage",
@@ -5672,7 +5677,7 @@
   {
     "name": "Feeder (Play version)",
     "description": "An awesome Libre and Open Source RSS feed reader",
-    "apk": "https://f-droid.org/repo/com.nononsenseapps.feeder.play_3813.apk"
+    "apk": "https://f-droid.org/repo/com.nononsenseapps.feeder.play_3842.apk"
   },
   {
     "name": "FeedFlow - RSS Reader",
@@ -6552,7 +6557,7 @@
   {
     "name": "Fulguris Web Browser",
     "description": "Fast, customizable with sessions, ad blocking & privacy features",
-    "apk": "https://f-droid.org/repo/net.slions.fulguris.full.fdroid_257.apk"
+    "apk": "https://f-droid.org/repo/net.slions.fulguris.full.fdroid_258.apk"
   },
   {
     "name": "Full colemak",
@@ -6687,7 +6692,7 @@
   {
     "name": "Gauguin",
     "description": "A Sudoku-like logic game",
-    "apk": "https://f-droid.org/repo/org.piepmeyer.gauguin_64.apk"
+    "apk": "https://f-droid.org/repo/org.piepmeyer.gauguin_66.apk"
   },
   {
     "name": "GC-Tools",
@@ -8522,7 +8527,7 @@
   {
     "name": "Kazumi",
     "description": "An anime collection APP based on custom rules.",
-    "apk": "https://f-droid.org/repo/com.predidit.kazumi_109042.apk"
+    "apk": "https://f-droid.org/repo/com.predidit.kazumi_109052.apk"
   },
   {
     "name": "kboard",
@@ -8687,7 +8692,7 @@
   {
     "name": "kitshn (for Tandoor)",
     "description": "An unofficial client for the self-hosted Tandoor recipe management software.",
-    "apk": "https://f-droid.org/repo/de.kitshn.android_20010.apk"
+    "apk": "https://f-droid.org/repo/de.kitshn.android_20020.apk"
   },
   {
     "name": "Kitsune",
@@ -9002,7 +9007,7 @@
   {
     "name": "Launch - Minimalist Launcher",
     "description": "A clean, efficient, and minimalist Android launcher.",
-    "apk": "https://f-droid.org/repo/com.guruswarupa.launchh_8.apk"
+    "apk": "https://f-droid.org/repo/com.guruswarupa.launchh_9.apk"
   },
   {
     "name": "Launch Chat",
@@ -10417,7 +10422,7 @@
   {
     "name": "Mill",
     "description": "A Mill Game which supports many rule variants, written in Flutter",
-    "apk": "https://f-droid.org/repo/com.calcitem.sanmill_5022.apk"
+    "apk": "https://f-droid.org/repo/com.calcitem.sanmill_5402.apk"
   },
   {
     "name": "Min Time",
@@ -11502,7 +11507,7 @@
   {
     "name": "NFC Radio",
     "description": "Simple NFC audio player to start playback with NFC tags",
-    "apk": "https://f-droid.org/repo/com.trapplab.nfc_radio_1103.apk"
+    "apk": "https://f-droid.org/repo/com.trapplab.nfc_radio_1200.apk"
   },
   {
     "name": "NFC Reader",
@@ -14517,7 +14522,7 @@
   {
     "name": "Railway station photos",
     "description": "Collect photos of railway stations for https://railway-stations.org",
-    "apk": "https://f-droid.org/repo/de.bahnhoefe.deutschlands.bahnhofsfotos_94.apk"
+    "apk": "https://f-droid.org/repo/de.bahnhoefe.deutschlands.bahnhofsfotos_95.apk"
   },
   {
     "name": "RainTime",
@@ -16417,7 +16422,7 @@
   {
     "name": "Siteswap Generator",
     "description": "Generate juggling siteswaps for passing",
-    "apk": "https://f-droid.org/repo/namlit.siteswapgenerator_37.apk"
+    "apk": "https://f-droid.org/repo/namlit.siteswapgenerator_38.apk"
   },
   {
     "name": "Sithakuru",
@@ -17452,7 +17457,7 @@
   {
     "name": "Syncthing-Fork",
     "description": "Wrapper for Syncthing - Open and decentralized file synchronization",
-    "apk": "https://f-droid.org/repo/com.github.catfriend1.syncthingfork_2001301.apk"
+    "apk": "https://f-droid.org/repo/com.github.catfriend1.syncthingfork_2001400.apk"
   },
   {
     "name": "Syncthing-Lite",
@@ -18307,7 +18312,7 @@
   {
     "name": "Torrents Digger",
     "description": "Dig Torrents from Internet.",
-    "apk": "https://f-droid.org/repo/org.forthecommunity.torrentsdigger_1601.apk"
+    "apk": "https://f-droid.org/repo/org.forthecommunity.torrentsdigger_1701.apk"
   },
   {
     "name": "Torrents-csv-android",
@@ -18717,7 +18722,7 @@
   {
     "name": "Tubular",
     "description": "A fork of NewPipe, a free lightweight YouTube frontend for Android.",
-    "apk": "https://f-droid.org/repo/org.polymorphicshade.tubular_1003.apk"
+    "apk": "https://f-droid.org/repo/org.polymorphicshade.tubular_1004.apk"
   },
   {
     "name": "TuCanMobile",
@@ -19042,7 +19047,7 @@
   {
     "name": "Urik Keyboard",
     "description": "Privacy-focused Android keyboard",
-    "apk": "https://f-droid.org/repo/com.urik.keyboard_49.apk"
+    "apk": "https://f-droid.org/repo/com.urik.keyboard_50.apk"
   },
   {
     "name": "Url forwarder",
@@ -19702,7 +19707,7 @@
   {
     "name": "WebLibre: The Privacy-Focused Browser",
     "description": "Privacy-focused browser with local AI, advanced tab management, personal search,",
-    "apk": "https://f-droid.org/repo/eu.weblibre.gecko_313.apk"
+    "apk": "https://f-droid.org/repo/eu.weblibre.gecko_333.apk"
   },
   {
     "name": "Webmon",
