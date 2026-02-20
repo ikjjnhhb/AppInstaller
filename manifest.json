@@ -2787,7 +2787,7 @@
   {
     "name": "Cavity",
     "description": "Wine cellar manager for Android",
-    "apk": "https://f-droid.org/repo/com.louis.app.cavity_39.apk"
+    "apk": "https://f-droid.org/repo/com.louis.app.cavity_40.apk"
   },
   {
     "name": "CBTAndroid",
@@ -3362,7 +3362,7 @@
   {
     "name": "Commons",
     "description": "Upload images to wikimedia.org",
-    "apk": "https://f-droid.org/repo/fr.free.nrw.commons_1059.apk"
+    "apk": "https://f-droid.org/repo/fr.free.nrw.commons_1060.apk"
   },
   {
     "name": "Community compass",
@@ -5172,7 +5172,7 @@
   {
     "name": "Ente Photos - Encrypted photo storage",
     "description": "Backup, Organise, Share - Private photo storage with end-to-end encryption",
-    "apk": "https://f-droid.org/repo/io.ente.photos.fdroid_1231.apk"
+    "apk": "https://f-droid.org/repo/io.ente.photos.fdroid_1300.apk"
   },
   {
     "name": "Enthusiast Tea Timer",
@@ -5437,7 +5437,7 @@
   {
     "name": "F-Droid Basic",
     "description": "The minimal client app for the app store that respects freedom and privacy",
-    "apk": "https://f-droid.org/repo/org.fdroid.basic_1023050.apk"
+    "apk": "https://f-droid.org/repo/org.fdroid.basic_1023051.apk"
   },
   {
     "name": "F-Droid Build Status",
@@ -5907,7 +5907,7 @@
   {
     "name": "Flare",
     "description": " All your Mastodon, Bluesky, Misskey, X, RSS feeds, in one APP. ",
-    "apk": "https://f-droid.org/repo/dev.dimension.flare_1120.apk"
+    "apk": "https://f-droid.org/repo/dev.dimension.flare_1130.apk"
   },
   {
     "name": "FLARE",
@@ -6087,7 +6087,7 @@
   {
     "name": "Flux",
     "description": "Minimalistic, Material UI, Productivity Application",
-    "apk": "https://f-droid.org/repo/com.flux_2.apk"
+    "apk": "https://f-droid.org/repo/com.flux_3.apk"
   },
   {
     "name": "Flux News",
@@ -7117,7 +7117,7 @@
   {
     "name": "Grazer Linuxtage",
     "description": "Browse the \"Grazer Linuxtage\" schedule",
-    "apk": "https://f-droid.org/repo/at.linuxtage.Eventfahrplan_1700024.apk"
+    "apk": "https://f-droid.org/repo/at.linuxtage.Eventfahrplan_1700025.apk"
   },
   {
     "name": "Greek for AnySoftKeyboard",
@@ -10437,7 +10437,7 @@
   {
     "name": "Mindustry",
     "description": "An open-ended factory management game with RTS and tower defense elements",
-    "apk": "https://f-droid.org/repo/io.anuke.mindustry_1084.apk"
+    "apk": "https://f-droid.org/repo/io.anuke.mindustry_1085.apk"
   },
   {
     "name": "Minecraft Clock",
@@ -11727,7 +11727,7 @@
   {
     "name": "NotallyX - Quick Notes/Tasks",
     "description": "A simple and minimalistic open source notes app",
-    "apk": "https://f-droid.org/repo/com.philkes.notallyx_7530.apk"
+    "apk": "https://f-droid.org/repo/com.philkes.notallyx_7600.apk"
   },
   {
     "name": "Note Crypt Pro",
@@ -12787,7 +12787,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_213.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_214.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -12832,7 +12832,7 @@
   {
     "name": "Pagan",
     "description": "A Mobile Music Sequencer",
-    "apk": "https://f-droid.org/repo/com.qfs.pagan_136.apk"
+    "apk": "https://f-droid.org/repo/com.qfs.pagan_137.apk"
   },
   {
     "name": "Page",
@@ -12917,7 +12917,7 @@
   {
     "name": "Parcel",
     "description": "Track all your parcels with ease.",
-    "apk": "https://f-droid.org/repo/dev.itsvic.parceltracker_10200000.apk"
+    "apk": "https://f-droid.org/repo/dev.itsvic.parceltracker_10300000.apk"
   },
   {
     "name": "Parcel - Pickup code",
@@ -17240,9 +17240,9 @@
     "apk": "https://f-droid.org/repo/com.flasskamp.subz_2.apk"
   },
   {
-    "name": "Sudaku - Make your rules to solve sudoku",
-    "description": "Constraint-based sudoku assistant for logical puzzle solving",
-    "apk": "https://f-droid.org/repo/com.gitea.theoden8.sudaku_8.apk"
+    "name": "Sudaku - Pattern-driven sudoku",
+    "description": "Find patterns to solve sudoku - your sudoku workhorse handles the grunt work",
+    "apk": "https://f-droid.org/repo/com.gitea.theoden8.sudaku_9.apk"
   },
   {
     "name": "Sudoku (Privacy Friendly)",
@@ -17307,7 +17307,7 @@
   {
     "name": "Suntimes",
     "description": "Sunlight and moonlight times (and alarms)",
-    "apk": "https://f-droid.org/repo/com.forrestguice.suntimeswidget_124.apk"
+    "apk": "https://f-droid.org/repo/com.forrestguice.suntimeswidget_125.apk"
   },
   {
     "name": "Suntimes Calendars",
@@ -20492,7 +20492,7 @@
   {
     "name": "天使动漫",
     "description": "Official client for tsdm39.com forum",
-    "apk": "https://f-droid.org/repo/kzs.th000.tsdm_client_512.apk"
+    "apk": "https://f-droid.org/repo/kzs.th000.tsdm_client_532.apk"
   },
   {
     "name": "开屏跳过",
