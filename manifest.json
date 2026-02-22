@@ -1507,12 +1507,12 @@
   {
     "name": "baresip",
     "description": "VoIP User Agent app for Android based on baresip SIP library",
-    "apk": "https://f-droid.org/repo/com.tutpro.baresip_476.apk"
+    "apk": "https://f-droid.org/repo/com.tutpro.baresip_477.apk"
   },
   {
     "name": "baresip+",
     "description": "VoIP User Agent app for Android based on baresip SIP library",
-    "apk": "https://f-droid.org/repo/com.tutpro.baresip.plus_240.apk"
+    "apk": "https://f-droid.org/repo/com.tutpro.baresip.plus_241.apk"
   },
   {
     "name": "BARIA",
@@ -3432,7 +3432,7 @@
   {
     "name": "Connect You",
     "description": "Privacy focused contacts and SMS messenger app build with MD3",
-    "apk": "https://f-droid.org/repo/com.bnyro.contacts_29.apk"
+    "apk": "https://f-droid.org/repo/com.bnyro.contacts_30.apk"
   },
   {
     "name": "ConnectBot",
@@ -3692,7 +3692,7 @@
   {
     "name": "Currency",
     "description": "Currency conversion",
-    "apk": "https://f-droid.org/repo/org.billthefarmer.currency_154.apk"
+    "apk": "https://f-droid.org/repo/org.billthefarmer.currency_155.apk"
   },
   {
     "name": "Cuscon",
@@ -4447,7 +4447,7 @@
   {
     "name": "DobbyVPN",
     "description": "VPN client-side toolset.",
-    "apk": "https://f-droid.org/repo/com.dobby.vpn_1001006.apk"
+    "apk": "https://f-droid.org/repo/com.dobby.vpn_1001013.apk"
   },
   {
     "name": "Dockeep: Pocket for Files",
@@ -4672,7 +4672,7 @@
   {
     "name": "Droid-ify",
     "description": "Clutterfree F-Droid client",
-    "apk": "https://f-droid.org/repo/com.looker.droidify_650.apk"
+    "apk": "https://f-droid.org/repo/com.looker.droidify_660.apk"
   },
   {
     "name": "DroidAtomix",
@@ -5372,7 +5372,7 @@
   {
     "name": "Exclave",
     "description": "Proxy client",
-    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1571.apk"
+    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1591.apk"
   },
   {
     "name": "Exercise Reminders",
@@ -5987,7 +5987,7 @@
   {
     "name": "Flicky",
     "description": "Unofficial Fdroid client (for Android TV)",
-    "apk": "https://f-droid.org/repo/app.flicky_737.apk"
+    "apk": "https://f-droid.org/repo/app.flicky_757.apk"
   },
   {
     "name": "Flicky Bee",
@@ -6067,7 +6067,7 @@
   {
     "name": "Fluffy",
     "description": "A TV friendly file manager and archive viewer",
-    "apk": "https://f-droid.org/repo/app.fluffy_657.apk"
+    "apk": "https://f-droid.org/repo/app.fluffy_667.apk"
   },
   {
     "name": "Fluffyboard",
@@ -6612,7 +6612,7 @@
   {
     "name": "G8 Invoicing",
     "description": "Create invoices, delivery notes and credit notes easily",
-    "apk": "https://f-droid.org/repo/com.a4a.g8invoicing_40.apk"
+    "apk": "https://f-droid.org/repo/com.a4a.g8invoicing_41.apk"
   },
   {
     "name": "Gadgetbridge",
@@ -6977,7 +6977,7 @@
   {
     "name": "Godot Engine 4",
     "description": "All-in-one, cross-platform game engine",
-    "apk": "https://f-droid.org/repo/org.godotengine.editor.v4_404015000.apk"
+    "apk": "https://f-droid.org/repo/org.godotengine.editor.v4_404015003.apk"
   },
   {
     "name": "GogoDroid",
@@ -7142,7 +7142,7 @@
   {
     "name": "Grit",
     "description": "A Simple ToDo List and Daily Habit Tracker",
-    "apk": "https://f-droid.org/repo/com.shub39.grit_5510.apk"
+    "apk": "https://f-droid.org/repo/com.shub39.grit_5520.apk"
   },
   {
     "name": "Grocery manager",
@@ -8502,17 +8502,17 @@
   {
     "name": "KashCal",
     "description": "All your calendars in one app. iCloud, CalDAV, holidays, birthdays. Private.",
-    "apk": "https://f-droid.org/repo/org.onekash.kashcal_398.apk"
+    "apk": "https://f-droid.org/repo/org.onekash.kashcal_399.apk"
   },
   {
     "name": "Katawa Shoujo: Re-Engineered",
     "description": "(18+) A fan-made modernization of the classic visual novel",
-    "apk": "https://f-droid.org/repo/sh.fhs.ksre_201.apk"
+    "apk": "https://f-droid.org/repo/sh.fhs.ksre_202.apk"
   },
   {
     "name": "Kazumi",
     "description": "An anime collection APP based on custom rules.",
-    "apk": "https://f-droid.org/repo/com.predidit.kazumi_109062.apk"
+    "apk": "https://f-droid.org/repo/com.predidit.kazumi_200012.apk"
   },
   {
     "name": "kboard",
@@ -9202,7 +9202,7 @@
   {
     "name": "LibreOffice Viewer",
     "description": "Document Viewer",
-    "apk": "https://f-droid.org/repo/org.documentfoundation.libreoffice_92.apk"
+    "apk": "https://f-droid.org/repo/org.documentfoundation.libreoffice_96.apk"
   },
   {
     "name": "Librera Reader",
@@ -9722,7 +9722,7 @@
   {
     "name": "Mages",
     "description": "Experimental Matrix client made using Compose Multiplatform (and Rust).",
-    "apk": "https://f-droid.org/repo/org.mlm.mages_508.apk"
+    "apk": "https://f-droid.org/repo/org.mlm.mages_518.apk"
   },
   {
     "name": "MagiaDNI",
@@ -10117,7 +10117,7 @@
   {
     "name": "MedTimer",
     "description": "Med reminders and history with full offline privacy",
-    "apk": "https://f-droid.org/repo/com.futsch1.medtimer_153.apk"
+    "apk": "https://f-droid.org/repo/com.futsch1.medtimer_154.apk"
   },
   {
     "name": "Meerkat Challenge",
@@ -11027,7 +11027,7 @@
   {
     "name": "My Expenses",
     "description": "Easy to use personal finance manager: rich functionality and Open Source",
-    "apk": "https://f-droid.org/repo/org.totschnig.myexpenses_824.apk"
+    "apk": "https://f-droid.org/repo/org.totschnig.myexpenses_825.apk"
   },
   {
     "name": "My Leaf",
@@ -11217,7 +11217,7 @@
   {
     "name": "Neo Store",
     "description": "A modern feature-rich F-Droid client.",
-    "apk": "https://f-droid.org/repo/com.machiav3lli.fdroid_1110.apk"
+    "apk": "https://f-droid.org/repo/com.machiav3lli.fdroid_1200.apk"
   },
   {
     "name": "Neo2 External Keyboard",
@@ -11292,7 +11292,7 @@
   {
     "name": "Network Survey",
     "description": "Displays and Logs Cellular, Wi-Fi, Bluetooth, and GNSS Network Survey Details",
-    "apk": "https://f-droid.org/repo/com.craxiom.networksurvey_102.apk"
+    "apk": "https://f-droid.org/repo/com.craxiom.networksurvey_103.apk"
   },
   {
     "name": "Network Tester",
@@ -11402,7 +11402,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260216.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260217.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -11922,7 +11922,7 @@
   {
     "name": "NymVPN – Private VPN",
     "description": "The World’s Most Private VPN",
-    "apk": "https://f-droid.org/repo/net.nymtech.nymvpn_21000.apk"
+    "apk": "https://f-droid.org/repo/net.nymtech.nymvpn_26000.apk"
   },
   {
     "name": "NZ Tides",
@@ -12187,7 +12187,7 @@
   {
     "name": "OONI Probe",
     "description": "Measure Internet Censorship, Speed & Performance",
-    "apk": "https://f-droid.org/repo/org.openobservatory.ooniprobe_231.apk"
+    "apk": "https://f-droid.org/repo/org.openobservatory.ooniprobe_241.apk"
   },
   {
     "name": "OOS Firmware Extractor",
@@ -12997,7 +12997,7 @@
   {
     "name": "Password Generator",
     "description": "Password Generator is an app for generating secure passwords",
-    "apk": "https://f-droid.org/repo/com.vecturagames.android.app.passwordgenerator_42.apk"
+    "apk": "https://f-droid.org/repo/com.vecturagames.android.app.passwordgenerator_43.apk"
   },
   {
     "name": "Password Generator",
@@ -13012,7 +13012,7 @@
   {
     "name": "Password Master",
     "description": "Password Master generates and manages passwords in a secure encrypted database",
-    "apk": "https://f-droid.org/repo/com.vecturagames.android.app.passwordmaster_11.apk"
+    "apk": "https://f-droid.org/repo/com.vecturagames.android.app.passwordmaster_12.apk"
   },
   {
     "name": "Password Monitor",
@@ -13132,7 +13132,7 @@
   {
     "name": "PeerTube Live",
     "description": "Stream your device camera to your PeerTube channel!",
-    "apk": "https://f-droid.org/repo/fr.mobdev.peertubelive_2.apk"
+    "apk": "https://f-droid.org/repo/fr.mobdev.peertubelive_3.apk"
   },
   {
     "name": "Pekka Kana 2",
@@ -13557,7 +13557,7 @@
   {
     "name": "PlainApp: File & Web Access",
     "description": "Manage your phone on the web! Access files, contacts, videos, music & more.",
-    "apk": "https://f-droid.org/repo/com.ismartcoding.plain_470.apk"
+    "apk": "https://f-droid.org/repo/com.ismartcoding.plain_473.apk"
   },
   {
     "name": "Planes Android",
@@ -14142,7 +14142,7 @@
   {
     "name": "ProtonVPN - Secure and Free VPN",
     "description": "Free Swiss VPN with advanced security and privacy features.",
-    "apk": "https://f-droid.org/repo/ch.protonvpn.android_605150502.apk"
+    "apk": "https://f-droid.org/repo/ch.protonvpn.android_605150904.apk"
   },
   {
     "name": "ProximitySensorFix",
@@ -15457,7 +15457,7 @@
   {
     "name": "Screenshot Tile (NoRoot)",
     "description": "Quickly take screenshots from the quick settings panel",
-    "apk": "https://f-droid.org/repo/com.github.cvzi.screenshottile_137.apk"
+    "apk": "https://f-droid.org/repo/com.github.cvzi.screenshottile_138.apk"
   },
   {
     "name": "ScreenStream",
@@ -17647,7 +17647,7 @@
   {
     "name": "Tasks.org: Open-source To-Do Lists & Reminders",
     "description": "Private, ad-free task lists! Optional sync with Google Tasks, CalDAV or EteSync!",
-    "apk": "https://f-droid.org/repo/org.tasks_141000.apk"
+    "apk": "https://f-droid.org/repo/org.tasks_141100.apk"
   },
   {
     "name": "Taskwarrior",
@@ -17997,7 +17997,7 @@
   {
     "name": "tiefprompt",
     "description": "The ultimate open source teleprompter application, TiefPrompt, elevates your spe",
-    "apk": "https://f-droid.org/repo/io.github.tiefseetauchner.tiefprompt_141.apk"
+    "apk": "https://f-droid.org/repo/io.github.tiefseetauchner.tiefprompt_151.apk"
   },
   {
     "name": "Tilde Friends",
@@ -18927,7 +18927,7 @@
   {
     "name": "Unitto — calculator and unit converter",
     "description": "Calculate and convert anything",
-    "apk": "https://f-droid.org/repo/com.sadellie.unitto_66.apk"
+    "apk": "https://f-droid.org/repo/com.sadellie.unitto_68.apk"
   },
   {
     "name": "Unix Time Clock Widget",
@@ -20222,7 +20222,7 @@
   {
     "name": "Xtra",
     "description": "Third-party Twitch client",
-    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_321.apk"
+    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_322.apk"
   },
   {
     "name": "xvii messenger for vk",
