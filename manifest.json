@@ -562,7 +562,7 @@
   {
     "name": "Amarok",
     "description": "Hide your private Files and APPs with a single click.",
-    "apk": "https://f-droid.org/repo/deltazero.amarok.foss_117.apk"
+    "apk": "https://f-droid.org/repo/deltazero.amarok.foss_116.apk"
   },
   {
     "name": "Amaze File Manager",
@@ -4387,7 +4387,7 @@
   {
     "name": "Dispensa",
     "description": null,
-    "apk": "https://f-droid.org/repo/eu.frigo.dispensa_8.apk"
+    "apk": "https://f-droid.org/repo/eu.frigo.dispensa_11.apk"
   },
   {
     "name": "Display Toggle",
@@ -5835,6 +5835,11 @@
     "apk": "https://f-droid.org/repo/nl.moeilijkedingen.jellyfinaudioplayer_34.apk"
   },
   {
+    "name": "Fire Brigade Competition Radio Trainer (HFLÜ Hesse",
+    "description": "**Training app for radio messages and commands used in the Hessian Fire Brigade ",
+    "apk": "https://f-droid.org/repo/de.questmaster.wettkampf_funk_trainer_41.apk"
+  },
+  {
     "name": "Fire Strike Retro",
     "description": "An old-school 3d-shooter with cartoon graphics from creators of Gloomy Dungeons.",
     "apk": "https://f-droid.org/repo/com.eightsines.firestrike.opensource_2000.apk"
@@ -6588,11 +6593,6 @@
     "name": "Futon",
     "description": "Manga reader with online catalogues ( kotatsu fork )",
     "apk": "https://f-droid.org/repo/io.github.landwarderer.futon_90609.apk"
-  },
-  {
-    "name": "FW-Wettkampf Funk-Trainer",
-    "description": "Here you can train radio messages for the hessian Feuerwehr-Leistungsübung!",
-    "apk": "https://f-droid.org/repo/de.questmaster.wettkampf_funk_trainer_38.apk"
   },
   {
     "name": "fWallet",
