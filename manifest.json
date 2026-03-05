@@ -2040,6 +2040,11 @@
     "apk": "https://f-droid.org/repo/de.simon.dankelmann.bluetoothlespam_1.apk"
   },
   {
+    "name": "Bluetooth QR & Barcode to PC",
+    "description": "Enables sending QR/Barcodes to a Bluetooth Device (e.g PC) without any Software",
+    "apk": "https://f-droid.org/repo/dev.fabik.bluetoothhid_56.apk"
+  },
+  {
     "name": "Bluetooth Remote",
     "description": "Bluetooth remote control for Android TV.",
     "apk": "https://f-droid.org/repo/com.atharok.btremote_19.apk"
@@ -4782,7 +4787,7 @@
   {
     "name": "DuckDuckGo Privacy Browser",
     "description": "Privacy, simplified",
-    "apk": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52641000.apk"
+    "apk": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52650000.apk"
   },
   {
     "name": "DuckRun",
@@ -7845,6 +7850,11 @@
     "apk": "https://f-droid.org/repo/org.exarhteam.iitc_mobile_1745065918.apk"
   },
   {
+    "name": "Image Compressor",
+    "description": "Compress JPEG/PNG images using mozjpeg or jpegli offline",
+    "apk": "https://f-droid.org/repo/io.ahxxm.ic_41.apk"
+  },
+  {
     "name": "Image Meta Cleaner",
     "description": "a cross-platform application designed to Show and Remove metadata from images",
     "apk": "https://f-droid.org/repo/code.alimiracle.image_meta_cleaner_1.apk"
@@ -8317,7 +8327,7 @@
   {
     "name": "Jiyi",
     "description": "Encrypted audio logging app",
-    "apk": "https://f-droid.org/repo/com.github.xiaoshihou.jiyi_111.apk"
+    "apk": "https://f-droid.org/repo/com.github.xiaoshihou.jiyi_121.apk"
   },
   {
     "name": "JKU App",
@@ -8817,7 +8827,7 @@
   {
     "name": "Kreate",
     "description": "A multilingual YouTube Music frontend for Android, prioritize performance.",
-    "apk": "https://f-droid.org/repo/me.knighthat.kreate_123.apk"
+    "apk": "https://f-droid.org/repo/me.knighthat.kreate_124.apk"
   },
   {
     "name": "Krita",
@@ -9188,6 +9198,11 @@
     "name": "LibreBible",
     "description": "The libre software Latin Vulgate Bible reader for Android.",
     "apk": "https://f-droid.org/repo/xyz.yeikoff.librebible_20231110.apk"
+  },
+  {
+    "name": "LibreFind",
+    "description": null,
+    "apk": "https://f-droid.org/repo/com.jksalcedo.librefind_16.apk"
   },
   {
     "name": "Libreflix",
@@ -11203,6 +11218,11 @@
     "name": "NClientV2",
     "description": "An unofficial NHentai Android Client.",
     "apk": "https://f-droid.org/repo/com.dar.nclientv2_301.apk"
+  },
+  {
+    "name": "NClientV3",
+    "description": "A configurable manga client for Android. Fork of NClientV2.",
+    "apk": "https://f-droid.org/repo/com.yosefario.nclientv3_421.apk"
   },
   {
     "name": "NDEF Tools for Android",
@@ -14230,6 +14250,11 @@
     "apk": "https://f-droid.org/repo/com.hardcodecoder.pulsemusic_210040100.apk"
   },
   {
+    "name": "Punch-hole Download Progress",
+    "description": "Xposed module showing download progress around the camera cutout",
+    "apk": "https://f-droid.org/repo/eu.hxreborn.phdp_10207.apk"
+  },
+  {
     "name": "Pushie",
     "description": "Provides temporary, secure, password sharing",
     "apk": "https://f-droid.org/repo/com.chesire.pushie_13.apk"
@@ -14795,6 +14820,11 @@
     "apk": "https://f-droid.org/repo/com.replica.replicaisland_14.apk"
   },
   {
+    "name": "RepoStore",
+    "description": "Discover, install, and update Android apps directly from GitHub releases.",
+    "apk": "https://f-droid.org/repo/com.samyak.repostore_15.apk"
+  },
+  {
     "name": "RepWifi",
     "description": "Connect to Wi-Fi using an external USB adapter",
     "apk": "https://f-droid.org/repo/fil.libre.repwifiapp_3.apk"
@@ -14923,6 +14953,11 @@
     "name": "Ringdroid - Ringtone editor",
     "description": "An application for creating your own ringtones.",
     "apk": "https://f-droid.org/repo/org.thayyil.ringdroid_20904.apk"
+  },
+  {
+    "name": "RiPlay",
+    "description": "Multiplatform Music Player",
+    "apk": "https://f-droid.org/repo/it.fast4x.riplay_69.apk"
   },
   {
     "name": "Ripple: respond when panicking",
@@ -18455,6 +18490,11 @@
     "apk": "https://f-droid.org/repo/trailence.org_10303.apk"
   },
   {
+    "name": "Trails Hito",
+    "description": "A simple and lightweight application for managing and exploring trails.",
+    "apk": "https://f-droid.org/repo/com.hito.trails.app_1.apk"
+  },
+  {
     "name": "Trains Locations",
     "description": "A UnifiedNLP provider which uses the location data from trains! 🚂",
     "apk": "https://f-droid.org/repo/de.sorunome.unifiednlp.trains_13.apk"
@@ -19998,6 +20038,11 @@
     "name": "WikiReader",
     "description": "Read Wikipedia pages distraction-free",
     "apk": "https://f-droid.org/repo/org.nsh07.wikireader_50.apk"
+  },
+  {
+    "name": "Wikisource Reader",
+    "description": "Access public domain and freely licensed works from the Wikisource project.",
+    "apk": "https://f-droid.org/repo/org.cis_india.wsreader_145.apk"
   },
   {
     "name": "WikWok",
