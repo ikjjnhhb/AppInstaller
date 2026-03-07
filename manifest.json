@@ -772,7 +772,7 @@
   {
     "name": "ANeko Reborn",
     "description": "A modern remake of Neko—your classic desktop cat pet on Android.",
-    "apk": "https://f-droid.org/repo/org.nqmgaming.aneko_25.apk"
+    "apk": "https://f-droid.org/repo/org.nqmgaming.aneko_27.apk"
   },
   {
     "name": "Anemo",
@@ -2222,7 +2222,7 @@
   {
     "name": "Box, Box!",
     "description": "Unofficial app for Formula 1 and Formula E fans!",
-    "apk": "https://f-droid.org/repo/org.brightdv.boxbox_38.apk"
+    "apk": "https://f-droid.org/repo/org.brightdv.boxbox_39.apk"
   },
   {
     "name": "Boxcars",
@@ -2262,7 +2262,7 @@
   {
     "name": "Breakout 71",
     "description": "Break colourful bricks, catch bouncing coins and select powerful upgrades !",
-    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29508145.apk"
+    "apk": "https://f-droid.org/repo/me.lecaro.breakout_29519142.apk"
   },
   {
     "name": "Breathly",
@@ -3512,7 +3512,7 @@
   {
     "name": "Conversations",
     "description": "Encrypted, easy-to-use XMPP instant messenger for your mobile device",
-    "apk": "https://f-droid.org/repo/eu.siacs.conversations_4216701.apk"
+    "apk": "https://f-droid.org/repo/eu.siacs.conversations_4216801.apk"
   },
   {
     "name": "Converter NOW: Unit Converter",
@@ -3817,7 +3817,7 @@
   {
     "name": "Daily You",
     "description": "Every day is worth remembering…",
-    "apk": "https://f-droid.org/repo/com.demizo.daily_you_20170001.apk"
+    "apk": "https://f-droid.org/repo/com.demizo.daily_you_20170011.apk"
   },
   {
     "name": "DailyAL",
@@ -5392,7 +5392,7 @@
   {
     "name": "Exclave",
     "description": "Proxy client",
-    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1626.apk"
+    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1631.apk"
   },
   {
     "name": "Exercise Reminders",
@@ -6387,7 +6387,7 @@
   {
     "name": "FossWallet",
     "description": "FossWallet is a MDY Wallet for Apple Passbook (.pkpass) files",
-    "apk": "https://f-droid.org/repo/nz.eloque.foss_wallet_94.apk"
+    "apk": "https://f-droid.org/repo/nz.eloque.foss_wallet_95.apk"
   },
   {
     "name": "Foto Timer",
@@ -8496,8 +8496,8 @@
   },
   {
     "name": "Kai",
-    "description": "Fast, Simple Open-Source AI Chat",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.kai_59.apk"
+    "description": "OpenClaw alternative in your pocket",
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.kai_60.apk"
   },
   {
     "name": "Kaku",
@@ -9416,8 +9416,8 @@
   },
   {
     "name": "Linux Command Library",
-    "description": "7770 manual pages, 23 basic categories and a bunch of general terminal tips.",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_137.apk"
+    "description": "8288 manual pages, 28 basic categories and a bunch of general terminal tips.",
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.linuxcommandbibliotheca_138.apk"
   },
   {
     "name": "Linux Counter Updater",
@@ -9447,7 +9447,7 @@
   {
     "name": "Lissen: Audiobookshelf client",
     "description": "Clean Audiobookshelf Player",
-    "apk": "https://f-droid.org/repo/org.grakovne.lissen_10813.apk"
+    "apk": "https://f-droid.org/repo/org.grakovne.lissen_10814.apk"
   },
   {
     "name": "List My Apps",
@@ -10677,7 +10677,7 @@
   {
     "name": "Money Manager Ex",
     "description": "Manage your finances on-the-go, encrypted for security, sync via your storage ",
-    "apk": "https://f-droid.org/repo/com.money.manager.ex_1101.apk"
+    "apk": "https://f-droid.org/repo/com.money.manager.ex_1102.apk"
   },
   {
     "name": "Money Tracker",
@@ -11027,7 +11027,7 @@
   {
     "name": "MusicSearch",
     "description": "MusicSearch is an app for browsing songs, artists, and anything related to them",
-    "apk": "https://f-droid.org/repo/io.github.lydavid.musicsearch_821.apk"
+    "apk": "https://f-droid.org/repo/io.github.lydavid.musicsearch_822.apk"
   },
   {
     "name": "Musify",
@@ -11235,11 +11235,6 @@
     "apk": "https://f-droid.org/repo/de.jbservices.nc_passwords_app_20.apk"
   },
   {
-    "name": "NClientV2",
-    "description": "An unofficial NHentai Android Client.",
-    "apk": "https://f-droid.org/repo/com.dar.nclientv2_301.apk"
-  },
-  {
     "name": "NClientV3",
     "description": "A configurable manga client for Android. Fork of NClientV2.",
     "apk": "https://f-droid.org/repo/com.yosefario.nclientv3_421.apk"
@@ -11298,6 +11293,11 @@
     "name": "NeoStumbler",
     "description": "Application for collecting wireless networks to geolocation services",
     "apk": "https://f-droid.org/repo/xyz.malkki.neostumbler.fdroid_57.apk"
+  },
+  {
+    "name": "NerdCalci",
+    "description": "Calculator for nerds with variables, syntax highlighting, and file sessions",
+    "apk": "https://f-droid.org/repo/com.vishaltelangre.nerdcalci_180.apk"
   },
   {
     "name": "NerdSteam",
@@ -11412,7 +11412,7 @@
   {
     "name": "NewsBlur - News reader",
     "description": "News reader",
-    "apk": "https://f-droid.org/repo/com.newsblur_255.apk"
+    "apk": "https://f-droid.org/repo/com.newsblur_256.apk"
   },
   {
     "name": "Nex Notes",
@@ -11462,7 +11462,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260303.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260304.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -11787,7 +11787,7 @@
   {
     "name": "NotallyX - Quick Notes/Tasks",
     "description": "A simple and minimalistic open source notes app",
-    "apk": "https://f-droid.org/repo/com.philkes.notallyx_7700.apk"
+    "apk": "https://f-droid.org/repo/com.philkes.notallyx_7800.apk"
   },
   {
     "name": "Note Crypt Pro",
@@ -14457,7 +14457,7 @@
   {
     "name": "Quicksy",
     "description": "Jabber/XMPP with Easy Entry and Easy Discovery",
-    "apk": "https://f-droid.org/repo/im.quicksy.client_4216701.apk"
+    "apk": "https://f-droid.org/repo/im.quicksy.client_4216801.apk"
   },
   {
     "name": "QuickTile Settings",
@@ -15357,7 +15357,7 @@
   {
     "name": "Sapio",
     "description": "Android Open Source API compatibility",
-    "apk": "https://f-droid.org/repo/com.klee.sapio_70.apk"
+    "apk": "https://f-droid.org/repo/com.klee.sapio_71.apk"
   },
   {
     "name": "Saracroche",
@@ -17547,7 +17547,7 @@
   {
     "name": "Syncthing-Fork",
     "description": "Wrapper for Syncthing - Open and decentralized file synchronization",
-    "apk": "https://f-droid.org/repo/com.github.catfriend1.syncthingfork_2001400.apk"
+    "apk": "https://f-droid.org/repo/com.github.catfriend1.syncthingfork_2001401.apk"
   },
   {
     "name": "Syncthing-Lite",
@@ -18337,7 +18337,7 @@
   {
     "name": "ToLoShare",
     "description": "ToLoShare Location Share via Tox",
-    "apk": "https://f-droid.org/repo/com.zoffcc.applications.toloshare_10012.apk"
+    "apk": "https://f-droid.org/repo/com.zoffcc.applications.toloshare_10013.apk"
   },
   {
     "name": "Tomato",
@@ -19035,6 +19035,11 @@
     "apk": "https://f-droid.org/repo/com.physphil.android.unitconverterultimate_50700.apk"
   },
   {
+    "name": "UniThen",
+    "description": "Course check-in for ZHS without the bloaty UniNow app",
+    "apk": "https://f-droid.org/repo/de.bixilon.unithen_1.apk"
+  },
+  {
     "name": "Units",
     "description": "Powerful unit converter",
     "apk": "https://f-droid.org/repo/info.staticfree.android.units_7.apk"
@@ -19406,7 +19411,7 @@
   },
   {
     "name": "Vespucci - an OSM Editor",
-    "description": "Edit geodata and contribute to OpenStreetMap project on-the-go",
+    "description": "Vespucci is the most comprehensive editor for OpenStreetMap on Android.",
     "apk": "https://f-droid.org/repo/de.blau.android_3304.apk"
   },
   {
@@ -19680,6 +19685,11 @@
     "apk": "https://f-droid.org/repo/com.nononsenseapps.wanidoku_5.apk"
   },
   {
+    "name": "warecache",
+    "description": "warecache Smart Inventory Management companion app",
+    "apk": "https://f-droid.org/repo/com.slanttech.warecache_106.apk"
+  },
+  {
     "name": "Warmongr",
     "description": "List of bribetakers and warmongers",
     "apk": "https://f-droid.org/repo/org.sirekanyan.warmongr_39.apk"
@@ -19910,11 +19920,6 @@
     "apk": "https://f-droid.org/repo/com.gmail.anubhavdas54.whatsdeleted_3.apk"
   },
   {
-    "name": "WhatsDown",
-    "description": "⚡ Fast encrypted chats for the family 🎉",
-    "apk": "https://f-droid.org/repo/com.seyfal.whatsdown_300007201.apk"
-  },
-  {
     "name": "When Ze Bus",
     "description": "Show London bus arrival time predictions",
     "apk": "https://f-droid.org/repo/net.mcarolan.whenzebus_1.apk"
@@ -20067,7 +20072,7 @@
   {
     "name": "Wikipedia",
     "description": "The official app for Wikipedia, the world’s largest source of information.",
-    "apk": "https://f-droid.org/repo/org.wikipedia_50564.apk"
+    "apk": "https://f-droid.org/repo/org.wikipedia_50565.apk"
   },
   {
     "name": "WikiReader",
@@ -20352,7 +20357,7 @@
   {
     "name": "Xtra",
     "description": "Third-party Twitch client",
-    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_325.apk"
+    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_326.apk"
   },
   {
     "name": "xvii messenger for vk",
