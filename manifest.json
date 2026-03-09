@@ -2372,7 +2372,7 @@
   {
     "name": "Burger Party",
     "description": "Are you fast enough to put together the burgers ordered by your customers?",
-    "apk": "https://f-droid.org/repo/com.agateau.burgerparty_33.apk"
+    "apk": "https://f-droid.org/repo/com.agateau.burgerparty_34.apk"
   },
   {
     "name": "Buses",
@@ -7307,7 +7307,7 @@
   {
     "name": "Hacki for Hacker News",
     "description": "Hacki is a simple noiseless Hacker News client that is just enough.",
-    "apk": "https://f-droid.org/repo/com.jiaqifeng.hacki_1531.apk"
+    "apk": "https://f-droid.org/repo/com.jiaqifeng.hacki_1551.apk"
   },
   {
     "name": "HACS",
@@ -9427,7 +9427,7 @@
   {
     "name": "Linwood Butterfly Nightly",
     "description": "Powerful, minimalistic, cross-platform, opensource note-taking app",
-    "apk": "https://f-droid.org/repo/dev.linwood.butterfly.nightly_166.apk"
+    "apk": "https://f-droid.org/repo/dev.linwood.butterfly.nightly_167.apk"
   },
   {
     "name": "Linwood Flow Nightly",
@@ -9782,7 +9782,7 @@
   {
     "name": "Magisk",
     "description": "The Magic Mask",
-    "apk": "https://f-droid.org/repo/com.topjohnwu.magisk_29000.apk"
+    "apk": "https://f-droid.org/repo/com.topjohnwu.magisk_28100.apk"
   },
   {
     "name": "Mahjongg Builder",
@@ -12672,7 +12672,7 @@
   {
     "name": "OpenWrt Manager",
     "description": "Manage your OpenWRT device from your phone",
-    "apk": "https://f-droid.org/repo/com.hg.openwrtmanager_201370.apk"
+    "apk": "https://f-droid.org/repo/com.hg.openwrtmanager_201380.apk"
   },
   {
     "name": "OPMT",
@@ -13207,7 +13207,7 @@
   {
     "name": "PeerTube Live",
     "description": "Stream your device camera to your PeerTube channel!",
-    "apk": "https://f-droid.org/repo/fr.mobdev.peertubelive_3.apk"
+    "apk": "https://f-droid.org/repo/fr.mobdev.peertubelive_4.apk"
   },
   {
     "name": "Pekka Kana 2",
@@ -15832,7 +15832,7 @@
   {
     "name": "Sensors2OSC",
     "description": "Send sensor data via Open Sound Control (OSC).",
-    "apk": "https://f-droid.org/repo/org.sensors2.osc_23.apk"
+    "apk": "https://f-droid.org/repo/org.sensors2.osc_24.apk"
   },
   {
     "name": "Sensors2Pd",
@@ -16017,7 +16017,7 @@
   {
     "name": "Shattered Pixel Dungeon",
     "description": "A roguelike game based on Pixel Dungeon",
-    "apk": "https://f-droid.org/repo/com.shatteredpixel.shatteredpixeldungeon_889.apk"
+    "apk": "https://f-droid.org/repo/com.shatteredpixel.shatteredpixeldungeon_890.apk"
   },
   {
     "name": "Sheepy Horn",
@@ -16482,7 +16482,7 @@
   {
     "name": "sing-box",
     "description": "The universal proxy platform",
-    "apk": "https://f-droid.org/repo/io.nekohasekai.sfa_618.apk"
+    "apk": "https://f-droid.org/repo/io.nekohasekai.sfa_620.apk"
   },
   {
     "name": "SinGal Dictionary",
@@ -19857,7 +19857,7 @@
   {
     "name": "Webview Kiosk",
     "description": "Turn your Android device into a locked-down web page in fullscreen mode.",
-    "apk": "https://f-droid.org/repo/uk.nktnet.webviewkiosk_115.apk"
+    "apk": "https://f-droid.org/repo/uk.nktnet.webviewkiosk_116.apk"
   },
   {
     "name": "WECHANGE",
@@ -20252,7 +20252,7 @@
   {
     "name": "wX",
     "description": "Weather app geared towards storm chasers, meteorologists and weather enthusiasts",
-    "apk": "https://f-droid.org/repo/joshuatee.wx_55978.apk"
+    "apk": "https://f-droid.org/repo/joshuatee.wx_55981.apk"
   },
   {
     "name": "Wyoming Android TTS",
