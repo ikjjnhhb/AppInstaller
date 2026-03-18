@@ -2877,7 +2877,7 @@
   {
     "name": "Cfait",
     "description": "Powerful, fast and elegant TODO / task manager. (CalDAV and local)",
-    "apk": "https://f-droid.org/repo/com.trougnouf.cfait_408.apk"
+    "apk": "https://f-droid.org/repo/com.trougnouf.cfait_409.apk"
   },
   {
     "name": "Chairlock",
@@ -4817,7 +4817,7 @@
   {
     "name": "DuckDuckGo Privacy Browser",
     "description": "Privacy, simplified",
-    "apk": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52660000.apk"
+    "apk": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52670000.apk"
   },
   {
     "name": "DuckRun",
@@ -6677,7 +6677,7 @@
   {
     "name": "G8 Invoicing",
     "description": "Create invoices, delivery notes and credit notes easily",
-    "apk": "https://f-droid.org/repo/com.a4a.g8invoicing_41.apk"
+    "apk": "https://f-droid.org/repo/com.a4a.g8invoicing_43.apk"
   },
   {
     "name": "Gadgetbridge",
@@ -7693,6 +7693,11 @@
     "name": "HomeFeed - RSS Widget",
     "description": "HomeFeed is a customizable RSS feed widget",
     "apk": "https://f-droid.org/repo/com.byterdevs.rsswidget_2.apk"
+  },
+  {
+    "name": "Homer Audio Player for Seniors",
+    "description": "Caregiver-managed audiobook and podcast player for seniors",
+    "apk": "https://f-droid.org/repo/com.studio4plus.homerplayer2_38.apk"
   },
   {
     "name": "Hoop Draw",
@@ -8887,7 +8892,7 @@
   {
     "name": "Kreate",
     "description": "A multilingual YouTube Music frontend for Android, prioritize performance.",
-    "apk": "https://f-droid.org/repo/me.knighthat.kreate_124.apk"
+    "apk": "https://f-droid.org/repo/me.knighthat.kreate_128.apk"
   },
   {
     "name": "Krita",
@@ -9270,8 +9275,8 @@
     "apk": "https://f-droid.org/repo/xyz.yeikoff.librebible_20231110.apk"
   },
   {
-    "name": "LibreFind",
-    "description": null,
+    "name": "LibreFind - Find FOSS Alternatives",
+    "description": "Discover and replace proprietary apps with FOSS alternatives",
     "apk": "https://f-droid.org/repo/com.jksalcedo.librefind_16.apk"
   },
   {
@@ -10022,7 +10027,7 @@
   {
     "name": "Mattermost Beta",
     "description": "Secure, self-hosted workplace messaging",
-    "apk": "https://f-droid.org/repo/com.mattermost.rnbeta_71701.apk"
+    "apk": "https://f-droid.org/repo/com.mattermost.rnbeta_72101.apk"
   },
   {
     "name": "Mauth",
@@ -17202,7 +17207,7 @@
   {
     "name": "Standard Notes",
     "description": "An end-to-end encrypted note-taking app for digitalists and professionals",
-    "apk": "https://f-droid.org/repo/com.standardnotes_3003189.apk"
+    "apk": "https://f-droid.org/repo/com.standardnotes_3003190.apk"
   },
   {
     "name": "Stanley",
