@@ -1162,7 +1162,7 @@
   {
     "name": "aTalk",
     "description": "XMPP/Jabber client with encrypted instant messaging and video calls",
-    "apk": "https://f-droid.org/repo/org.atalk.android_406010.apk"
+    "apk": "https://f-droid.org/repo/org.atalk.android_500000.apk"
   },
   {
     "name": "Athena",
@@ -1443,6 +1443,11 @@
     "name": "Bahn-Vorhersage",
     "description": "Ranking for train journeys according to their reliability. (German only)",
     "apk": "https://f-droid.org/repo/de.bahnvorhersage.app_11.apk"
+  },
+  {
+    "name": "Baker's Percentage Calculator",
+    "description": "Calculate baker's percentages and scale recipes with ease.",
+    "apk": "https://f-droid.org/repo/com.pep1lo.bakerspercentagecalculator_7.apk"
   },
   {
     "name": "Balance",
@@ -2717,7 +2722,7 @@
   {
     "name": "Carburoid",
     "description": "Find gas stations by price and distance in Spain and France.",
-    "apk": "https://f-droid.org/repo/net.canvoki.carburoid_1040100.apk"
+    "apk": "https://f-droid.org/repo/net.canvoki.carburoid_1040300.apk"
   },
   {
     "name": "Card Game Scores",
@@ -2862,7 +2867,7 @@
   {
     "name": "Celestia",
     "description": "3D interactive planetarium",
-    "apk": "https://f-droid.org/repo/space.celestia.mobilecelestia_693.apk"
+    "apk": "https://f-droid.org/repo/space.celestia.mobilecelestia_695.apk"
   },
   {
     "name": "Ceno Browser: Share the Web",
@@ -3197,7 +3202,7 @@
   {
     "name": "CleanShare",
     "description": "Xposed module to clean up Android's Share Sheet",
-    "apk": "https://f-droid.org/repo/eu.hxreborn.cleanshare_200.apk"
+    "apk": "https://f-droid.org/repo/eu.hxreborn.cleanshare_201.apk"
   },
   {
     "name": "CleanSlate",
@@ -3707,7 +3712,7 @@
   {
     "name": "Cryptomator",
     "description": "Put a lock on your cloud: Take the security of your data into your own hands",
-    "apk": "https://f-droid.org/repo/org.cryptomator.lite_2991.apk"
+    "apk": "https://f-droid.org/repo/org.cryptomator.lite_3016.apk"
   },
   {
     "name": "CryptoPass",
@@ -5312,7 +5317,7 @@
   {
     "name": "Etar - OpenSource Calendar",
     "description": "Etar is a material designed open source calendar, for everyone!",
-    "apk": "https://f-droid.org/repo/ws.xsoh.etar_50.apk"
+    "apk": "https://f-droid.org/repo/ws.xsoh.etar_51.apk"
   },
   {
     "name": "EtchDroid ISO to USB Writer",
@@ -6692,7 +6697,7 @@
   {
     "name": "G8 Invoicing",
     "description": "Create invoices, delivery notes and credit notes easily",
-    "apk": "https://f-droid.org/repo/com.a4a.g8invoicing_43.apk"
+    "apk": "https://f-droid.org/repo/com.a4a.g8invoicing_44.apk"
   },
   {
     "name": "Gadgetbridge",
@@ -7612,7 +7617,7 @@
   {
     "name": "HFUT-Schedule",
     "description": "All-in-one school service app for Hefei University of Technology students",
-    "apk": "https://f-droid.org/repo/com.hfut.schedule_2472.apk"
+    "apk": "https://f-droid.org/repo/com.hfut.schedule_2482.apk"
   },
   {
     "name": "Hide \"running in the background\" Notification",
@@ -8022,7 +8027,7 @@
   {
     "name": "Infomaniak kDrive",
     "description": "The most secure cloud in Europe for SMEs and private individuals.",
-    "apk": "https://f-droid.org/repo/com.infomaniak.drive_501200201.apk"
+    "apk": "https://f-droid.org/repo/com.infomaniak.drive_501200301.apk"
   },
   {
     "name": "Infomaniak kMeet",
@@ -8037,7 +8042,7 @@
   {
     "name": "Infomaniak Mail",
     "description": "The secure messaging service for your emails",
-    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12400401.apk"
+    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12400501.apk"
   },
   {
     "name": "Information about NCBS",
@@ -8267,7 +8272,12 @@
   {
     "name": "IVPN - Secure VPN for Privacy",
     "description": "Privacy focused VPN service with WireGuard",
-    "apk": "https://f-droid.org/repo/net.ivpn.client_137.apk"
+    "apk": "https://f-droid.org/repo/net.ivpn.client_138.apk"
+  },
+  {
+    "name": "iyox Wormhole",
+    "description": "Secure, open-source file sharing",
+    "apk": "https://f-droid.org/repo/com.iyox.wormhole_481.apk"
   },
   {
     "name": "IYPS",
@@ -8527,7 +8537,7 @@
   {
     "name": "K-9 Mail",
     "description": "Full-featured email client",
-    "apk": "https://f-droid.org/repo/com.fsck.k9_39031.apk"
+    "apk": "https://f-droid.org/repo/com.fsck.k9_39032.apk"
   },
   {
     "name": "K2",
@@ -8787,7 +8797,7 @@
   {
     "name": "Kitsune",
     "description": "Discover new anime & manga and manage your Kitsu library.",
-    "apk": "https://f-droid.org/repo/io.github.drumber.kitsune_36.apk"
+    "apk": "https://f-droid.org/repo/io.github.drumber.kitsune_37.apk"
   },
   {
     "name": "Klaxon",
@@ -8997,7 +9007,7 @@
   {
     "name": "KyuubiMask - Privacy First",
     "description": "Privacy-focused notification masking for screen sharing and presentations",
-    "apk": "https://f-droid.org/repo/com.rtneg.kyuubimask_12.apk"
+    "apk": "https://f-droid.org/repo/com.rtneg.kyuubimask_16.apk"
   },
   {
     "name": "Kõnele",
@@ -9212,7 +9222,7 @@
   {
     "name": "Let's Bend: Harmonica Tuner",
     "description": "Harmonica tuner for learning bending techniques with real-time visual feedback.",
-    "apk": "https://f-droid.org/repo/de.schliweb.bluesharpbendingapp_69.apk"
+    "apk": "https://f-droid.org/repo/de.schliweb.bluesharpbendingapp_72.apk"
   },
   {
     "name": "LetterBox",
@@ -11537,7 +11547,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260316.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260317.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -11892,7 +11902,7 @@
   {
     "name": "NotePad",
     "description": "Make notes",
-    "apk": "https://f-droid.org/repo/com.xmission.trevin.android.notes_1040001.apk"
+    "apk": "https://f-droid.org/repo/com.xmission.trevin.android.notes_1050001.apk"
   },
   {
     "name": "Notes",
@@ -12937,7 +12947,7 @@
   {
     "name": "oxproxion",
     "description": "Chat with OpenRouter, Ollama, LM Studio and llama.cpp AI models",
-    "apk": "https://f-droid.org/repo/io.github.stardomains3.oxproxion_162.apk"
+    "apk": "https://f-droid.org/repo/io.github.stardomains3.oxproxion_165.apk"
   },
   {
     "name": "p!n",
@@ -12947,7 +12957,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_218.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_222.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -16582,7 +16592,7 @@
   {
     "name": "SimpMusic",
     "description": "A simple music app using YouTube Music for backend",
-    "apk": "https://f-droid.org/repo/com.maxrave.simpmusic_44.apk"
+    "apk": "https://f-droid.org/repo/com.maxrave.simpmusic_45.apk"
   },
   {
     "name": "sing-box",
@@ -17757,7 +17767,7 @@
   {
     "name": "Tailscale",
     "description": "Mesh VPN based on WireGuard",
-    "apk": "https://f-droid.org/repo/com.tailscale.ipn_522.apk"
+    "apk": "https://f-droid.org/repo/com.tailscale.ipn_524.apk"
   },
   {
     "name": "Taipei Youbike Offline",
@@ -18172,12 +18182,12 @@
   {
     "name": "Thunderbird Beta for Testers",
     "description": "Thunderbird is a 100% open source, privacy focused email app.",
-    "apk": "https://f-droid.org/repo/net.thunderbird.android.beta_43.apk"
+    "apk": "https://f-droid.org/repo/net.thunderbird.android.beta_44.apk"
   },
   {
     "name": "Thunderbird: Free Your Inbox",
     "description": "Thunderbird is a 100% open source, privacy focused email app.",
-    "apk": "https://f-droid.org/repo/net.thunderbird.android_18.apk"
+    "apk": "https://f-droid.org/repo/net.thunderbird.android_19.apk"
   },
   {
     "name": "TIC-80",
@@ -19107,7 +19117,7 @@
   {
     "name": "Unciv",
     "description": "Open source 4X civilization-building game",
-    "apk": "https://f-droid.org/repo/com.unciv.app_1206.apk"
+    "apk": "https://f-droid.org/repo/com.unciv.app_1207.apk"
   },
   {
     "name": "UnderEat",
