@@ -4552,7 +4552,7 @@
   {
     "name": "Dollphone Icon Pack",
     "description": "Cute icon pack that isn’t overly hyperactive",
-    "apk": "https://f-droid.org/repo/me.x2gd4.dollphone_10.apk"
+    "apk": "https://f-droid.org/repo/me.x2gd4.dollphone_12.apk"
   },
   {
     "name": "Dolphin Emulator",
@@ -10337,7 +10337,7 @@
   {
     "name": "Mercurygram",
     "description": "Telegram is a messaging app with a focus on speed and security.",
-    "apk": "https://f-droid.org/repo/it.belloworld.mercurygram_4927009.apk"
+    "apk": "https://f-droid.org/repo/it.belloworld.mercurygram_4945009.apk"
   },
   {
     "name": "MergedWiFiNLP",
@@ -10407,7 +10407,7 @@
   {
     "name": "Metronome",
     "description": "Simple and beautiful metronome",
-    "apk": "https://f-droid.org/repo/com.bobek.metronome_20.apk"
+    "apk": "https://f-droid.org/repo/com.bobek.metronome_21.apk"
   },
   {
     "name": "Metronome",
@@ -16155,9 +16155,9 @@
     "apk": "https://f-droid.org/repo/org.woheller69.ttsengine_27.apk"
   },
   {
-    "name": "ShiftCal",
-    "description": "Shift Calendar",
-    "apk": "https://f-droid.org/repo/de.nulide.shiftcal_15.apk"
+    "name": "ShiftSwift",
+    "description": "A smart shift calendar",
+    "apk": "https://f-droid.org/repo/de.nulide.shiftcal_16.apk"
   },
   {
     "name": "ShikiApp",
