@@ -1827,7 +1827,7 @@
   {
     "name": "Binary Eye",
     "description": "QR code and barcode scanner with no ads",
-    "apk": "https://f-droid.org/repo/de.markusfisch.android.binaryeye_160.apk"
+    "apk": "https://f-droid.org/repo/de.markusfisch.android.binaryeye_161.apk"
   },
   {
     "name": "Binary Kitchen Doorlock",
@@ -2742,7 +2742,7 @@
   {
     "name": "Carburoid",
     "description": "Find gas stations by price and distance in Spain, France and Portugal.",
-    "apk": "https://f-droid.org/repo/net.canvoki.carburoid_1050000.apk"
+    "apk": "https://f-droid.org/repo/net.canvoki.carburoid_1050100.apk"
   },
   {
     "name": "Card Game Scores",
@@ -3892,7 +3892,7 @@
   {
     "name": "Daily You",
     "description": "Every day is worth remembering…",
-    "apk": "https://f-droid.org/repo/com.demizo.daily_you_20170031.apk"
+    "apk": "https://f-droid.org/repo/com.demizo.daily_you_20180001.apk"
   },
   {
     "name": "DailyAL",
@@ -4542,7 +4542,7 @@
   {
     "name": "DobbyVPN",
     "description": "VPN client-side toolset.",
-    "apk": "https://f-droid.org/repo/com.dobby.vpn_1001020.apk"
+    "apk": "https://f-droid.org/repo/com.dobby.vpn_1001021.apk"
   },
   {
     "name": "Dockeep: Pocket for Files",
@@ -5642,7 +5642,7 @@
   {
     "name": "FairScan – PDF Scanner",
     "description": "Scan a document and get a clean PDF you can save or share instantly",
-    "apk": "https://f-droid.org/repo/org.fairscan.app_55.apk"
+    "apk": "https://f-droid.org/repo/org.fairscan.app_58.apk"
   },
   {
     "name": "Fake Contacts",
@@ -6067,7 +6067,7 @@
   {
     "name": "Flare",
     "description": "Browse Mastodon, Bluesky, X, Misskey, Nostr and RSS all in one app.",
-    "apk": "https://f-droid.org/repo/dev.dimension.flare_1300.apk"
+    "apk": "https://f-droid.org/repo/dev.dimension.flare_1320.apk"
   },
   {
     "name": "FLARE",
@@ -6297,7 +6297,7 @@
   {
     "name": "Fokus Launcher",
     "description": "Minimal launcher with clock, weather, fast app search, and gesture navigation.",
-    "apk": "https://f-droid.org/repo/io.github.luantak.fokuslauncher_21.apk"
+    "apk": "https://f-droid.org/repo/io.github.luantak.fokuslauncher_27.apk"
   },
   {
     "name": "Fold Switcher",
@@ -8687,7 +8687,7 @@
   {
     "name": "Kai",
     "description": "OpenClaw alternative in your pocket",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.kai_76.apk"
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.kai_77.apk"
   },
   {
     "name": "Kaku",
@@ -8917,12 +8917,12 @@
   {
     "name": "KitchenOwl",
     "description": "KitchenOwl helps you organize your grocery life.",
-    "apk": "https://f-droid.org/repo/com.tombursch.kitchenowl_116.apk"
+    "apk": "https://f-droid.org/repo/com.tombursch.kitchenowl_117.apk"
   },
   {
     "name": "kitshn (for Tandoor)",
     "description": "An unofficial client for the self-hosted Tandoor recipe management software.",
-    "apk": "https://f-droid.org/repo/de.kitshn.android_20060.apk"
+    "apk": "https://f-droid.org/repo/de.kitshn.android_20070.apk"
   },
   {
     "name": "Kitsune",
@@ -8988,6 +8988,11 @@
     "name": "Komodo Wallet",
     "description": "Cross-platform cryptocurrency wallet and decentralized exchange (DEX)",
     "apk": "https://f-droid.org/repo/com.komodoplatform.komodowallet_1.apk"
+  },
+  {
+    "name": "Kompact",
+    "description": "Compress and convert images offline. Batch select, set quality, and export",
+    "apk": "https://f-droid.org/repo/com.kompact_3.apk"
   },
   {
     "name": "Koofr Vault",
@@ -9525,11 +9530,6 @@
     "apk": "https://f-droid.org/repo/org.lichess.mobileV2_220701.apk"
   },
   {
-    "name": "lichess",
-    "description": "free online chess",
-    "apk": "https://f-droid.org/repo/org.lichess.mobileapp.free_7016000.apk"
-  },
-  {
     "name": "Liedgutverzeichnis",
     "description": "An app that knows which song is to be found in which book at which page. ",
     "apk": "https://f-droid.org/repo/de.thefeiter.liedgutverzeichnis_72.apk"
@@ -9677,7 +9677,7 @@
   {
     "name": "LISTEN.moe",
     "description": "Listen to j-pop and anime music radio 24/7 ad-free",
-    "apk": "https://f-droid.org/repo/me.echeung.moemoekyun.fdroid_210.apk"
+    "apk": "https://f-droid.org/repo/me.echeung.moemoekyun.fdroid_211.apk"
   },
   {
     "name": "Listen1",
@@ -11702,7 +11702,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260402.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -12882,7 +12882,7 @@
   {
     "name": "OpenSyncedLists",
     "description": "Create easy to sort lists",
-    "apk": "https://f-droid.org/repo/eu.schmidt.systems.opensyncedlists_11.apk"
+    "apk": "https://f-droid.org/repo/eu.schmidt.systems.opensyncedlists_12.apk"
   },
   {
     "name": "OpenTapasReader",
@@ -13137,7 +13137,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_229.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_232.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -13257,7 +13257,7 @@
   {
     "name": "Paperless Mobile",
     "description": "An (almost) fully fledged mobile paperless-ng*x client.",
-    "apk": "https://f-droid.org/repo/de.astubenbord.paperless_mobile_4043.apk"
+    "apk": "https://f-droid.org/repo/de.astubenbord.paperless_mobile_4052.apk"
   },
   {
     "name": "Paperless Share",
@@ -13717,7 +13717,7 @@
   {
     "name": "Pie Launcher",
     "description": "Control your phone with a dynamic pie menu instead of fixed positioned icons.",
-    "apk": "https://f-droid.org/repo/de.markusfisch.android.pielauncher_68.apk"
+    "apk": "https://f-droid.org/repo/de.markusfisch.android.pielauncher_69.apk"
   },
   {
     "name": "Piedmontese for AnySoftKeyboard",
@@ -14572,7 +14572,7 @@
   {
     "name": "Punch-hole Download Progress",
     "description": "Xposed module showing download progress around the camera cutout",
-    "apk": "https://f-droid.org/repo/eu.hxreborn.phdp_10207.apk"
+    "apk": "https://f-droid.org/repo/eu.hxreborn.phdp_10219.apk"
   },
   {
     "name": "Pushie",
@@ -15942,7 +15942,7 @@
   {
     "name": "Seafile",
     "description": "File synchronization",
-    "apk": "https://f-droid.org/repo/com.seafile.seadroid2_220.apk"
+    "apk": "https://f-droid.org/repo/com.seafile.seadroid2_310.apk"
   },
   {
     "name": "Seafood Berserker!",
@@ -19837,7 +19837,7 @@
   {
     "name": "VirtualGamePad Mobile",
     "description": "Android phone as a gamepad for your PC",
-    "apk": "https://f-droid.org/repo/io.github.kitswas.virtualgamepadmobile_8.apk"
+    "apk": "https://f-droid.org/repo/io.github.kitswas.virtualgamepadmobile_9.apk"
   },
   {
     "name": "VirtualSoftKeys",
