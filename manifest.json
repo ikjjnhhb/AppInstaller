@@ -1982,7 +1982,7 @@
   {
     "name": "Blichess",
     "description": "Play lichess games over Bluetooth",
-    "apk": "https://f-droid.org/repo/com.vovagorodok.blichess_25.apk"
+    "apk": "https://f-droid.org/repo/com.vovagorodok.blichess_26.apk"
   },
   {
     "name": "Blidraughts",
@@ -4995,6 +4995,11 @@
     "apk": "https://f-droid.org/repo/duress.keyboard_45.apk"
   },
   {
+    "name": "DuressKeyboardLite",
+    "description": "Keyboard with DuressPassword feature.",
+    "apk": "https://f-droid.org/repo/duress.keyboard.lite_3.apk"
+  },
+  {
     "name": "Dutch for AnySoftKeyboard",
     "description": "AnySoftKeyboard Dutch Language pack",
     "apk": "https://f-droid.org/repo/com.anysoftkeyboard.languagepack.dutch_oss_2908.apk"
@@ -5198,6 +5203,11 @@
     "name": "Effects Pro",
     "description": "Apply filters to images",
     "apk": "https://f-droid.org/repo/org.appsroid.fxpro_1.apk"
+  },
+  {
+    "name": "Egg Returns Home",
+    "description": "A simple platformer about an egg",
+    "apk": "https://f-droid.org/repo/com.yepgoryo.EggReturnsHome_1.apk"
   },
   {
     "name": "Egyptian Mouse Pounce ",
@@ -8102,7 +8112,7 @@
   {
     "name": "Image Toolbox",
     "description": "Edit, create & convert images with powerful AI — your all-in-one studio",
-    "apk": "https://f-droid.org/repo/ru.tech.imageresizershrinker_204.apk"
+    "apk": "https://f-droid.org/repo/ru.tech.imageresizershrinker_211.apk"
   },
   {
     "name": "Imagepipe",
@@ -8127,7 +8137,7 @@
   {
     "name": "Immich",
     "description": "This is a client app for the self-hostable Immich Server",
-    "apk": "https://f-droid.org/repo/app.alextran.immich_3034.apk"
+    "apk": "https://f-droid.org/repo/app.alextran.immich_3036.apk"
   },
   {
     "name": "Immich Uploader",
@@ -8812,7 +8822,7 @@
   {
     "name": "Kazumi",
     "description": "An anime collection APP based on custom rules.",
-    "apk": "https://f-droid.org/repo/com.predidit.kazumi_200042.apk"
+    "apk": "https://f-droid.org/repo/com.predidit.kazumi_200052.apk"
   },
   {
     "name": "kboard",
