@@ -1287,7 +1287,7 @@
   {
     "name": "Authnkey",
     "description": "Passkey credential provider for hardware security keys",
-    "apk": "https://f-droid.org/repo/pl.lebihan.authnkey_7.apk"
+    "apk": "https://f-droid.org/repo/pl.lebihan.authnkey_8.apk"
   },
   {
     "name": "Authorizer",
@@ -3967,7 +3967,7 @@
   {
     "name": "DankChat",
     "description": "A simple app to chat on Twitch.tv",
-    "apk": "https://f-droid.org/repo/com.flxrs.dankchat_31110.apk"
+    "apk": "https://f-droid.org/repo/com.flxrs.dankchat_31111.apk"
   },
   {
     "name": "DanXi",
@@ -4177,7 +4177,7 @@
   {
     "name": "Deepr",
     "description": "Simplify link handling. Save, organize, and open links with ease.",
-    "apk": "https://f-droid.org/repo/com.yogeshpaliyal.deepr_22.apk"
+    "apk": "https://f-droid.org/repo/com.yogeshpaliyal.deepr_23.apk"
   },
   {
     "name": "Defendo",
@@ -4937,7 +4937,7 @@
   {
     "name": "DuckDuckGo Privacy Browser",
     "description": "Privacy, simplified",
-    "apk": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52710000.apk"
+    "apk": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52720000.apk"
   },
   {
     "name": "DuckRun",
@@ -5490,6 +5490,11 @@
     "apk": "https://f-droid.org/repo/org.schabi.etherwake_1.apk"
   },
   {
+    "name": "EUC State Of Health Analyzer",
+    "description": "Analyze electric unicycle battery health from ride logs",
+    "apk": "https://f-droid.org/repo/io.github.eucsoh.android_9.apk"
+  },
+  {
     "name": "evcc - solar charging",
     "description": "charge your EV when the sun is shining or electricity is cheap and clean",
     "apk": "https://f-droid.org/repo/io.evcc.android_27.apk"
@@ -5907,7 +5912,7 @@
   {
     "name": "Fennec F-Droid",
     "description": "Browse the web",
-    "apk": "https://f-droid.org/repo/org.mozilla.fennec_fdroid_1490000.apk"
+    "apk": "https://f-droid.org/repo/org.mozilla.fennec_fdroid_1490020.apk"
   },
   {
     "name": "Fertility Test Analyzer App: Ovulation & Pregnancy",
@@ -10192,7 +10197,7 @@
   {
     "name": "MarketMonk",
     "description": "Track stocks in style!",
-    "apk": "https://f-droid.org/repo/com.codesail.market_monk_311.apk"
+    "apk": "https://f-droid.org/repo/com.codesail.market_monk_321.apk"
   },
   {
     "name": "Markor",
@@ -12112,7 +12117,7 @@
   {
     "name": "Nora",
     "description": "SNS browser. Facebook, Instagram, Reddit, Threads, X and more in a single app.",
-    "apk": "https://f-droid.org/repo/jp.nonbili.nora_5703.apk"
+    "apk": "https://f-droid.org/repo/jp.nonbili.nora_6303.apk"
   },
   {
     "name": "Nori",
@@ -12486,8 +12491,8 @@
   },
   {
     "name": "Offline Translator",
-    "description": "On-device translation of text and images",
-    "apk": "https://f-droid.org/repo/dev.davidv.translator_7.apk"
+    "description": "On-device translation of text and images, with TTS",
+    "apk": "https://f-droid.org/repo/dev.davidv.translator_9.apk"
   },
   {
     "name": "OG Network Tools",
@@ -13277,7 +13282,7 @@
   {
     "name": "Padland",
     "description": "Padland is a tool to manage, share, remember and read collaborative documents ba",
-    "apk": "https://f-droid.org/repo/com.mikifus.padland_30.apk"
+    "apk": "https://f-droid.org/repo/com.mikifus.padland_31.apk"
   },
   {
     "name": "PAFCalc",
@@ -13773,6 +13778,11 @@
     "name": "PhotoPhase",
     "description": "Tiled images wallpaper",
     "apk": "https://f-droid.org/repo/com.ruesga.android.wallpapers.photophase_1033.apk"
+  },
+  {
+    "name": "Photos",
+    "description": "A basic photos app built with Material You",
+    "apk": "https://f-droid.org/repo/com.vayunmathur.photos_20260411.apk"
   },
   {
     "name": "PhotoSphereGallery",
@@ -19822,7 +19832,7 @@
   {
     "name": "Valv",
     "description": "An encrypted gallery vault for Android devices",
-    "apk": "https://f-droid.org/repo/se.arctosoft.vault_34.apk"
+    "apk": "https://f-droid.org/repo/se.arctosoft.vault_37.apk"
   },
   {
     "name": "Vanilla",
