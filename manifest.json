@@ -1227,7 +1227,7 @@
   {
     "name": "Audio Output Switcher",
     "description": "Quick Settings tile for switching audio output devices",
-    "apk": "https://f-droid.org/repo/br.com.wasystems.audiooutputswitcher_4.apk"
+    "apk": "https://f-droid.org/repo/br.com.wasystems.audiooutputswitcher_5.apk"
   },
   {
     "name": "Audio Recorder",
@@ -2207,7 +2207,7 @@
   {
     "name": "BombusMod",
     "description": "Messaging client",
-    "apk": "https://f-droid.org/repo/org.bombusmod_1423.apk"
+    "apk": "https://f-droid.org/repo/org.bombusmod_1426.apk"
   },
   {
     "name": "BonjourBrowser",
@@ -3972,7 +3972,7 @@
   {
     "name": "DanXi",
     "description": "Maybe the best all-rounded service app for Fudan University students.",
-    "apk": "https://f-droid.org/repo/io.github.danxi_dev.dan_xi_345.apk"
+    "apk": "https://f-droid.org/repo/io.github.danxi_dev.dan_xi_346.apk"
   },
   {
     "name": "DAPNET",
@@ -5407,7 +5407,7 @@
   {
     "name": "eQuran",
     "description": "Read, listen, choose from 5 reciters, and track your Quran journey.",
-    "apk": "https://f-droid.org/repo/com.app.equran_231.apk"
+    "apk": "https://f-droid.org/repo/com.app.equran_261.apk"
   },
   {
     "name": "Er ríkið opið?",
@@ -6377,7 +6377,7 @@
   {
     "name": "Fokus Launcher",
     "description": "Minimal launcher with clock, weather, fast app search, and gesture navigation.",
-    "apk": "https://f-droid.org/repo/io.github.luantak.fokuslauncher_30.apk"
+    "apk": "https://f-droid.org/repo/io.github.luantak.fokuslauncher_31.apk"
   },
   {
     "name": "Fold Switcher",
@@ -9187,7 +9187,7 @@
   {
     "name": "Kvaesitso",
     "description": "A search-focused, free and open source launcher for Android",
-    "apk": "https://f-droid.org/repo/de.mm20.launcher2.release_2025122400.apk"
+    "apk": "https://f-droid.org/repo/de.mm20.launcher2.release_2025123000.apk"
   },
   {
     "name": "Kwaak3",
@@ -10092,7 +10092,7 @@
   {
     "name": "Mages",
     "description": "Experimental Matrix client made using Compose Multiplatform (and Rust).",
-    "apk": "https://f-droid.org/repo/org.mlm.mages_958.apk"
+    "apk": "https://f-droid.org/repo/org.mlm.mages_968.apk"
   },
   {
     "name": "MagiaDNI",
@@ -11782,7 +11782,7 @@
   {
     "name": "Nextcloud",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.client_330000151.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.client_330000190.apk"
   },
   {
     "name": "Nextcloud Bookmarks",
@@ -16952,7 +16952,7 @@
   {
     "name": "sing-box",
     "description": "The universal proxy platform",
-    "apk": "https://f-droid.org/repo/io.nekohasekai.sfa_646.apk"
+    "apk": "https://f-droid.org/repo/io.nekohasekai.sfa_649.apk"
   },
   {
     "name": "SinGal Dictionary",
