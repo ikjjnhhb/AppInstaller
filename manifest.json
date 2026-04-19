@@ -2582,7 +2582,7 @@
   {
     "name": "Calendar",
     "description": "The only fully-functional open-source calendar app with Material You.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.calendar_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.calendar_20260411.apk"
   },
   {
     "name": "Calendar Color",
@@ -3012,7 +3012,7 @@
   {
     "name": "Chess",
     "description": "An open-source chess app.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.games.chess_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.games.chess_20260411.apk"
   },
   {
     "name": "Chess",
@@ -3602,7 +3602,7 @@
   {
     "name": "Contacts",
     "description": "An open-source, fully-functional contacts app.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.contacts_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.contacts_20260411.apk"
   },
   {
     "name": "Contacts",
@@ -5957,7 +5957,7 @@
   {
     "name": "FileFlow",
     "description": "Organize files automatically",
-    "apk": "https://f-droid.org/repo/co.adityarajput.fileflow_5.apk"
+    "apk": "https://f-droid.org/repo/co.adityarajput.fileflow_6.apk"
   },
   {
     "name": "FileManagerSphere",
@@ -7407,7 +7407,7 @@
   {
     "name": "Grit",
     "description": "A Simple ToDo List and Habit Tracker",
-    "apk": "https://f-droid.org/repo/com.shub39.grit_5730.apk"
+    "apk": "https://f-droid.org/repo/com.shub39.grit_5820.apk"
   },
   {
     "name": "Grocery manager",
@@ -8777,7 +8777,7 @@
   {
     "name": "Kai 9000",
     "description": "Free, open-source AI chat with a soul, memory & interactive screens",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.kai_85.apk"
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.kai_90.apk"
   },
   {
     "name": "Kaku",
@@ -9992,7 +9992,7 @@
   {
     "name": "Luanti",
     "description": "Voxel-based multiplayer game platform",
-    "apk": "https://f-droid.org/repo/net.minetest.minetest_5140000.apk"
+    "apk": "https://f-droid.org/repo/net.minetest.minetest_5150000.apk"
   },
   {
     "name": "Lucia App",
@@ -10292,7 +10292,7 @@
   {
     "name": "Mattermost Beta",
     "description": "Secure, self-hosted workplace messaging",
-    "apk": "https://f-droid.org/repo/com.mattermost.rnbeta_72701.apk"
+    "apk": "https://f-droid.org/repo/com.mattermost.rnbeta_72801.apk"
   },
   {
     "name": "Mauth",
@@ -11337,7 +11337,7 @@
   {
     "name": "Music",
     "description": "A basic M3Y music player app",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.music_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.music_20260411.apk"
   },
   {
     "name": "Music Player Lite",
@@ -11637,7 +11637,7 @@
   {
     "name": "NerdCalci",
     "description": "Calculator for nerds with variables, syntax highlighting, and file sessions",
-    "apk": "https://f-droid.org/repo/com.vishaltelangre.nerdcalci_370.apk"
+    "apk": "https://f-droid.org/repo/com.vishaltelangre.nerdcalci_371.apk"
   },
   {
     "name": "NerdSteam",
@@ -12186,8 +12186,8 @@
   },
   {
     "name": "Notes",
-    "description": "A basic note-taking app",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.notes_20260401.apk"
+    "description": "A markdown note-taking app",
+    "apk": "https://f-droid.org/repo/com.vayunmathur.notes_20260411.apk"
   },
   {
     "name": "Notes",
@@ -12787,7 +12787,7 @@
   {
     "name": "OpenAssistant",
     "description": "A simple, open-source local AI app.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.openassistant_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.openassistant_20260411.apk"
   },
   {
     "name": "OpenBeautyFacts",
@@ -13022,7 +13022,7 @@
   {
     "name": "OpenTracks (Reproducible build)",
     "description": "A sport tracker buddy that respects your privacy.",
-    "apk": "https://f-droid.org/repo/de.dennisguse.opentracks.playstore_6564.apk"
+    "apk": "https://f-droid.org/repo/de.dennisguse.opentracks.playstore_6603.apk"
   },
   {
     "name": "OpenTTD",
@@ -13242,7 +13242,7 @@
   {
     "name": "oxproxion",
     "description": "Chat with OpenRouter, Ollama, LM Studio and llama.cpp AI models",
-    "apk": "https://f-droid.org/repo/io.github.stardomains3.oxproxion_183.apk"
+    "apk": "https://f-droid.org/repo/io.github.stardomains3.oxproxion_185.apk"
   },
   {
     "name": "p!n",
@@ -13312,7 +13312,7 @@
   {
     "name": "PAIesque",
     "description": "Fitness tracker and analyzer based on published scientific papers",
-    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_50.apk"
+    "apk": "https://f-droid.org/repo/org.ojrandom.paiesque_52.apk"
   },
   {
     "name": "Pain Diary (PFA)",
@@ -13372,7 +13372,7 @@
   {
     "name": "Paperless Mobile",
     "description": "An (almost) fully fledged mobile paperless-ng*x client.",
-    "apk": "https://f-droid.org/repo/de.astubenbord.paperless_mobile_4053.apk"
+    "apk": "https://f-droid.org/repo/de.astubenbord.paperless_mobile_5403.apk"
   },
   {
     "name": "Paperless Share",
@@ -13562,7 +13562,7 @@
   {
     "name": "PDF",
     "description": "A simple, open-source PDF viewing app",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.pdf_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.pdf_20260411.apk"
   },
   {
     "name": "PDF Converter",
@@ -17112,7 +17112,7 @@
   {
     "name": "Smart Edge: Sidebar & Gestures",
     "description": "A highly customizable Android side panel inspired by OriginOS.",
-    "apk": "https://f-droid.org/repo/com.imi.smartedge.sidebar.panel_3.apk"
+    "apk": "https://f-droid.org/repo/com.imi.smartedge.sidebar.panel_7.apk"
   },
   {
     "name": "Smart EggTimer",
@@ -19517,7 +19517,7 @@
   {
     "name": "Unblock Jam",
     "description": "A private and open source version of the classic board game \"Rush Hour\"",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.games.unblockjam_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.games.unblockjam_20260411.apk"
   },
   {
     "name": "Unchained",
@@ -20702,7 +20702,7 @@
   {
     "name": "Word Maker",
     "description": "A fun word puzzle game, completely private and offline",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.games.wordmaker_20260401.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.games.wordmaker_20260411.apk"
   },
   {
     "name": "Word of the day - Learn a new word every day",
@@ -20882,7 +20882,7 @@
   {
     "name": "XiVPN",
     "description": "Proxy client based on XRAY",
-    "apk": "https://f-droid.org/repo/io.github.exclude0122.xivpn_422.apk"
+    "apk": "https://f-droid.org/repo/io.github.exclude0122.xivpn_432.apk"
   },
   {
     "name": "XMouse",
