@@ -3165,11 +3165,6 @@
     "apk": "https://f-droid.org/repo/com.wa2c.android.cifsdocumentsprovider_28.apk"
   },
   {
-    "name": "Cigaló",
-    "description": "Introducing Cigaló: The Open Source Android Drinking Game App!",
-    "apk": "https://f-droid.org/repo/net.retiolus.cigalo_8.apk"
-  },
-  {
     "name": "CineCat",
     "description": "Get information about Catalan movies",
     "apk": "https://f-droid.org/repo/cat.jordihernandez.cinecat_1.apk"
@@ -5035,11 +5030,6 @@
     "apk": "https://f-droid.org/repo/com.tananaev.passportreader_20.apk"
   },
   {
-    "name": "e1547 - e621 browser",
-    "description": "browser for the e621 and e926 imageboards",
-    "apk": "https://f-droid.org/repo/net.e1547_95.apk"
-  },
-  {
     "name": "E6B Flight Computer",
     "description": "This is a simulation of the E6B flight computer.",
     "apk": "https://f-droid.org/repo/com.jstappdev.e6bflightcomputer_17.apk"
@@ -5157,7 +5147,7 @@
   {
     "name": "EBT New Note",
     "description": "Submit Euro bill note data to EuroBillTracker.com",
-    "apk": "https://f-droid.org/repo/com.marv42.ebt.newnote_8700.apk"
+    "apk": "https://f-droid.org/repo/com.marv42.ebt.newnote_8800.apk"
   },
   {
     "name": "Echo",
@@ -5548,11 +5538,6 @@
     "name": "Everyone's Timetable",
     "description": "Looking for a prof's or friend's school timetable? Look in here!",
     "apk": "https://f-droid.org/repo/ca.littlesvr.everyonestimetable_4.apk"
-  },
-  {
-    "name": "Evil Insult Generator",
-    "description": "This is the greatest insults app you can get!",
-    "apk": "https://f-droid.org/repo/com.evilinsult_41.apk"
   },
   {
     "name": "EVIL SPIN!!",
@@ -9005,11 +8990,6 @@
     "apk": "https://f-droid.org/repo/fr.odrevet.kingdomino_score_count_27.apk"
   },
   {
-    "name": "Kinoko[Manga Reader]",
-    "description": "Awesome manga reader",
-    "apk": "https://f-droid.org/repo/com.ero.kinoko_99.apk"
-  },
-  {
     "name": "KISS Launcher",
     "description": "Blazingly fast launcher focused on search",
     "apk": "https://f-droid.org/repo/fr.neamar.kiss_218.apk"
@@ -9118,11 +9098,6 @@
     "name": "KOReader",
     "description": "Ebook reader",
     "apk": "https://f-droid.org/repo/org.koreader.launcher.fdroid_113041.apk"
-  },
-  {
-    "name": "Kotatsu",
-    "description": "Manga reader with online catalogues",
-    "apk": "https://f-droid.org/repo/org.koitharu.kotatsu_1028.apk"
   },
   {
     "name": "Kotlin Quiz",
@@ -12125,6 +12100,11 @@
     "apk": "https://f-droid.org/repo/xyz.linerly.nontrinsic_20260303.apk"
   },
   {
+    "name": "Noor Connect",
+    "description": "Premium privacy-first Islamic companion: Quran, Qibla, Adhan, & Habit tracking.",
+    "apk": "https://f-droid.org/repo/com.noorconnect.app_4.apk"
+  },
+  {
     "name": "Noor-Ul-Huda نور الهدى",
     "description": "A simple, open source Quran reader app with extras, completely free forever",
     "apk": "https://f-droid.org/repo/com.mirfatif.noorulhuda_101.apk"
@@ -13863,6 +13843,11 @@
     "name": "Piedmontese for AnySoftKeyboard",
     "description": "Piedmontese language pack for AnySoftKeyboard",
     "apk": "https://f-droid.org/repo/com.anysoftkeyboard.languagepack.piedmontese_6158.apk"
+  },
+  {
+    "name": "Piggsy",
+    "description": "Piggy banks for saving and tracking your goals",
+    "apk": "https://f-droid.org/repo/com.nvllz.piggsy_5.apk"
   },
   {
     "name": "piggybudget",
@@ -19955,14 +19940,14 @@
     "apk": "https://f-droid.org/repo/com.vedroid.events_1.apk"
   },
   {
+    "name": "Vehicle Motion Cues",
+    "description": "Motion cues overlay, to prevent motion sickness",
+    "apk": "https://f-droid.org/repo/dev.davidv.motionsickness_2.apk"
+  },
+  {
     "name": "Veil - Privacy focused wallet",
     "description": "Privacy focused VEIL coin crypto wallet",
     "apk": "https://f-droid.org/repo/org.veilproject.wallet_261.apk"
-  },
-  {
-    "name": "venera",
-    "description": "A comic reader that support reading local and network comics.",
-    "apk": "https://f-droid.org/repo/com.github.wgh136.venera_1611.apk"
   },
   {
     "name": "VergissNix",
