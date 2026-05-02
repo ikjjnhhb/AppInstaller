@@ -1955,6 +1955,11 @@
     "apk": "https://f-droid.org/repo/se.leap.bitmaskclient_176000.apk"
   },
   {
+    "name": "Bitmask",
+    "description": "Encrypted communication for mere mortals\n(superheroes welcome, too).",
+    "apk": "https://f-droid.org/repo/se.leap.riseupvpn_176000.apk"
+  },
+  {
     "name": "Bits & Bäume 2022 Schedule",
     "description": "The conference for digitization and sustainability",
     "apk": "https://f-droid.org/repo/info.metadude.android.bitsundbaeume.schedule_90.apk"
@@ -2781,8 +2786,8 @@
   },
   {
     "name": "CaptureCap",
-    "description": "Record Audio and/or Screen",
-    "apk": "https://f-droid.org/repo/com.yepgoryo.CaptureCap_29.apk"
+    "description": "Record and Stream Audio and/or Screen",
+    "apk": "https://f-droid.org/repo/com.yepgoryo.CaptureCap_30.apk"
   },
   {
     "name": "CaptureSposed",
@@ -5475,6 +5480,11 @@
     "apk": "https://f-droid.org/repo/is.binary.alcoholnow_5.apk"
   },
   {
+    "name": "Ermis",
+    "description": "Ermis M is an open-source, privacy focused mobile chat application.",
+    "apk": "https://f-droid.org/repo/io.github.koukobin.ermis.ermismobile_2021.apk"
+  },
+  {
     "name": "ESBDirect",
     "description": "Access substitution plans",
     "apk": "https://f-droid.org/repo/godau.fynn.dsbdirect_41.apk"
@@ -6897,7 +6907,7 @@
   {
     "name": "Futon",
     "description": "Manga reader with online catalogues ( kotatsu fork )",
-    "apk": "https://f-droid.org/repo/io.github.landwarderer.futon_90610.apk"
+    "apk": "https://f-droid.org/repo/io.github.landwarderer.futon_90611.apk"
   },
   {
     "name": "fWallet",
@@ -7742,7 +7752,7 @@
   {
     "name": "Haven SSH Client",
     "description": "SSH terminal, Wayland desktop, VNC/RDP, cloud storage & SFTP for Android",
-    "apk": "https://f-droid.org/repo/sh.haven.app_3151.apk"
+    "apk": "https://f-droid.org/repo/sh.haven.app_3211.apk"
   },
   {
     "name": "Hawaiian for AnySoftKeyboard",
@@ -9512,7 +9522,7 @@
   {
     "name": "LeMondeRssReader",
     "description": "Reads RSS feed from the website LeMonde.fr and fetch articles inside the App",
-    "apk": "https://f-droid.org/repo/org.mbach.lemonde_36.apk"
+    "apk": "https://f-droid.org/repo/org.mbach.lemonde_37.apk"
   },
   {
     "name": "Lemuroid",
@@ -15590,11 +15600,6 @@
     "apk": "https://f-droid.org/repo/info.guardianproject.ripple_164.apk"
   },
   {
-    "name": "RiseupVPN",
-    "description": "RiseupVPN, anonymous VPN. Powered by Bitmask.",
-    "apk": "https://f-droid.org/repo/se.leap.riseupvpn_176000.apk"
-  },
-  {
     "name": "RiverFerry",
     "description": "Seine-Maritime river ferries",
     "apk": "https://f-droid.org/repo/fr.hnit.riverferry_1.apk"
@@ -17112,7 +17117,7 @@
   {
     "name": "SimpleX Chat",
     "description": "SimpleX Chat - e2e encrypted messenger without any user IDs - private by design!",
-    "apk": "https://f-droid.org/repo/chat.simplex.app_328.apk"
+    "apk": "https://f-droid.org/repo/chat.simplex.app_333.apk"
   },
   {
     "name": "SimpleXray",
@@ -17468,6 +17473,11 @@
     "name": "Snow",
     "description": "A monotone icon pack.",
     "apk": "https://f-droid.org/repo/org.baitmooth.snow_1.apk"
+  },
+  {
+    "name": "Snowflake Volunteer",
+    "description": "Help people in censored countries access the Internet without restrictions",
+    "apk": "https://f-droid.org/repo/io.bloco.snowflake_11.apk"
   },
   {
     "name": "Sobriety",
