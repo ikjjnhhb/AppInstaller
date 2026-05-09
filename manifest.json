@@ -1911,8 +1911,8 @@
   },
   {
     "name": "Birthday Adapter",
-    "description": "Display birthdays, anniversaries, and other events from your contacts automatica",
-    "apk": "https://f-droid.org/repo/org.birthdayadapter_31104.apk"
+    "description": "See birthdays and other events from your contacts in your calendar.",
+    "apk": "https://f-droid.org/repo/org.birthdayadapter_31112.apk"
   },
   {
     "name": "Birthday Calendar",
@@ -2627,7 +2627,7 @@
   {
     "name": "Calendar",
     "description": "The only fully-functional open-source calendar app with Material You.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.calendar_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.calendar_20260427.apk"
   },
   {
     "name": "Calendar Color",
@@ -2787,7 +2787,7 @@
   {
     "name": "CAPod - Companion for AirPods",
     "description": "CAPod is a companion app for AirPods on Android.",
-    "apk": "https://f-droid.org/repo/eu.darken.capod_50101000.apk"
+    "apk": "https://f-droid.org/repo/eu.darken.capod_50103000.apk"
   },
   {
     "name": "Captive Portal Controller",
@@ -2827,7 +2827,7 @@
   {
     "name": "Carburoid",
     "description": "Find gas stations by price and distance in Spain, France and Portugal.",
-    "apk": "https://f-droid.org/repo/net.canvoki.carburoid_1060100.apk"
+    "apk": "https://f-droid.org/repo/net.canvoki.carburoid_1060200.apk"
   },
   {
     "name": "Card Game Scores",
@@ -2897,7 +2897,7 @@
   {
     "name": "Casio G-Shock Smart Sync",
     "description": "Add smart functions to your Casio square BT G-Shock Watch.",
-    "apk": "https://f-droid.org/repo/org.avmedia.gshockGoogleSync_407.apk"
+    "apk": "https://f-droid.org/repo/org.avmedia.gshockGoogleSync_408.apk"
   },
   {
     "name": "CastLab",
@@ -2927,7 +2927,7 @@
   {
     "name": "Catima — Loyalty Card Wallet",
     "description": "For your barcodes, memberships, loyalty programs, coupons and tickets.",
-    "apk": "https://f-droid.org/repo/me.hackerchick.catima_162.apk"
+    "apk": "https://f-droid.org/repo/me.hackerchick.catima_163.apk"
   },
   {
     "name": "CatShare",
@@ -3072,7 +3072,7 @@
   {
     "name": "Chess",
     "description": "An open-source chess app.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.games.chess_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.games.chess_20260427.apk"
   },
   {
     "name": "Chess",
@@ -3202,7 +3202,7 @@
   {
     "name": "Chubby Click - Metronome",
     "description": "FOSS Metronome with the gigging musician in mind.",
-    "apk": "https://f-droid.org/repo/agrigolo.chubbyclick_23.apk"
+    "apk": "https://f-droid.org/repo/agrigolo.chubbyclick_24.apk"
   },
   {
     "name": "CIDR Calculator",
@@ -3397,7 +3397,7 @@
   {
     "name": "Clock",
     "description": "A simple open-source clock app",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.clock_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.clock_20260427.apk"
   },
   {
     "name": "Clock Live Wallpaper",
@@ -3667,7 +3667,7 @@
   {
     "name": "Contacts",
     "description": "An open-source, fully-functional contacts app.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.contacts_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.contacts_20260427.apk"
   },
   {
     "name": "Contacts",
@@ -5082,7 +5082,7 @@
   {
     "name": "DuressKeyboard",
     "description": "Keyboard that reacts to triggers and performs security actions",
-    "apk": "https://f-droid.org/repo/duress.keyboard_53.apk"
+    "apk": "https://f-droid.org/repo/duress.keyboard_54.apk"
   },
   {
     "name": "DuressKeyboardLite",
@@ -5392,7 +5392,7 @@
   {
     "name": "Endless Sky",
     "description": "Android port of endless-sky space trading game.",
-    "apk": "https://f-droid.org/repo/com.github.thewierdnut.endless_mobile_54.apk"
+    "apk": "https://f-droid.org/repo/com.github.thewierdnut.endless_mobile_55.apk"
   },
   {
     "name": "Endoscope",
@@ -5432,7 +5432,7 @@
   {
     "name": "Ente Auth - 2FA Authenticator",
     "description": "Free, Cross Platform, Private, Open Source Two Factor Authenticator App",
-    "apk": "https://f-droid.org/repo/io.ente.auth_590.apk"
+    "apk": "https://f-droid.org/repo/io.ente.auth_756.apk"
   },
   {
     "name": "Ente Locker",
@@ -5832,7 +5832,7 @@
   {
     "name": "FakeTraveler",
     "description": "Fake your location",
-    "apk": "https://f-droid.org/repo/cl.coders.faketraveler_222.apk"
+    "apk": "https://f-droid.org/repo/cl.coders.faketraveler_230.apk"
   },
   {
     "name": "Fall",
@@ -6112,7 +6112,7 @@
   {
     "name": "Find Family",
     "description": "An end-to-end encrypted location sharing app for family and friends.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.findfamily_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.findfamily_20260427.apk"
   },
   {
     "name": "Find my IP",
@@ -7137,7 +7137,7 @@
   {
     "name": "GeoWeather",
     "description": "Modern weather app with 3 to 7-day forecast for multiple cities",
-    "apk": "https://f-droid.org/repo/com.freetime.geoweather_46.apk"
+    "apk": "https://f-droid.org/repo/com.freetime.geoweather_47.apk"
   },
   {
     "name": "Gerberoid",
@@ -7792,7 +7792,7 @@
   {
     "name": "Haven SSH Client",
     "description": "SSH terminal, Wayland desktop, VNC/RDP, cloud storage & SFTP for Android",
-    "apk": "https://f-droid.org/repo/sh.haven.app_3441.apk"
+    "apk": "https://f-droid.org/repo/sh.haven.app_3511.apk"
   },
   {
     "name": "Hawaiian for AnySoftKeyboard",
@@ -8377,7 +8377,7 @@
   {
     "name": "Infomaniak Mail",
     "description": "The secure messaging service for your emails",
-    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12500001.apk"
+    "apk": "https://f-droid.org/repo/com.infomaniak.mail_12600001.apk"
   },
   {
     "name": "Information about NCBS",
@@ -8922,7 +8922,7 @@
   {
     "name": "Kai 9000",
     "description": "OpenClaw alternative in your pocket",
-    "apk": "https://f-droid.org/repo/com.inspiredandroid.kai_98.apk"
+    "apk": "https://f-droid.org/repo/com.inspiredandroid.kai_99.apk"
   },
   {
     "name": "Kaku",
@@ -9037,7 +9037,7 @@
   {
     "name": "KeePassDX Passkey Vault",
     "description": "Manage Passkey / Password in a local and open-source vault",
-    "apk": "https://f-droid.org/repo/com.kunzisoft.keepass.libre_153.apk"
+    "apk": "https://f-droid.org/repo/com.kunzisoft.keepass.libre_154.apk"
   },
   {
     "name": "KeePassVault",
@@ -9227,7 +9227,7 @@
   {
     "name": "Kompact Image Compressor",
     "description": "Offline image compressor, resizer and converter.",
-    "apk": "https://f-droid.org/repo/com.kompact_5.apk"
+    "apk": "https://f-droid.org/repo/com.kompact_6.apk"
   },
   {
     "name": "Koofr Vault",
@@ -9572,7 +9572,7 @@
   {
     "name": "LeMondeRssReader",
     "description": "Reads RSS feed from the website LeMonde.fr and fetch articles inside the App",
-    "apk": "https://f-droid.org/repo/org.mbach.lemonde_37.apk"
+    "apk": "https://f-droid.org/repo/org.mbach.lemonde_38.apk"
   },
   {
     "name": "Lemuroid",
@@ -9892,7 +9892,7 @@
   {
     "name": "Linwood Butterfly Nightly",
     "description": "Powerful, minimalistic, cross-platform, opensource note-taking app",
-    "apk": "https://f-droid.org/repo/dev.linwood.butterfly.nightly_174.apk"
+    "apk": "https://f-droid.org/repo/dev.linwood.butterfly.nightly_175.apk"
   },
   {
     "name": "Linwood Flow Nightly",
@@ -10175,6 +10175,11 @@
     "apk": "https://f-droid.org/repo/org.lumicall.android_190.apk"
   },
   {
+    "name": "Lumine",
+    "description": "A lightweight local HTTP/SOCKS5 proxy server protects TLS connections over TCP.",
+    "apk": "https://f-droid.org/repo/com.moi.lumine_161.apk"
+  },
+  {
     "name": "Lumo",
     "description": "A private AI assistant by Proton",
     "apk": "https://f-droid.org/repo/me.proton.android.lumo_40.apk"
@@ -10385,6 +10390,11 @@
     "apk": "https://f-droid.org/repo/de.box2code.marschride_11.apk"
   },
   {
+    "name": "Martial Body",
+    "description": "Offline 24-week MMA preparation trainer. No ads, no tracking, no cloud.",
+    "apk": "https://f-droid.org/repo/com.robinroy.martial_body_11.apk"
+  },
+  {
     "name": "Marxist Tamil",
     "description": "Read & Listen to essays from Marxist tamil magazine",
     "apk": "https://f-droid.org/repo/io.gitlab.pycpim.marxist_35.apk"
@@ -10402,7 +10412,7 @@
   {
     "name": "Mastodon",
     "description": "Where conversations happen",
-    "apk": "https://f-droid.org/repo/org.joinmastodon.android_163.apk"
+    "apk": "https://f-droid.org/repo/org.joinmastodon.android_165.apk"
   },
   {
     "name": "Mat-O-Id",
@@ -11237,7 +11247,7 @@
   {
     "name": "monocles chat",
     "description": "is a full-featured XMPP chat client",
-    "apk": "https://f-droid.org/repo/de.monocles.chat_19901.apk"
+    "apk": "https://f-droid.org/repo/de.monocles.chat_20001.apk"
   },
   {
     "name": "monocles social",
@@ -11447,7 +11457,7 @@
   {
     "name": "Mullvad VPN: privacy is a universal right",
     "description": "Protect your online privacy with a fast, trustworthy, and easy-to-use VPN.",
-    "apk": "https://f-droid.org/repo/net.mullvad.mullvadvpn_26029000.apk"
+    "apk": "https://f-droid.org/repo/net.mullvad.mullvadvpn_26039000.apk"
   },
   {
     "name": "Multi Launcher ‧ Home Screen",
@@ -11527,7 +11537,7 @@
   {
     "name": "Music",
     "description": "A basic M3Y music player app",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.music_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.music_20260427.apk"
   },
   {
     "name": "Music Player Lite",
@@ -11832,7 +11842,7 @@
   {
     "name": "NerdCalci",
     "description": "Calculator for nerds with variables, syntax highlighting, and file sessions",
-    "apk": "https://f-droid.org/repo/com.vishaltelangre.nerdcalci_402.apk"
+    "apk": "https://f-droid.org/repo/com.vishaltelangre.nerdcalci_411.apk"
   },
   {
     "name": "NerdSteam",
@@ -12002,7 +12012,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260504.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20260505.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -12322,7 +12332,7 @@
   {
     "name": "Nora",
     "description": "SNS browser. Facebook, Instagram, Reddit, Threads, X and more in a single app.",
-    "apk": "https://f-droid.org/repo/jp.nonbili.nora_6403.apk"
+    "apk": "https://f-droid.org/repo/jp.nonbili.nora_6503.apk"
   },
   {
     "name": "Nori",
@@ -12342,7 +12352,7 @@
   {
     "name": "nospeak",
     "description": "nospeak is a modern Nostr chat client",
-    "apk": "https://f-droid.org/repo/com.nospeak.app_1000010.apk"
+    "apk": "https://f-droid.org/repo/com.nospeak.app_1000020.apk"
   },
   {
     "name": "Notable Plus",
@@ -12387,7 +12397,7 @@
   {
     "name": "Notes",
     "description": "A markdown note-taking app",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.notes_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.notes_20260427.apk"
   },
   {
     "name": "Notes",
@@ -12707,7 +12717,7 @@
   {
     "name": "Offline Translator",
     "description": "On-device translation of text, images and pdf/odt files, with TTS",
-    "apk": "https://f-droid.org/repo/dev.davidv.translator_131.apk"
+    "apk": "https://f-droid.org/repo/dev.davidv.translator_141.apk"
   },
   {
     "name": "OG Network Tools",
@@ -13002,7 +13012,7 @@
   {
     "name": "OpenAssistant",
     "description": "A simple, open-source local AI app.",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.openassistant_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.openassistant_20260427.apk"
   },
   {
     "name": "OpenBeautyFacts",
@@ -13372,7 +13382,7 @@
   {
     "name": "OsmAnd~",
     "description": "Global Mobile Map Viewing & Navigation for Offline and Online OSM Maps",
-    "apk": "https://f-droid.org/repo/net.osmand.plus_521301.apk"
+    "apk": "https://f-droid.org/repo/net.osmand.plus_521303.apk"
   },
   {
     "name": "OSMBugs ",
@@ -13472,7 +13482,7 @@
   {
     "name": "P.CASH Crypto Wallet",
     "description": "Bitcoin, Ethereum, Monero, zCash, Dogecoin, PirateCash, Cosanta, DeFi & more",
-    "apk": "https://f-droid.org/repo/cash.p.terminal_233.apk"
+    "apk": "https://f-droid.org/repo/cash.p.terminal_234.apk"
   },
   {
     "name": "P2Play - Peertube client",
@@ -13522,7 +13532,7 @@
   {
     "name": "Pagan",
     "description": "A Mobile Music Sequencer",
-    "apk": "https://f-droid.org/repo/com.qfs.pagan_146.apk"
+    "apk": "https://f-droid.org/repo/com.qfs.pagan_147.apk"
   },
   {
     "name": "Page",
@@ -13787,7 +13797,7 @@
   {
     "name": "PDF",
     "description": "A simple, open-source PDF viewing app",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.pdf_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.pdf_20260427.apk"
   },
   {
     "name": "PDF Converter",
@@ -14022,7 +14032,7 @@
   {
     "name": "Photos",
     "description": "A basic photos app built with Material You",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.photos_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.photos_20260427.apk"
   },
   {
     "name": "PhotoSphereGallery",
@@ -14892,7 +14902,7 @@
   {
     "name": "ProtonVPN - Secure and Free VPN",
     "description": "Free Swiss VPN with advanced security and privacy features.",
-    "apk": "https://f-droid.org/repo/ch.protonvpn.android_605172100.apk"
+    "apk": "https://f-droid.org/repo/ch.protonvpn.android_605177200.apk"
   },
   {
     "name": "ProximitySensorFix",
@@ -17512,7 +17522,7 @@
   {
     "name": "SMS2Email",
     "description": "Forwards SMS messages to SMTP (Email) server",
-    "apk": "https://f-droid.org/repo/io.github.sms2email.sms2email_34.apk"
+    "apk": "https://f-droid.org/repo/io.github.sms2email.sms2email_35.apk"
   },
   {
     "name": "SmsLoc",
@@ -17712,7 +17722,7 @@
   {
     "name": "Sound Toggle",
     "description": "quickly switch the audio mode of your device",
-    "apk": "https://f-droid.org/repo/com.grmasa.soundtoggle_8.apk"
+    "apk": "https://f-droid.org/repo/com.grmasa.soundtoggle_9.apk"
   },
   {
     "name": "SoundAura",
@@ -18247,7 +18257,7 @@
   {
     "name": "Sumire Japanese Keyboard Lite F-Droid",
     "description": "Private offline Japanese keyboard with user dictionary and snippets",
-    "apk": "https://f-droid.org/repo/com.kazumaproject.markdownhelperkeyboard.lite.fdroid_743.apk"
+    "apk": "https://f-droid.org/repo/com.kazumaproject.markdownhelperkeyboard.lite.fdroid_746.apk"
   },
   {
     "name": "Summation",
@@ -18732,7 +18742,7 @@
   {
     "name": "TermuC",
     "description": "A simple C/C++ IDE backed on Termux",
-    "apk": "https://f-droid.org/repo/cn.rbc.termuc_9.apk"
+    "apk": "https://f-droid.org/repo/cn.rbc.termuc_10.apk"
   },
   {
     "name": "Termux",
@@ -18812,7 +18822,7 @@
   {
     "name": "Text Tools",
     "description": "Useful text related functions that can be done on the selected text",
-    "apk": "https://f-droid.org/repo/com.corphish.quicktools_23.apk"
+    "apk": "https://f-droid.org/repo/com.corphish.quicktools_25.apk"
   },
   {
     "name": "Text Torch",
@@ -19092,7 +19102,7 @@
   {
     "name": "Tinc Mesh VPN",
     "description": "Tinc mesh VPN client and user interface",
-    "apk": "https://f-droid.org/repo/org.pacien.tincapp_40.apk"
+    "apk": "https://f-droid.org/repo/org.pacien.tincapp_41.apk"
   },
   {
     "name": "Tinte Webcoms",
@@ -19897,7 +19907,7 @@
   {
     "name": "Unblock Jam",
     "description": "A private and open source version of the classic board game \"Rush Hour\"",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.games.unblockjam_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.games.unblockjam_20260427.apk"
   },
   {
     "name": "Unchained",
@@ -20747,7 +20757,7 @@
   {
     "name": "Weather Radar",
     "description": "An application featuring customizable, real-time doppler radar images",
-    "apk": "https://f-droid.org/repo/com.danhasting.radar_4.apk"
+    "apk": "https://f-droid.org/repo/com.danhasting.radar_6.apk"
   },
   {
     "name": "Weather: Cool and Hot",
@@ -21107,7 +21117,7 @@
   {
     "name": "Word Maker",
     "description": "A fun word puzzle game, completely private and offline",
-    "apk": "https://f-droid.org/repo/com.vayunmathur.games.wordmaker_20260422.apk"
+    "apk": "https://f-droid.org/repo/com.vayunmathur.games.wordmaker_20260427.apk"
   },
   {
     "name": "Word of the day - Learn a new word every day",
