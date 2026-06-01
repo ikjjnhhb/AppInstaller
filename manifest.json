@@ -3212,7 +3212,7 @@
   {
     "name": "ConnectBot",
     "description": "SSH and local shell client",
-    "apk": "https://f-droid.org/repo/org.connectbot_11000000.apk"
+    "apk": "https://f-droid.org/repo/org.connectbot_11003000.apk"
   },
   {
     "name": "Conscrypt Provider",
@@ -5920,6 +5920,11 @@
     "apk": "https://f-droid.org/repo/com.leestarb.fourthtools_330.apk"
   },
   {
+    "name": "FoxAppMemo",
+    "description": "Track, rate, and tag your Android apps with memos. No internet required.",
+    "apk": "https://f-droid.org/repo/com.rtneg.foxappmemo_5.apk"
+  },
+  {
     "name": "Foxy Droid",
     "description": "Yet another F-Droid client",
     "apk": "https://f-droid.org/repo/nya.kitsunyan.foxydroid_2.apk"
@@ -6877,7 +6882,7 @@
   {
     "name": "Haven SSH Client",
     "description": "SSH terminal, Wayland desktop, VNC/RDP, cloud storage & SFTP for Android",
-    "apk": "https://f-droid.org/repo/sh.haven.app_4121.apk"
+    "apk": "https://f-droid.org/repo/sh.haven.app_4301.apk"
   },
   {
     "name": "Hawaiian for AnySoftKeyboard",
@@ -9312,7 +9317,7 @@
   {
     "name": "Materialious",
     "description": "Modern material design for YouTube and Invidious.",
-    "apk": "https://f-droid.org/repo/us.materialio.app_243.apk"
+    "apk": "https://f-droid.org/repo/us.materialio.app_244.apk"
   },
   {
     "name": "MaterialOS",
@@ -9958,6 +9963,11 @@
     "name": "Mobilizon",
     "description": "Mobilizon is a tool to help manage your events, your profiles and your groups.",
     "apk": "https://f-droid.org/repo/app.fedilab.mobilizon_1.apk"
+  },
+  {
+    "name": "MobiloSignal",
+    "description": "Find the best spot for calls and mobile internet by seeing signal strength",
+    "apk": "https://f-droid.org/repo/barilyuk.mobilosignal_1.apk"
   },
   {
     "name": "MoeMemos",
@@ -13378,6 +13388,11 @@
     "name": "Quasseldroid",
     "description": "Chat comfortably. Everywhere.\n\nREQUIRES A QUASSEL CORE",
     "apk": "https://f-droid.org/repo/com.iskrembilen.quasseldroid_1322.apk"
+  },
+  {
+    "name": "Quedalle",
+    "description": "Quedalle in ads, tracking, accounts. Just a tile launcher.",
+    "apk": "https://f-droid.org/repo/dev.mlg.quedalle_5.apk"
   },
   {
     "name": "QueueToDo",
@@ -17775,6 +17790,11 @@
     "apk": "https://f-droid.org/repo/rocks.poopjournal.vacationdays_17.apk"
   },
   {
+    "name": "Valencia Transit Reloaded",
+    "description": "Transit info for the metropolitan area of Valencia and Alicante",
+    "apk": "https://f-droid.org/repo/com.albertodiaz.valencia_transit_reloaded_21.apk"
+  },
+  {
     "name": "Valentin's PowerTools #002 - Passwords to remember",
     "description": "Generates human speakable and readable passwords",
     "apk": "https://f-droid.org/repo/v4lpt.vpt.pwg_105.apk"
@@ -18178,6 +18198,11 @@
     "name": "Waistline",
     "description": "Libre calorie counter and weight tracker",
     "apk": "https://f-droid.org/repo/com.waist.line_30902.apk"
+  },
+  {
+    "name": "WakeUpScreen",
+    "description": "Wake your screen gently the moment a notification arrives",
+    "apk": "https://f-droid.org/repo/com.symeonchen.wakeupscreen_30300.apk"
   },
   {
     "name": "Wall You",
@@ -18642,7 +18667,7 @@
   {
     "name": "WiVeWa",
     "description": "Client for the WiVeWa system",
-    "apk": "https://f-droid.org/repo/de.wivewa.android_5.apk"
+    "apk": "https://f-droid.org/repo/de.wivewa.android_6.apk"
   },
   {
     "name": "WonderDroid X",
