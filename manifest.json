@@ -1407,7 +1407,7 @@
   {
     "name": "Bangle.js Gadgetbridge",
     "description": "Android companion app for Bangle.js built on top of the Gadgetbridge project.",
-    "apk": "https://f-droid.org/repo/com.espruino.gadgetbridge.banglejs_246.apk"
+    "apk": "https://f-droid.org/repo/com.espruino.gadgetbridge.banglejs_247.apk"
   },
   {
     "name": "Bangumi",
@@ -4432,7 +4432,7 @@
   {
     "name": "Drift // Audio",
     "description": "Ambient sound mixer for sleep and focus on long nights and long flights",
-    "apk": "https://f-droid.org/repo/io.github.probably_oxy.drift_2.apk"
+    "apk": "https://f-droid.org/repo/io.github.probably_oxy.drift_3.apk"
   },
   {
     "name": "Drinkable",
@@ -4612,7 +4612,7 @@
   {
     "name": "DuressKeyboardLite",
     "description": "Keyboard with DuressPassword feature.",
-    "apk": "https://f-droid.org/repo/duress.keyboard.lite_8.apk"
+    "apk": "https://f-droid.org/repo/duress.keyboard.lite_9.apk"
   },
   {
     "name": "Dutch for AnySoftKeyboard",
@@ -6407,7 +6407,7 @@
   {
     "name": "Gadgetbridge",
     "description": "Use your smart watch and other bluetooth devices and keep your data private!",
-    "apk": "https://f-droid.org/repo/nodomain.freeyourgadget.gadgetbridge_246.apk"
+    "apk": "https://f-droid.org/repo/nodomain.freeyourgadget.gadgetbridge_247.apk"
   },
   {
     "name": "gaika",
@@ -8197,7 +8197,7 @@
   {
     "name": "K-9 Mail",
     "description": "Full-featured email client",
-    "apk": "https://f-droid.org/repo/com.fsck.k9_39037.apk"
+    "apk": "https://f-droid.org/repo/com.fsck.k9_39038.apk"
   },
   {
     "name": "k3pler",
@@ -10392,7 +10392,7 @@
   {
     "name": "Momentum",
     "description": "App to make Montages easily",
-    "apk": "https://f-droid.org/repo/shub39.momentum_1697.apk"
+    "apk": "https://f-droid.org/repo/shub39.momentum_1707.apk"
   },
   {
     "name": "Momkin",
@@ -14592,7 +14592,7 @@
   {
     "name": "Rocinante",
     "description": "Fast, private, and native client for the BookWyrm literary social network.",
-    "apk": "https://f-droid.org/repo/com.ferlagod.rocinante_7.apk"
+    "apk": "https://f-droid.org/repo/com.ferlagod.rocinante_8.apk"
   },
   {
     "name": "Rocket Guardian",
@@ -16322,7 +16322,7 @@
   {
     "name": "SOS Ring",
     "description": "Force ringtone for VIP contacts even in Silent/DND mode",
-    "apk": "https://f-droid.org/repo/com.lorenzomarci.sosring_2.apk"
+    "apk": "https://f-droid.org/repo/com.lorenzomarci.sosring_38.apk"
   },
   {
     "name": "Sossoldi",
@@ -17432,7 +17432,7 @@
   {
     "name": "Thunderbird: Free Your Inbox",
     "description": "Thunderbird is a 100% open source, privacy focused email app.",
-    "apk": "https://f-droid.org/repo/net.thunderbird.android_24.apk"
+    "apk": "https://f-droid.org/repo/net.thunderbird.android_25.apk"
   },
   {
     "name": "TIC-80",
@@ -19652,7 +19652,7 @@
   {
     "name": "xnotes",
     "description": "Handwriting notes and sketching app with stylus support",
-    "apk": "https://f-droid.org/repo/com.xnotes_30.apk"
+    "apk": "https://f-droid.org/repo/com.xnotes_34.apk"
   },
   {
     "name": "Xournal++",
