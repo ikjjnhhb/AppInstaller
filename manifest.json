@@ -4092,7 +4092,7 @@
   {
     "name": "DetoxDroid: Digital Detoxing as Your New Default",
     "description": "Get rid of attention-grabbing and manipulative features.",
-    "apk": "https://f-droid.org/repo/com.flx_apps.digitaldetox_20300.apk"
+    "apk": "https://f-droid.org/repo/com.flx_apps.digitaldetox_20400.apk"
   },
   {
     "name": "DeuFeiTage",
@@ -5377,7 +5377,7 @@
   {
     "name": "FairScan – PDF Scanner",
     "description": "Scan a document and get a clean PDF you can save or share instantly",
-    "apk": "https://f-droid.org/repo/org.fairscan.app_82.apk"
+    "apk": "https://f-droid.org/repo/org.fairscan.app_85.apk"
   },
   {
     "name": "FairSpeed - Speed Tester",
@@ -5827,7 +5827,7 @@
   {
     "name": "Flac-R",
     "description": "Perfect your collection.",
-    "apk": "https://f-droid.org/repo/com.resurrect.flac_r_31.apk"
+    "apk": "https://f-droid.org/repo/com.resurrect.flac_r_41.apk"
   },
   {
     "name": "Flang",
@@ -6242,7 +6242,7 @@
   {
     "name": "Fossify Messages",
     "description": "Open-source and Ad-free SMS/MMS messaging app",
-    "apk": "https://f-droid.org/repo/org.fossify.messages_20.apk"
+    "apk": "https://f-droid.org/repo/org.fossify.messages_21.apk"
   },
   {
     "name": "Fossify Music Player",
@@ -6767,7 +6767,7 @@
   {
     "name": "Gitling",
     "description": "Git client built with Jetpack Compose and Material 3 Expressive",
-    "apk": "https://f-droid.org/repo/com.maneeshacooray.gitling_50.apk"
+    "apk": "https://f-droid.org/repo/com.maneeshacooray.gitling_51.apk"
   },
   {
     "name": "GitNex for Forgejo and Gitea",
@@ -7422,7 +7422,7 @@
   {
     "name": "HexViewer",
     "description": "Hexadecimal viewer for Android",
-    "apk": "https://f-droid.org/repo/fr.ralala.hexviewer_15906.apk"
+    "apk": "https://f-droid.org/repo/fr.ralala.hexviewer_15907.apk"
   },
   {
     "name": "HFUT-Schedule",
@@ -9062,7 +9062,7 @@
   {
     "name": "Libellus Potionis",
     "description": "Privacy-friendly alcohol tracker: limits, BAC estimate, PDF reports.",
-    "apk": "https://f-droid.org/repo/de.godisch.potillus_89.apk"
+    "apk": "https://f-droid.org/repo/de.godisch.potillus_91.apk"
   },
   {
     "name": "Library App VideLibri",
@@ -9812,7 +9812,7 @@
   {
     "name": "Markleaf",
     "description": "Local-first Markdown notes with tags, search, and file export",
-    "apk": "https://f-droid.org/repo/com.markleaf.notes_106.apk"
+    "apk": "https://f-droid.org/repo/com.markleaf.notes_107.apk"
   },
   {
     "name": "Markor",
@@ -10857,7 +10857,7 @@
   {
     "name": "Murine Launcher",
     "description": "A modern, lightweight Launcher3 fork for an enhanced stock++ Android experience.",
-    "apk": "https://f-droid.org/repo/app.murinelauncher_10004.apk"
+    "apk": "https://f-droid.org/repo/app.murinelauncher_10005.apk"
   },
   {
     "name": "Muse - Text to Speech",
@@ -10907,7 +10907,7 @@
   {
     "name": "MusicSearch",
     "description": "MusicSearch is an app for browsing songs, artists, and anything related to them",
-    "apk": "https://f-droid.org/repo/io.github.lydavid.musicsearch_926.apk"
+    "apk": "https://f-droid.org/repo/io.github.lydavid.musicsearch_928.apk"
   },
   {
     "name": "Musify",
@@ -11997,7 +11997,7 @@
   {
     "name": "Olauncher",
     "description": "Minimal launcher app with daily new wallpaper",
-    "apk": "https://f-droid.org/repo/app.olauncher_104.apk"
+    "apk": "https://f-droid.org/repo/app.olauncher_105.apk"
   },
   {
     "name": "Old North Arabian for ASK",
@@ -13642,7 +13642,7 @@
   {
     "name": "Podcini.A - Extensible media instrument",
     "description": "Your premier podcast/media instrument, now extensible, capable of YouTubing",
-    "apk": "https://f-droid.org/repo/ac.mdiq.Podcini.A_73.apk"
+    "apk": "https://f-droid.org/repo/ac.mdiq.Podcini.A_77.apk"
   },
   {
     "name": "Podcini.X - Podcast instrument",
@@ -14097,7 +14097,7 @@
   {
     "name": "Puzzle Games",
     "description": "270+ minimalist brain games. Challenge your logic, memory & attention in game",
-    "apk": "https://f-droid.org/repo/com.sidhant.puzzle_211.apk"
+    "apk": "https://f-droid.org/repo/com.sidhant.puzzle_221.apk"
   },
   {
     "name": "Puzzle Grid",
@@ -16510,6 +16510,11 @@
     "apk": "https://f-droid.org/repo/org.baitmooth.snow_3.apk"
   },
   {
+    "name": "Snowdrop",
+    "description": "Multiplatform Mastodon API client using Compose",
+    "apk": "https://f-droid.org/repo/site.remlit.snowdrop_4.apk"
+  },
+  {
     "name": "Snowflake Volunteer",
     "description": "Help people in censored countries access the Internet without restrictions",
     "apk": "https://f-droid.org/repo/io.bloco.snowflake_51.apk"
@@ -16967,7 +16972,7 @@
   {
     "name": "Sterna Mail",
     "description": "Private, modern Android email client for JMAP — with full IMAP/SMTP support.",
-    "apk": "https://f-droid.org/repo/app.sterna_131.apk"
+    "apk": "https://f-droid.org/repo/app.sterna_133.apk"
   },
   {
     "name": "Stethox",
@@ -19467,7 +19472,7 @@
   {
     "name": "Water Sort",
     "description": "Relaxing color-sorting puzzle. Infinite levels. Zero tracking. No ads.",
-    "apk": "https://f-droid.org/repo/com.sidhant.watersort_21.apk"
+    "apk": "https://f-droid.org/repo/com.sidhant.watersort_41.apk"
   },
   {
     "name": "Waterfly III",
