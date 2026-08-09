@@ -3297,7 +3297,7 @@
   {
     "name": "ColorBlendr",
     "description": "Express yourself with colors",
-    "apk": "https://f-droid.org/repo/com.drdisagree.colorblendr_38.apk"
+    "apk": "https://f-droid.org/repo/com.drdisagree.colorblendr_39.apk"
   },
   {
     "name": "Colorful",
@@ -4692,7 +4692,7 @@
   {
     "name": "DuckDuckGo Privacy Browser",
     "description": "Privacy, simplified",
-    "apk": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52862000.apk"
+    "apk": "https://f-droid.org/repo/com.duckduckgo.mobile.android_52880000.apk"
   },
   {
     "name": "DuckRun",
@@ -5072,7 +5072,7 @@
   {
     "name": "Ente Auth - 2FA Authenticator",
     "description": "Free, Cross Platform, Private, Open Source Two Factor Authenticator App",
-    "apk": "https://f-droid.org/repo/io.ente.auth_760.apk"
+    "apk": "https://f-droid.org/repo/io.ente.auth_876.apk"
   },
   {
     "name": "Ente Locker",
@@ -5627,7 +5627,7 @@
   {
     "name": "Fennec F-Droid",
     "description": "Browse the web",
-    "apk": "https://f-droid.org/repo/org.mozilla.fennec_fdroid_1520400.apk"
+    "apk": "https://f-droid.org/repo/org.mozilla.fennec_fdroid_1520600.apk"
   },
   {
     "name": "Fertility Test Analyzer App: Ovulation & Pregnancy",
@@ -7590,9 +7590,9 @@
     "apk": "https://f-droid.org/repo/nodomain.hoopdraw_1.apk"
   },
   {
-    "name": "HOPE_16",
+    "name": "HOPE 26",
     "description": "Program app for the HOPE conference",
-    "apk": "https://f-droid.org/repo/info.metadude.android.hope.schedule_110.apk"
+    "apk": "https://f-droid.org/repo/info.metadude.android.hope.schedule_121.apk"
   },
   {
     "name": "Hoplite Polytonic Greek Keyboard",
@@ -8225,9 +8225,9 @@
     "apk": "https://f-droid.org/repo/xyz.jekyllex_4.apk"
   },
   {
-    "name": "Jellyfin - your media in your hands!",
+    "name": "Jellyfin",
     "description": "Mobile client for Jellyfin, the free software media system",
-    "apk": "https://f-droid.org/repo/org.jellyfin.mobile_2060299.apk"
+    "apk": "https://f-droid.org/repo/org.jellyfin.mobile_2060399.apk"
   },
   {
     "name": "Jellyfin for Android TV",
@@ -10012,7 +10012,7 @@
   {
     "name": "MapComplete",
     "description": "Thematic, editable maps based on OpenStreetMap",
-    "apk": "https://f-droid.org/repo/org.mapcomplete_2286.apk"
+    "apk": "https://f-droid.org/repo/org.mapcomplete_2324.apk"
   },
   {
     "name": "Mapple: Redirect Apple Maps",
@@ -16612,7 +16612,7 @@
   {
     "name": "SlimSocial for Facebook",
     "description": "Browse Facebook",
-    "apk": "https://f-droid.org/repo/it.rignanese.leo.slimfacebook_112.apk"
+    "apk": "https://f-droid.org/repo/it.rignanese.leo.slimfacebook_115.apk"
   },
   {
     "name": "Slovak for AnySoftKeyboard",
@@ -18520,6 +18520,11 @@
     "apk": "https://f-droid.org/repo/com.samco.trackandgraph_800024.apk"
   },
   {
+    "name": "Track Exploder",
+    "description": "Extract, remix, and practise with barbershop learning tracks",
+    "apk": "https://f-droid.org/repo/com.safrone.trackexploder_1001015.apk"
+  },
+  {
     "name": "Track Work Time",
     "description": "Record your work time. Categorize it with different tasks. Generate reports.",
     "apk": "https://f-droid.org/repo/org.zephyrsoft.trackworktime_70.apk"
@@ -20172,7 +20177,7 @@
   {
     "name": "Wire • Secure Messenger",
     "description": "Wire offers highly secure communication – anywhere and anytime.",
-    "apk": "https://f-droid.org/repo/com.wire_100216041.apk"
+    "apk": "https://f-droid.org/repo/com.wire_100218917.apk"
   },
   {
     "name": "Wispar",
