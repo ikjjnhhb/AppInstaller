@@ -402,7 +402,7 @@
   {
     "name": "AeroPayout",
     "description": "Become a pilot in 7 days — buy tickets, advance seats, earn real rewards",
-    "apk": "https://f-droid.org/repo/com.aeropayout.game_11.apk"
+    "apk": "https://f-droid.org/repo/com.aeropayout.game_12.apk"
   },
   {
     "name": "AF Weather Widget",
@@ -437,7 +437,7 @@
   {
     "name": "Aftergleam - academic papers",
     "description": "A private reader for new research papers, ranked on your phone.",
-    "apk": "https://f-droid.org/repo/si.jakobkreft.aftergleam_5.apk"
+    "apk": "https://f-droid.org/repo/si.jakobkreft.aftergleam_6.apk"
   },
   {
     "name": "AFWall+",
@@ -462,7 +462,7 @@
   {
     "name": "Agent",
     "description": "Local AI chat, your models, and practical Android tools",
-    "apk": "https://f-droid.org/repo/com.mobilefork.hermesagent_145890.apk"
+    "apk": "https://f-droid.org/repo/com.mobilefork.hermesagent_145990.apk"
   },
   {
     "name": "AgePony: Encrypt & Sign",
@@ -907,7 +907,7 @@
   {
     "name": "AnkiDroid: Flashcards",
     "description": "Memorize anything with AnkiDroid!",
-    "apk": "https://f-droid.org/repo/com.ichi2.anki_22501300.apk"
+    "apk": "https://f-droid.org/repo/com.ichi2.anki_22301300.apk"
   },
   {
     "name": "AnkiEditor",
@@ -1232,7 +1232,7 @@
   {
     "name": "ARK-launcher",
     "description": "A modern, customizable home-screen launcher built with Jetpack Compose",
-    "apk": "https://f-droid.org/repo/org.arkikeskus.launcher_55.apk"
+    "apk": "https://f-droid.org/repo/org.arkikeskus.launcher_58.apk"
   },
   {
     "name": "Armenian for AnySoftKeyboard",
@@ -1307,7 +1307,7 @@
   {
     "name": "Aster Mail: Encrypted Email",
     "description": "Private email app with end-to-end encryption, aliases, and custom domains",
-    "apk": "https://f-droid.org/repo/org.astermail.android_212.apk"
+    "apk": "https://f-droid.org/repo/org.astermail.android_214.apk"
   },
   {
     "name": "Asteroid's Revenge",
@@ -1792,12 +1792,12 @@
   {
     "name": "baresip",
     "description": "VoIP and mobile calling and messaging app based on baresip library",
-    "apk": "https://f-droid.org/repo/com.tutpro.baresip_570.apk"
+    "apk": "https://f-droid.org/repo/com.tutpro.baresip_572.apk"
   },
   {
     "name": "baresip+",
     "description": "VoIP and mobile calling and messaging app based on baresip library",
-    "apk": "https://f-droid.org/repo/com.tutpro.baresip.plus_326.apk"
+    "apk": "https://f-droid.org/repo/com.tutpro.baresip.plus_328.apk"
   },
   {
     "name": "BARIA",
@@ -1902,7 +1902,7 @@
   {
     "name": "Be nice",
     "description": "Modern aesthetics. Open-source soul. Your Android launcher.",
-    "apk": "https://f-droid.org/repo/de.thomaskuenneth.benice_162.apk"
+    "apk": "https://f-droid.org/repo/de.thomaskuenneth.benice_167.apk"
   },
   {
     "name": "Beacon Locator",
@@ -2250,6 +2250,11 @@
     "apk": "https://f-droid.org/repo/com.ranger.blastoff_100012.apk"
   },
   {
+    "name": "Blazify",
+    "description": "Stream millions of songs with synced lyrics, an equalizer and offline downloads",
+    "apk": "https://f-droid.org/repo/com.blazify.music_162.apk"
+  },
+  {
     "name": "BLE Manager",
     "description": "Control your BLE devices easily. No libraries needed.",
     "apk": "https://f-droid.org/repo/net.satka.bleManager_19.apk"
@@ -2317,7 +2322,7 @@
   {
     "name": "BlockDrop: Block Puzzle",
     "description": "Free and open source block-stacking puzzle game. Arrange falling shapes to clear",
-    "apk": "https://f-droid.org/repo/com.blockdrop.game_641.apk"
+    "apk": "https://f-droid.org/repo/com.blockdrop.game_651.apk"
   },
   {
     "name": "Blocker",
@@ -2352,7 +2357,7 @@
   {
     "name": "BlowTorch 2",
     "description": "BlowTorch 2 — a versatile mobile MUD client",
-    "apk": "https://f-droid.org/repo/com.resurrection.blowtorch2_266.apk"
+    "apk": "https://f-droid.org/repo/com.resurrection.blowtorch2_267.apk"
   },
   {
     "name": "Blue Line Console",
@@ -2451,8 +2456,8 @@
   },
   {
     "name": "BoatSpeedy",
-    "description": "GPS speedometer and waterway navigation for boats, with battery analytics",
-    "apk": "https://f-droid.org/repo/de.kewl.boatspeedy_47.apk"
+    "description": "Route planner for canoes and boats, GPS speedometer and battery analytics",
+    "apk": "https://f-droid.org/repo/de.kewl.boatspeedy_49.apk"
   },
   {
     "name": "BoB",
@@ -2512,7 +2517,7 @@
   {
     "name": "Bona vortaro",
     "description": "Esperanto dictionary, with the whole Reta Vortaro, offline",
-    "apk": "https://f-droid.org/repo/io.github.kotchwane.bonavortaro_6.apk"
+    "apk": "https://f-droid.org/repo/io.github.kotchwane.bonavortaro_7.apk"
   },
   {
     "name": "Bondwidth",
@@ -2692,7 +2697,7 @@
   {
     "name": "Brevier",
     "description": "A reading browser: the web without JavaScript, set in your own type",
-    "apk": "https://f-droid.org/repo/io.github.gurov.brevier_1400.apk"
+    "apk": "https://f-droid.org/repo/io.github.gurov.brevier_1500.apk"
   },
   {
     "name": "Briar",
@@ -2742,7 +2747,7 @@
   {
     "name": "BRouter",
     "description": "Get elevation-aware cycling directions",
-    "apk": "https://f-droid.org/repo/btools.routingapp_54.apk"
+    "apk": "https://f-droid.org/repo/btools.routingapp_55.apk"
   },
   {
     "name": "Brownian Particles Live Wallpaper",
@@ -2897,7 +2902,7 @@
   {
     "name": "BVD",
     "description": "bilibili video resource downloader",
-    "apk": "https://f-droid.org/repo/cc.kafuu.bilidownload_20305.apk"
+    "apk": "https://f-droid.org/repo/cc.kafuu.bilidownload_20306.apk"
   },
   {
     "name": "BwareArea",
@@ -3212,7 +3217,7 @@
   {
     "name": "Capy Reader",
     "description": "A smallish RSS reader",
-    "apk": "https://f-droid.org/repo/com.capyreader.app_1211.apk"
+    "apk": "https://f-droid.org/repo/com.capyreader.app_1212.apk"
   },
   {
     "name": "Car Coop",
@@ -3287,7 +3292,7 @@
   {
     "name": "Casio G-Shock Smart Sync",
     "description": "Add smart functions to your Casio square BT G-Shock Watch.",
-    "apk": "https://f-droid.org/repo/org.avmedia.gshockGoogleSync_4294.apk"
+    "apk": "https://f-droid.org/repo/org.avmedia.gshockGoogleSync_42911.apk"
   },
   {
     "name": "CastLab",
@@ -3357,7 +3362,7 @@
   {
     "name": "CClauncher",
     "description": "Minimal home launcher that hides apps by default to reduce distractions",
-    "apk": "https://f-droid.org/repo/app.cclauncher_1287.apk"
+    "apk": "https://f-droid.org/repo/app.cclauncher_1377.apk"
   },
   {
     "name": "CDLC Player",
@@ -3522,7 +3527,7 @@
   {
     "name": "Chogan",
     "description": "Offline game collection: tower defence, sudoku, minesweeper, dots.",
-    "apk": "https://f-droid.org/repo/io.github.choganhq.chogan_30.apk"
+    "apk": "https://f-droid.org/repo/io.github.choganhq.chogan_36.apk"
   },
   {
     "name": "Chompass - Calorie Tracker",
@@ -3697,7 +3702,7 @@
   {
     "name": "Clavier Tuner",
     "description": "Piano tuning from the piano in front of you: measured, not assumed",
-    "apk": "https://f-droid.org/repo/at.clavierhaus.claviertuner_2.apk"
+    "apk": "https://f-droid.org/repo/at.clavierhaus.claviertuner_4.apk"
   },
   {
     "name": "ClaviRom",
@@ -3742,12 +3747,12 @@
   {
     "name": "Clementine Remote",
     "description": "Music player remote control",
-    "apk": "https://f-droid.org/repo/de.qspool.clementineremote_1885.apk"
+    "apk": "https://f-droid.org/repo/de.qspool.clementineremote_1975.apk"
   },
   {
     "name": "Clench Wallet",
     "description": "Secure non-custodial Bitcoin wallet with multisig support",
-    "apk": "https://f-droid.org/repo/net.clench.wallet_328.apk"
+    "apk": "https://f-droid.org/repo/net.clench.wallet_329.apk"
   },
   {
     "name": "CleverKeys",
@@ -4307,7 +4312,7 @@
   {
     "name": "Cryptomator",
     "description": "Put a lock on your cloud: Take the security of your data into your own hands",
-    "apk": "https://f-droid.org/repo/org.cryptomator.lite_3020.apk"
+    "apk": "https://f-droid.org/repo/org.cryptomator.lite_3030.apk"
   },
   {
     "name": "CryptoPass",
@@ -4507,7 +4512,7 @@
   {
     "name": "Daily You",
     "description": "Every day is worth remembering…",
-    "apk": "https://f-droid.org/repo/com.demizo.daily_you_30060001.apk"
+    "apk": "https://f-droid.org/repo/com.demizo.daily_you_30060011.apk"
   },
   {
     "name": "DailyAL",
@@ -4657,7 +4662,7 @@
   {
     "name": "Daybook Puzzles: Daily Sudoku",
     "description": "Daily sudoku, nonograms, word and logic puzzles. No ads, no account, offline.",
-    "apk": "https://f-droid.org/repo/com.joebywan.daybook_139.apk"
+    "apk": "https://f-droid.org/repo/com.joebywan.daybook_149.apk"
   },
   {
     "name": "DayCalcy",
@@ -4707,7 +4712,7 @@
   {
     "name": "De1984",
     "description": "Privacy-focused Firewall and Package Manager for Android devices",
-    "apk": "https://f-droid.org/repo/io.github.dorumrr.de1984_48.apk"
+    "apk": "https://f-droid.org/repo/io.github.dorumrr.de1984_49.apk"
   },
   {
     "name": "DeadHash",
@@ -4785,11 +4790,6 @@
     "apk": "https://f-droid.org/repo/com.vladrip.drgassistant_2.apk"
   },
   {
-    "name": "DeepLAndroid",
-    "description": "Unofficial Android App for DeepL Translator",
-    "apk": "https://f-droid.org/repo/com.example.deeplviewer_49.apk"
-  },
-  {
     "name": "Deepr",
     "description": "Simplify link handling. Save, organize, and open links with ease.",
     "apk": "https://f-droid.org/repo/com.yogeshpaliyal.deepr_27.apk"
@@ -4822,7 +4822,7 @@
   {
     "name": "Deku SMS",
     "description": "DekuSMS is an SMS app that supports end to end encryption, cloud forwarding and ",
-    "apk": "https://f-droid.org/repo/com.afkanerd.deku_8901.apk"
+    "apk": "https://f-droid.org/repo/com.afkanerd.deku_9101.apk"
   },
   {
     "name": "Delist",
@@ -4877,7 +4877,7 @@
   {
     "name": "Denaro",
     "description": "Private, offline personal finance with accounts, categories and insights.",
-    "apk": "https://f-droid.org/repo/it.rfmariano.denaro_23130034.apk"
+    "apk": "https://f-droid.org/repo/it.rfmariano.denaro_23675748.apk"
   },
   {
     "name": "Der Die Das",
@@ -4942,7 +4942,7 @@
   {
     "name": "Device Watch",
     "description": "System monitor widget with per-app usage insights and a charging screensaver",
-    "apk": "https://f-droid.org/repo/org.jarsi.devicewatch_21.apk"
+    "apk": "https://f-droid.org/repo/org.jarsi.devicewatch_22.apk"
   },
   {
     "name": "Devinettes",
@@ -5077,7 +5077,7 @@
   {
     "name": "DigiAgriApp",
     "description": "DigiAgriApp is a software aimed at farmers and anyone with cultivated land",
-    "apk": "https://f-droid.org/repo/org.digiagriapp_26.apk"
+    "apk": "https://f-droid.org/repo/org.digiagriapp_27.apk"
   },
   {
     "name": "Digital Calculator",
@@ -5202,7 +5202,7 @@
   {
     "name": "DNS Toggle",
     "description": "Easily toggle and automate Private DNS through the Quick Settings panel.",
-    "apk": "https://f-droid.org/repo/com.ericlowry.dnstoggle_30.apk"
+    "apk": "https://f-droid.org/repo/com.ericlowry.dnstoggle_32.apk"
   },
   {
     "name": "DNSNet",
@@ -5572,7 +5572,7 @@
   {
     "name": "Duetto",
     "description": "A tiny Discord for two, on your own server: a permanent voice and video channel.",
-    "apk": "https://f-droid.org/repo/com.duetto_382.apk"
+    "apk": "https://f-droid.org/repo/com.duetto_443.apk"
   },
   {
     "name": "DumberKit: Calculator",
@@ -5862,7 +5862,7 @@
   {
     "name": "Electrum Bitcoin Wallet",
     "description": "Fast and self-custodial wallet for Bitcoin and the Lightning Network",
-    "apk": "https://f-droid.org/repo/org.electrum.electrum_45408002.apk"
+    "apk": "https://f-droid.org/repo/org.electrum.electrum_45408012.apk"
   },
   {
     "name": "eLektron",
@@ -5941,8 +5941,8 @@
   },
   {
     "name": "Encly: Encrypted Offline Notes",
-    "description": "Private notes & tasks with a PIN lock. No account, no internet, no ads.",
-    "apk": "https://f-droid.org/repo/com.pasich.encly_20100.apk"
+    "description": "Secure notepad with a PIN lock: notes & tasks. No account, no internet, no ads.",
+    "apk": "https://f-droid.org/repo/com.pasich.encly_20200.apk"
   },
   {
     "name": "Encointer Wallet",
@@ -6012,7 +6012,7 @@
   {
     "name": "Ente Locker",
     "description": "Store & share important documents privately, and pass them on in emergencies.",
-    "apk": "https://f-droid.org/repo/io.ente.locker.fdroid_235.apk"
+    "apk": "https://f-droid.org/repo/io.ente.locker.fdroid_262.apk"
   },
   {
     "name": "Ente Photos - Open source, end-to-end encrypted al",
@@ -6257,7 +6257,7 @@
   {
     "name": "Exclave",
     "description": "Proxy client",
-    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1981.apk"
+    "apk": "https://f-droid.org/repo/com.github.dyhkwong.sagernet_1991.apk"
   },
   {
     "name": "Exercise Reminders",
@@ -6597,7 +6597,7 @@
   {
     "name": "FeedFlow - RSS Feed Reader",
     "description": "Minimal RSS reader with offline reading, reader mode & flexible sync options.",
-    "apk": "https://f-droid.org/repo/com.prof18.feedflow_6204.apk"
+    "apk": "https://f-droid.org/repo/com.prof18.feedflow_6219.apk"
   },
   {
     "name": "Feedora",
@@ -6737,7 +6737,7 @@
   {
     "name": "FillMeUp!",
     "description": "Track your daily water intake and stay hydrated with reminders.",
-    "apk": "https://f-droid.org/repo/com.david.waterreminder_3.apk"
+    "apk": "https://f-droid.org/repo/com.david.waterreminder_4.apk"
   },
   {
     "name": "FilmChecker",
@@ -6753,6 +6753,11 @@
     "name": "FilmFlip",
     "description": "Film negative photo recovery app",
     "apk": "https://f-droid.org/repo/org.jumascola.filmflip_5.apk"
+  },
+  {
+    "name": "FilmLab",
+    "description": "Edit photos on your device with film-inspired looks",
+    "apk": "https://f-droid.org/repo/com.nsheremet.filmlab_4.apk"
   },
   {
     "name": "Finalbenchmark 2 - CPU Test",
@@ -6772,7 +6777,7 @@
   {
     "name": "Finan+",
     "description": "Offline, encrypted personal finance manager (Brazilian Portuguese)",
-    "apk": "https://f-droid.org/repo/com.finanplus_11.apk"
+    "apk": "https://f-droid.org/repo/com.finanplus_14.apk"
   },
   {
     "name": "Finance Manager (PFA)",
@@ -7097,7 +7102,7 @@
   {
     "name": "Flux",
     "description": "Stay organized. Stay focused. Stay in Flux.",
-    "apk": "https://f-droid.org/repo/com.flux_19.apk"
+    "apk": "https://f-droid.org/repo/com.flux_20.apk"
   },
   {
     "name": "Flux - Movies, Shows & Anime local player",
@@ -7586,8 +7591,8 @@
   },
   {
     "name": "Frequent Habits",
-    "description": "Aesthetic habit tracker with deep analytics. 100% private and offline.",
-    "apk": "https://f-droid.org/repo/com.frequent.habits_14.apk"
+    "description": "A modern, privacy-focused & feature-packed open-source habit tracker for Android",
+    "apk": "https://f-droid.org/repo/com.frequent.habits_16.apk"
   },
   {
     "name": "FreshMate",
@@ -7637,7 +7642,7 @@
   {
     "name": "FTP Server (Free)",
     "description": "Access your phone wirelessly",
-    "apk": "https://f-droid.org/repo/be.ppareit.swiftp_free_30400.apk"
+    "apk": "https://f-droid.org/repo/be.ppareit.swiftp_free_30500.apk"
   },
   {
     "name": "FTPClient",
@@ -8207,7 +8212,7 @@
   {
     "name": "GPS Cockpit",
     "description": "GPS Cockpit & Head-Up Display",
-    "apk": "https://f-droid.org/repo/org.woheller69.gpscockpit_270.apk"
+    "apk": "https://f-droid.org/repo/org.woheller69.gpscockpit_280.apk"
   },
   {
     "name": "GPS Locker",
@@ -8462,7 +8467,7 @@
   {
     "name": "GymMane",
     "description": "Dark, offline gym log. Tap the muscle, log your sets, watch your numbers move.",
-    "apk": "https://f-droid.org/repo/com.gymmane.app_53.apk"
+    "apk": "https://f-droid.org/repo/com.gymmane.app_61.apk"
   },
   {
     "name": "GymRoutines",
@@ -8637,7 +8642,7 @@
   {
     "name": "Haven SSH Client",
     "description": "SSH terminal, Wayland desktop, VNC/RDP, cloud storage & SFTP for Android",
-    "apk": "https://f-droid.org/repo/sh.haven.app_8971.apk"
+    "apk": "https://f-droid.org/repo/sh.haven.app_8991.apk"
   },
   {
     "name": "Hawaiian for AnySoftKeyboard",
@@ -8757,7 +8762,7 @@
   {
     "name": "Hermes Mobile",
     "description": "Remote control for your Hermes AI agent",
-    "apk": "https://f-droid.org/repo/com.m57.hermescontrol_20600.apk"
+    "apk": "https://f-droid.org/repo/com.m57.hermescontrol_20701.apk"
   },
   {
     "name": "Hertz contact",
@@ -8792,7 +8797,7 @@
   {
     "name": "HFUT-Schedule",
     "description": "All-in-one school service app for Hefei University of Technology students",
-    "apk": "https://f-droid.org/repo/com.hfut.schedule_2742.apk"
+    "apk": "https://f-droid.org/repo/com.hfut.schedule_2752.apk"
   },
   {
     "name": "HiddenProtectedWorkProfile",
@@ -8877,7 +8882,7 @@
   {
     "name": "Home Assistant",
     "description": "Control all your devices in your Home Assistant instance",
-    "apk": "https://f-droid.org/repo/io.homeassistant.companion.android.minimal_22536.apk"
+    "apk": "https://f-droid.org/repo/io.homeassistant.companion.android.minimal_22884.apk"
   },
   {
     "name": "Home Medkit",
@@ -9218,6 +9223,11 @@
     "name": "Immich Uploader",
     "description": "App that can upload media files to your Immich instance.",
     "apk": "https://f-droid.org/repo/com.exner.tools.immichuploader_22.apk"
+  },
+  {
+    "name": "Immich Wear",
+    "description": "Browse your self-hosted Immich photos from your wrist",
+    "apk": "https://f-droid.org/repo/fi.nikosavola.immichwear_1005.apk"
   },
   {
     "name": "Impostor MX",
@@ -9696,7 +9706,7 @@
   },
   {
     "name": "JemRec",
-    "description": "Records phone, WhatsApp, Telegram and Viber calls, both sides, no root",
+    "description": "Records phone, WhatsApp, Telegram, Viber and Meet calls, both sides, no root",
     "apk": "https://f-droid.org/repo/com.jemcik.jemrec_1600.apk"
   },
   {
@@ -9782,7 +9792,7 @@
   {
     "name": "Journal Multilingual",
     "description": "Open-source drug use tracker with interaction checker and multilingual support.",
-    "apk": "https://f-droid.org/repo/in.kawaiis.journal_1100600.apk"
+    "apk": "https://f-droid.org/repo/in.kawaiis.journal_1100700.apk"
   },
   {
     "name": "Journalize",
@@ -9897,7 +9907,7 @@
   {
     "name": "KabelWacht",
     "description": "A simple, free WireGuard VPN client: scan, import, and manage tunnels.",
-    "apk": "https://f-droid.org/repo/com.github.muelli.kabelwacht_99.apk"
+    "apk": "https://f-droid.org/repo/com.github.muelli.kabelwacht_112.apk"
   },
   {
     "name": "Kachin for AnySoftKeyboard",
@@ -9982,7 +9992,7 @@
   {
     "name": "KashCal",
     "description": "All your calendars in one app. iCloud, CalDAV, device, ICS. Private.",
-    "apk": "https://f-droid.org/repo/org.onekash.kashcal_788.apk"
+    "apk": "https://f-droid.org/repo/org.onekash.kashcal_791.apk"
   },
   {
     "name": "Katawa Shoujo: Re-Engineered",
@@ -10007,7 +10017,7 @@
   {
     "name": "KDE Connect",
     "description": "KDE Connect integrates your smartphone and computer",
-    "apk": "https://f-droid.org/repo/org.kde.kdeconnect_tp_13516.apk"
+    "apk": "https://f-droid.org/repo/org.kde.kdeconnect_tp_13517.apk"
   },
   {
     "name": "kDI Device Info system permission",
@@ -10152,7 +10162,7 @@
   {
     "name": "Keyoxide",
     "description": "Verify decentralized cryptographic identities on the go",
-    "apk": "https://f-droid.org/repo/org.keyoxide.keyoxide_216.apk"
+    "apk": "https://f-droid.org/repo/org.keyoxide.keyoxide_219.apk"
   },
   {
     "name": "KeyPass",
@@ -10232,7 +10242,7 @@
   {
     "name": "Kinetica",
     "description": "Two-thumb keyboard: both thumbs swipe and tap at once. No network access.",
-    "apk": "https://f-droid.org/repo/com.kinetica.keyboard_48.apk"
+    "apk": "https://f-droid.org/repo/com.kinetica.keyboard_74.apk"
   },
   {
     "name": "King Pong",
@@ -10375,6 +10385,11 @@
     "apk": "https://f-droid.org/repo/net.koofr.vault_124002.apk"
   },
   {
+    "name": "KOOK SESSION",
+    "description": "Surf and wingfoil session logbook, stored in your own Nextcloud",
+    "apk": "https://f-droid.org/repo/fr.kooksession.app_11.apk"
+  },
+  {
     "name": "Kords ",
     "description": "A ukulele chords dictionary and songbook.",
     "apk": "https://f-droid.org/repo/com.vipedev.kords2_16.apk"
@@ -10422,7 +10437,7 @@
   {
     "name": "Kreate",
     "description": "A multilingual YouTube Music frontend for Android, prioritize performance.",
-    "apk": "https://f-droid.org/repo/me.knighthat.kreate_137.apk"
+    "apk": "https://f-droid.org/repo/me.knighthat.kreate_138.apk"
   },
   {
     "name": "Krita",
@@ -10607,7 +10622,7 @@
   {
     "name": "Last Launcher",
     "description": "Minimal text-only launcher focused on speed and simplicity",
-    "apk": "https://f-droid.org/repo/nl.bw20.last_launcher_151.apk"
+    "apk": "https://f-droid.org/repo/nl.bw20.last_launcher_171.apk"
   },
   {
     "name": "Latarka",
@@ -10707,7 +10722,7 @@
   {
     "name": "LE-RADAR",
     "description": "Québec student newspapers, campus radio and sports, all in one place",
-    "apk": "https://f-droid.org/repo/ca.leradar.app_3.apk"
+    "apk": "https://f-droid.org/repo/ca.leradar.app_4.apk"
   },
   {
     "name": "Leafpad",
@@ -10812,7 +10827,7 @@
   {
     "name": "LetterBox",
     "description": "Learn letters with animal pictures: a simple, offline game for young children",
-    "apk": "https://f-droid.org/repo/ch.cryptobit.letterbox_7.apk"
+    "apk": "https://f-droid.org/repo/ch.cryptobit.letterbox_8.apk"
   },
   {
     "name": "Levyra",
@@ -11135,9 +11150,9 @@
     "apk": "https://f-droid.org/repo/org.linphone_6000191.apk"
   },
   {
-    "name": "Linthra",
-    "description": "Open-source, local-first music player for music you own. No forced sync.",
-    "apk": "https://f-droid.org/repo/io.github.thezupzup.linthra_2069991.apk"
+    "name": "Linthra: Offline Music Player",
+    "description": "Linthra: Open-source offline music player for local and self-hosted music.",
+    "apk": "https://f-droid.org/repo/io.github.thezupzup.linthra_2079991.apk"
   },
   {
     "name": "Linux Command Library",
@@ -11577,7 +11592,7 @@
   {
     "name": "Léon – The URL Cleaner",
     "description": "Removes tracking & other redundant parameters from web links for sharing",
-    "apk": "https://f-droid.org/repo/com.svenjacobs.app.leon_289.apk"
+    "apk": "https://f-droid.org/repo/com.svenjacobs.app.leon_290.apk"
   },
   {
     "name": "L×Box: VPN & Proxy Client",
@@ -11732,7 +11747,7 @@
   {
     "name": "Mages",
     "description": "Experimental Matrix client made using Compose Multiplatform (and Rust).",
-    "apk": "https://f-droid.org/repo/org.mlm.mages_1618.apk"
+    "apk": "https://f-droid.org/repo/org.mlm.mages_1648.apk"
   },
   {
     "name": "Magisk",
@@ -11837,7 +11852,7 @@
   {
     "name": "MapFlip - Apple to Google",
     "description": "Open links in navigation apps: automatic map redirect, route & directions.",
-    "apk": "https://f-droid.org/repo/de.goork.mapflip_315034.apk"
+    "apk": "https://f-droid.org/repo/de.goork.mapflip_315036.apk"
   },
   {
     "name": "Mapple: Redirect Apple Maps",
@@ -11882,12 +11897,12 @@
   {
     "name": "Markor",
     "description": "Text editor - Notes & ToDo. Lightweight. Markdown and todo.txt support.",
-    "apk": "https://f-droid.org/repo/net.gsantner.markor_161.apk"
+    "apk": "https://f-droid.org/repo/net.gsantner.markor_162.apk"
   },
   {
     "name": "MarkReader - Markdown Reader",
     "description": "Offline markdown, notes, and code reader with syntax highlighting",
-    "apk": "https://f-droid.org/repo/com.markreader_5.apk"
+    "apk": "https://f-droid.org/repo/com.markreader_6.apk"
   },
   {
     "name": "Marlin",
@@ -11897,7 +11912,7 @@
   {
     "name": "Marmalade STT",
     "description": "Private, offline speech-to-text for your keyboard. Your voice stays on device.",
-    "apk": "https://f-droid.org/repo/app.marmalade.stt_10000011.apk"
+    "apk": "https://f-droid.org/repo/app.marmalade.stt_10010001.apk"
   },
   {
     "name": "Marmalade TTS",
@@ -11932,7 +11947,7 @@
   {
     "name": "Maskan — Private AI Chat",
     "description": "Private BYOK AI chat. 11 providers, voice, image, export. 3 languages.",
-    "apk": "https://f-droid.org/repo/app.maskan.chat_140.apk"
+    "apk": "https://f-droid.org/repo/app.maskan.chat_150.apk"
   },
   {
     "name": "MassDroid",
@@ -11992,7 +12007,7 @@
   {
     "name": "Materialious",
     "description": "Modern material design for YouTube and Invidious.",
-    "apk": "https://f-droid.org/repo/us.materialio.app_274.apk"
+    "apk": "https://f-droid.org/repo/us.materialio.app_276.apk"
   },
   {
     "name": "Materialistic Nouveau",
@@ -12002,7 +12017,7 @@
   {
     "name": "Materializr",
     "description": "Maker 3D CAD - the middle ground between Tinkercad and FreeCAD",
-    "apk": "https://f-droid.org/repo/com.materializr.app_49.apk"
+    "apk": "https://f-droid.org/repo/com.materializr.app_50.apk"
   },
   {
     "name": "MaterialOS",
@@ -12017,7 +12032,7 @@
   {
     "name": "Matewave",
     "description": "Play chess offline, sharpen tactics, and practice openings with AI or friends.",
-    "apk": "https://f-droid.org/repo/cc.skysparkle.matewave_1.apk"
+    "apk": "https://f-droid.org/repo/cc.skysparkle.matewave_2.apk"
   },
   {
     "name": "Math Clock",
@@ -12047,7 +12062,7 @@
   {
     "name": "Mattermost Beta",
     "description": "Secure, self-hosted workplace messaging",
-    "apk": "https://f-droid.org/repo/com.mattermost.rnbeta_81501.apk"
+    "apk": "https://f-droid.org/repo/com.mattermost.rnbeta_82401.apk"
   },
   {
     "name": "Mauth",
@@ -12232,7 +12247,7 @@
   {
     "name": "MedTimer: Med & Pill Reminder",
     "description": "Medication and pill reminder with log, fully offline and privacy focused",
-    "apk": "https://f-droid.org/repo/com.futsch1.medtimer_186.apk"
+    "apk": "https://f-droid.org/repo/com.futsch1.medtimer_187.apk"
   },
   {
     "name": "MegaProxy",
@@ -12422,7 +12437,7 @@
   {
     "name": "MeteoCompare",
     "description": "Compare 21 weather models, 10-day forecasts, local alerts and detailed charts.",
-    "apk": "https://f-droid.org/repo/com.meteocompare.app_43.apk"
+    "apk": "https://f-droid.org/repo/com.meteocompare.app_45.apk"
   },
   {
     "name": "Meteocool - Rain radar",
@@ -12457,7 +12472,7 @@
   {
     "name": "MetroMusic",
     "description": "A music player in the Windows Phone 8 idiom, for the music on your phone.",
-    "apk": "https://f-droid.org/repo/com.metromusic_5.apk"
+    "apk": "https://f-droid.org/repo/com.metromusic_7.apk"
   },
   {
     "name": "Metronome",
@@ -12571,8 +12586,8 @@
   },
   {
     "name": "Mihrab: The Muslim Companion",
-    "description": "Prayer times, adhan, the Quran, duas and qibla in one calm, private app.",
-    "apk": "https://f-droid.org/repo/com.prayer_times_288.apk"
+    "description": "Prayer times matching Diyanet, Kemenag & more to the minute. Quran, dua, qibla.",
+    "apk": "https://f-droid.org/repo/com.prayer_times_289.apk"
   },
   {
     "name": "MileLog",
@@ -12682,7 +12697,7 @@
   {
     "name": "MinkLauncher OpenSource",
     "description": "A minimal, keyboard-first Android home-screen launcher",
-    "apk": "https://f-droid.org/repo/com.katoaapps.openminilaunch_28.apk"
+    "apk": "https://f-droid.org/repo/com.katoaapps.openminilaunch_29.apk"
   },
   {
     "name": "MinLauncher",
@@ -12857,7 +12872,7 @@
   {
     "name": "Money Manager Ex",
     "description": "Manage your finances on-the-go, encrypted for security, sync via your storage ",
-    "apk": "https://f-droid.org/repo/com.money.manager.ex_1116.apk"
+    "apk": "https://f-droid.org/repo/com.money.manager.ex_1117.apk"
   },
   {
     "name": "Money Swield",
@@ -12882,7 +12897,7 @@
   {
     "name": "Monica F-Droid",
     "description": "Open-source password manager: local encryption, autofill, TOTP, Passkey",
-    "apk": "https://f-droid.org/repo/takagi.ru.monica.fdroid_26.apk"
+    "apk": "https://f-droid.org/repo/takagi.ru.monica.fdroid_27.apk"
   },
   {
     "name": "Monkeyboard Keystone Radio",
@@ -13037,12 +13052,12 @@
   {
     "name": "MoveAPiece: Offline Chess",
     "description": "Offline chess vs Stockfish or Maia, opening trainer, Pegasus & Chessnut boards",
-    "apk": "https://f-droid.org/repo/de.schliweb.moveapiece_106001.apk"
+    "apk": "https://f-droid.org/repo/de.schliweb.moveapiece_107001.apk"
   },
   {
     "name": "MovieFlix",
     "description": "Cinephile's Movie Diary",
-    "apk": "https://f-droid.org/repo/com.shalenmathew.movieflix_7.apk"
+    "apk": "https://f-droid.org/repo/com.shalenmathew.movieflix_8.apk"
   },
   {
     "name": "MPD",
@@ -13617,7 +13632,7 @@
   {
     "name": "NewsBlur - News reader",
     "description": "News reader",
-    "apk": "https://f-droid.org/repo/com.newsblur_289.apk"
+    "apk": "https://f-droid.org/repo/com.newsblur_290.apk"
   },
   {
     "name": "NexNode for Linode Cloud",
@@ -13627,7 +13642,7 @@
   {
     "name": "Nexpill",
     "description": "Medication reminders that arrive on time. No account, no internet.",
-    "apk": "https://f-droid.org/repo/com.superdavelab.nexpill_3001.apk"
+    "apk": "https://f-droid.org/repo/com.superdavelab.nexpill_5011.apk"
   },
   {
     "name": "Next Actualités informatiques",
@@ -13667,7 +13682,7 @@
   {
     "name": "Nextcloud Dev",
     "description": "Synchronization client",
-    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20261018.apk"
+    "apk": "https://f-droid.org/repo/com.nextcloud.android.beta_20261021.apk"
   },
   {
     "name": "Nextcloud Maps Geobookmarks",
@@ -14017,7 +14032,7 @@
   {
     "name": "Noor Connect",
     "description": "Premium privacy-first Islamic companion: Quran, Qibla, Adhan, & Habit tracking.",
-    "apk": "https://f-droid.org/repo/com.noorconnect.app_7.apk"
+    "apk": "https://f-droid.org/repo/com.noorconnect.app_8.apk"
   },
   {
     "name": "Noor-Ul-Huda نور الهدى",
@@ -14432,7 +14447,7 @@
   {
     "name": "Offline Translator",
     "description": "On-device translation of text, images and pdf/odt files, with TTS",
-    "apk": "https://f-droid.org/repo/dev.davidv.translator_291.apk"
+    "apk": "https://f-droid.org/repo/dev.davidv.translator_301.apk"
   },
   {
     "name": "Offline Web Search",
@@ -14462,7 +14477,7 @@
   {
     "name": "Oinkoin",
     "description": "Oinkoin Money Manager makes managing personal finances easy and secure.",
-    "apk": "https://f-droid.org/repo/com.github.emavgl.piggybankpro_7153001.apk"
+    "apk": "https://f-droid.org/repo/com.github.emavgl.piggybankpro_7154001.apk"
   },
   {
     "name": "Ojo RTSP IP Camera viewer",
@@ -14502,7 +14517,7 @@
   {
     "name": "Olvid",
     "description": "Private messaging for everyone",
-    "apk": "https://f-droid.org/repo/io.olvid.messenger.nogoogle_31101.apk"
+    "apk": "https://f-droid.org/repo/io.olvid.messenger.nogoogle_31401.apk"
   },
   {
     "name": "Om",
@@ -14857,7 +14872,7 @@
   {
     "name": "OpenDocument Reader",
     "description": "Document reader & file editor for Libreoffice & OpenOffice | ODF: ODT, ODS +more",
-    "apk": "https://f-droid.org/repo/at.tomtasche.reader_42001.apk"
+    "apk": "https://f-droid.org/repo/at.tomtasche.reader_42100.apk"
   },
   {
     "name": "OpenDrummer - Drum Loops",
@@ -14887,7 +14902,7 @@
   {
     "name": "openHAB Beta",
     "description": "Vendor and technology agnostic open source home automation",
-    "apk": "https://f-droid.org/repo/org.openhab.habdroid.beta_603.apk"
+    "apk": "https://f-droid.org/repo/org.openhab.habdroid.beta_604.apk"
   },
   {
     "name": "OpenHub",
@@ -15057,7 +15072,7 @@
   {
     "name": "OpenVPN for Android",
     "description": "OpenVPN without root",
-    "apk": "https://f-droid.org/repo/de.blinkt.openvpn_219.apk"
+    "apk": "https://f-droid.org/repo/de.blinkt.openvpn_220.apk"
   },
   {
     "name": "OpenWebWeaver",
@@ -15112,7 +15127,7 @@
   {
     "name": "Orgro",
     "description": "Live your life in Org Mode? Take it with you on your Android device.",
-    "apk": "https://f-droid.org/repo/com.madlonkay.orgro_270.apk"
+    "apk": "https://f-droid.org/repo/com.madlonkay.orgro_272.apk"
   },
   {
     "name": "Orgzly Revived",
@@ -15332,7 +15347,7 @@
   {
     "name": "Pagan",
     "description": "A Mobile Music Sequencer",
-    "apk": "https://f-droid.org/repo/com.qfs.pagan_176.apk"
+    "apk": "https://f-droid.org/repo/com.qfs.pagan_177.apk"
   },
   {
     "name": "Page",
@@ -15530,6 +15545,11 @@
     "apk": "https://f-droid.org/repo/me.ocv.partyup_10700.apk"
   },
   {
+    "name": "Parvaz",
+    "description": "Farsi-first browser tunnel through a self-hosted Apps Script relay",
+    "apk": "https://f-droid.org/repo/dk.cocode.parvaz_1018.apk"
+  },
+  {
     "name": "Paseo",
     "description": " A free and open source step counting app.",
     "apk": "https://f-droid.org/repo/ca.chancehorizon.paseo_10700.apk"
@@ -15542,7 +15562,7 @@
   {
     "name": "Passchain",
     "description": "Use security key with Bluetooth, NFC, USB or your phone secure element",
-    "apk": "https://f-droid.org/repo/s1m.hwfido2provider_11.apk"
+    "apk": "https://f-droid.org/repo/s1m.hwfido2provider_12.apk"
   },
   {
     "name": "Passky",
@@ -15722,7 +15742,7 @@
   {
     "name": "PebbleNTN",
     "description": "Turn-by-turn directions from your phone's nav apps on your Pebble watch",
-    "apk": "https://f-droid.org/repo/com.pebblentn.app_67.apk"
+    "apk": "https://f-droid.org/repo/com.pebblentn.app_70.apk"
   },
   {
     "name": "PebbleRecorder",
@@ -15767,7 +15787,7 @@
   {
     "name": "PennyWise: SMS Expense Tracker",
     "description": "Auto-track UPI & bank SMS. Private expense tracker and budget app, no sign-up.",
-    "apk": "https://f-droid.org/repo/com.pennywiseai.tracker_105.apk"
+    "apk": "https://f-droid.org/repo/com.pennywiseai.tracker_106.apk"
   },
   {
     "name": "Pepper&Carrot Reader",
@@ -15847,7 +15867,7 @@
   {
     "name": "Petals: Cannabis Use Tracker",
     "description": "Weed tracker to quit, cut down or understand your cannabis use. Open source.",
-    "apk": "https://f-droid.org/repo/br.com.colman.petals_3044000.apk"
+    "apk": "https://f-droid.org/repo/br.com.colman.petals_3045000.apk"
   },
   {
     "name": "PGPony",
@@ -16042,7 +16062,7 @@
   {
     "name": "Pimi widget",
     "description": "Your day, at a glance - with built-in weather app",
-    "apk": "https://f-droid.org/repo/com.kolakek.pimiwidget_22.apk"
+    "apk": "https://f-droid.org/repo/com.kolakek.pimiwidget_23.apk"
   },
   {
     "name": "PIN Mnemonic (Privacy Friendly)",
@@ -16122,7 +16142,7 @@
   {
     "name": "Pitak",
     "description": "Privacy-first offline library catalogue with an encrypted lending vault",
-    "apk": "https://f-droid.org/repo/dev.khoj.pitaka.fdroid_231.apk"
+    "apk": "https://f-droid.org/repo/dev.khoj.pitaka.fdroid_241.apk"
   },
   {
     "name": "Pitch Pipe",
@@ -16217,7 +16237,7 @@
   {
     "name": "Planes Android",
     "description": "Planes Android is a variant of the Battleships game for Android",
-    "apk": "https://f-droid.org/repo/com.planes.android_35.apk"
+    "apk": "https://f-droid.org/repo/com.planes.android_37.apk"
   },
   {
     "name": "Planetario",
@@ -16357,7 +16377,7 @@
   {
     "name": "Pocket Sense",
     "description": "Private, offline money tracker in English and Arabic, in JOD and 27 currencies",
-    "apk": "https://f-droid.org/repo/ace.software.pocketsense_5031.apk"
+    "apk": "https://f-droid.org/repo/ace.software.pocketsense_5041.apk"
   },
   {
     "name": "Pocket2FA",
@@ -16387,7 +16407,7 @@
   {
     "name": "PocketTracker",
     "description": "Tracker-style music maker for handhelds and phones — sampler, SF2, 8 tracks",
-    "apk": "https://f-droid.org/repo/com.conanizer.pockettracker_970.apk"
+    "apk": "https://f-droid.org/repo/com.conanizer.pockettracker_980.apk"
   },
   {
     "name": "PocketTRacker",
@@ -16402,7 +16422,7 @@
   {
     "name": "Podcini.A - Extensible media instrument",
     "description": "Your premier podcast/media instrument, now extensible, capable of YouTubing",
-    "apk": "https://f-droid.org/repo/ac.mdiq.Podcini.A_140.apk"
+    "apk": "https://f-droid.org/repo/ac.mdiq.Podcini.A_142.apk"
   },
   {
     "name": "Podcini.X - Podcast instrument",
@@ -16592,7 +16612,7 @@
   {
     "name": "Practice Suite",
     "description": "The Swiss army knife of musicians",
-    "apk": "https://f-droid.org/repo/com.berkersen.practicesuite_126.apk"
+    "apk": "https://f-droid.org/repo/com.berkersen.practicesuite_130.apk"
   },
   {
     "name": "Praktika Vortaro",
@@ -16767,7 +16787,7 @@
   {
     "name": "Privamatic",
     "description": "Your phone's privacy, scored 0–100. 50 checks, no internet permission.",
-    "apk": "https://f-droid.org/repo/com.techtrest.privamatic_7.apk"
+    "apk": "https://f-droid.org/repo/com.techtrest.privamatic_8.apk"
   },
   {
     "name": "Private DNS Quick Tile",
@@ -17047,7 +17067,7 @@
   {
     "name": "QRAlarm",
     "description": "Disable alarms with a QR scanner",
-    "apk": "https://f-droid.org/repo/com.sweak.qralarm_89.apk"
+    "apk": "https://f-droid.org/repo/com.sweak.qralarm_90.apk"
   },
   {
     "name": "QRCode & Barcode scanner",
@@ -17107,7 +17127,7 @@
   {
     "name": "Quest Log",
     "description": "Balance life's Main and Side Quests in a private, offline game-themed to-do app",
-    "apk": "https://f-droid.org/repo/de.huppke.questlog_3.apk"
+    "apk": "https://f-droid.org/repo/de.huppke.questlog_4.apk"
   },
   {
     "name": "QueueToDo",
@@ -17117,7 +17137,7 @@
   {
     "name": "Quicall",
     "description": "Secure messaging with chat, voice and video calls.",
-    "apk": "https://f-droid.org/repo/org.difft.temptalk_912396.apk"
+    "apk": "https://f-droid.org/repo/org.difft.temptalk_932502.apk"
   },
   {
     "name": "Quick Ball",
@@ -17182,7 +17202,7 @@
   {
     "name": "Quiet Grid: Logic Puzzles",
     "description": "Sudoku, Nonogram, Minesweeper, Word Search & more. No ads, fully offline.",
-    "apk": "https://f-droid.org/repo/com.quietgrid.app_39.apk"
+    "apk": "https://f-droid.org/repo/com.quietgrid.app_40.apk"
   },
   {
     "name": "Quiet Rebellion",
@@ -17207,7 +17227,7 @@
   {
     "name": "Quire",
     "description": "Self-hosted EPUB reader for calibre-web. No telemetry, no cloud, your data.",
-    "apk": "https://f-droid.org/repo/io.theficos.quire_260929000.apk"
+    "apk": "https://f-droid.org/repo/io.theficos.quire_261021002.apk"
   },
   {
     "name": "Quit Smoking",
@@ -17217,7 +17237,7 @@
   {
     "name": "Quits",
     "description": "Quits is a privacy-preserving expense splitting application",
-    "apk": "https://f-droid.org/repo/nz.eloque.quits_14.apk"
+    "apk": "https://f-droid.org/repo/nz.eloque.quits_15.apk"
   },
   {
     "name": "Quitter: Habit Tracker",
@@ -17247,7 +17267,7 @@
   {
     "name": "Quotes.app",
     "description": "A minimalistic quotes app",
-    "apk": "https://f-droid.org/repo/com.shalenmathew.quotesapp_45.apk"
+    "apk": "https://f-droid.org/repo/com.shalenmathew.quotesapp_46.apk"
   },
   {
     "name": "Quran Revision Companion",
@@ -17382,7 +17402,7 @@
   {
     "name": "Read Later",
     "description": "Bookmark. Read. Listen. The simple way to manage your reading list.",
-    "apk": "https://f-droid.org/repo/io.github.sak.read.it.later_1098.apk"
+    "apk": "https://f-droid.org/repo/io.github.sak.read.it.later_1099.apk"
   },
   {
     "name": "Read Me Offline",
@@ -17402,7 +17422,7 @@
   {
     "name": "ReadBear",
     "description": "A cute&chill CBZ, PDF, EPUB reader that's ridiculously configurable!",
-    "apk": "https://f-droid.org/repo/dev.tulis.readbear_18.apk"
+    "apk": "https://f-droid.org/repo/dev.tulis.readbear_20.apk"
   },
   {
     "name": "Readeck App",
@@ -17427,7 +17447,7 @@
   {
     "name": "Really Basic Vocab",
     "description": "simple flashcard app",
-    "apk": "https://f-droid.org/repo/de.herrmann_engel.rbv_83.apk"
+    "apk": "https://f-droid.org/repo/de.herrmann_engel.rbv_84.apk"
   },
   {
     "name": "RealmScore",
@@ -17446,8 +17466,8 @@
   },
   {
     "name": "Rechenzwerge",
-    "description": "Counting and math practice for preschool and elementary school.",
-    "apk": "https://f-droid.org/repo/de.happybuers.rechenzettel_2058.apk"
+    "description": "Counting and math practice for preschool and elementary school",
+    "apk": "https://f-droid.org/repo/de.happybuers.rechenzettel_2060.apk"
   },
   {
     "name": "Reckoning Skills (Privacy Friendly)",
@@ -17767,7 +17787,7 @@
   {
     "name": "Ricevapp Documento Commerciale",
     "description": "Third-party app for quick access, not affiliated with Agenzia delle Entrate",
-    "apk": "https://f-droid.org/repo/com.giacomomensio.ricevapp_17.apk"
+    "apk": "https://f-droid.org/repo/com.giacomomensio.ricevapp_18.apk"
   },
   {
     "name": "Ricochlime",
@@ -17807,7 +17827,7 @@
   {
     "name": "RiPlay",
     "description": "Multiplatform Music Player",
-    "apk": "https://f-droid.org/repo/it.fast4x.riplay_98.apk"
+    "apk": "https://f-droid.org/repo/it.fast4x.riplay_100.apk"
   },
   {
     "name": "Ripple: respond when panicking",
@@ -17967,7 +17987,7 @@
   {
     "name": "RPClient",
     "description": "AI roleplay chat and story writing client",
-    "apk": "https://f-droid.org/repo/me.kafuuneko.rpclient_20260201.apk"
+    "apk": "https://f-droid.org/repo/me.kafuuneko.rpclient_20260203.apk"
   },
   {
     "name": "RPG NPC Generator",
@@ -18052,7 +18072,7 @@
   {
     "name": "Ruffle",
     "description": "An Android application for ruffle.rs",
-    "apk": "https://f-droid.org/repo/rs.ruffle_2609281.apk"
+    "apk": "https://f-droid.org/repo/rs.ruffle_2610141.apk"
   },
   {
     "name": "Rufid",
@@ -18570,6 +18590,11 @@
     "apk": "https://f-droid.org/repo/xyz.linerly.searxist_20260220.apk"
   },
   {
+    "name": "Seca Contacts",
+    "description": "Private contacts: coloured profiles, duplicate merging, no Internet access",
+    "apk": "https://f-droid.org/repo/com.seca.contacts_6.apk"
+  },
+  {
     "name": "Seca Phone",
     "description": "Private dialer: telemarketing filter, blocked profiles, SIM per contact",
     "apk": "https://f-droid.org/repo/com.seca.phone_6.apk"
@@ -18592,7 +18617,7 @@
   {
     "name": "Secret Space Encryptor (SSE)",
     "description": "File Encryption, Text Encryption (Messages, Notes, …), Secure Password Manager",
-    "apk": "https://f-droid.org/repo/com.paranoiaworks.unicus.android.sse_155.apk"
+    "apk": "https://f-droid.org/repo/com.paranoiaworks.unicus.android.sse_157.apk"
   },
   {
     "name": "SecScanQR",
@@ -18907,7 +18932,7 @@
   {
     "name": "Shelf",
     "description": "Hide folders instantly behind a working decoy app. Root optional.",
-    "apk": "https://f-droid.org/repo/io.github.melastore.shelf_25.apk"
+    "apk": "https://f-droid.org/repo/io.github.melastore.shelf_27.apk"
   },
   {
     "name": "ShelfDroid",
@@ -19467,7 +19492,7 @@
   {
     "name": "Sky Map",
     "description": "Sky Map turns your phone into a window on the night sky.",
-    "apk": "https://f-droid.org/repo/com.google.android.stardroid_1759.apk"
+    "apk": "https://f-droid.org/repo/com.google.android.stardroid_1763.apk"
   },
   {
     "name": "Skylib",
@@ -19487,7 +19512,7 @@
   {
     "name": "SkyTube",
     "description": "An ad-free and open-source YouTube client.",
-    "apk": "https://f-droid.org/repo/free.rm.skytube.oss_58.apk"
+    "apk": "https://f-droid.org/repo/free.rm.skytube.oss_59.apk"
   },
   {
     "name": "SkyTube Legacy",
@@ -19612,7 +19637,7 @@
   {
     "name": "Smart Edge: Sidebar & Gestures",
     "description": "A highly customizable Android side panel inspired by OriginOS.",
-    "apk": "https://f-droid.org/repo/com.imi.smartedge.sidebar.panel_12.apk"
+    "apk": "https://f-droid.org/repo/com.imi.smartedge.sidebar.panel_13.apk"
   },
   {
     "name": "Smart EggTimer",
@@ -19831,7 +19856,7 @@
   },
   {
     "name": "Social Thread Markdown",
-    "description": "Expands Twitter/X links into readable, shareable Markdown format.",
+    "description": "Turn websites and X/Twitter threads into readable, shareable Markdown",
     "apk": "https://f-droid.org/repo/com.gitlab.cyberghost13337.socialthreadmarkdown_3.apk"
   },
   {
@@ -20342,7 +20367,7 @@
   {
     "name": "Sterna Mail",
     "description": "Private email client for JMAP and IMAP/SMTP. No Google services, no tracking.",
-    "apk": "https://f-droid.org/repo/app.sterna_182.apk"
+    "apk": "https://f-droid.org/repo/app.sterna_183.apk"
   },
   {
     "name": "Stethox",
@@ -20565,6 +20590,11 @@
     "apk": "https://f-droid.org/repo/org.olpc_france.sugarizer_16000.apk"
   },
   {
+    "name": "Suivi compteurs",
+    "description": "Read your meters and forecast your consumption, weather-adjusted.",
+    "apk": "https://f-droid.org/repo/be.suivicompteurs.app_126.apk"
+  },
+  {
     "name": "Sumatora",
     "description": "Offline Japanese dictionary",
     "apk": "https://f-droid.org/repo/org.happypeng.sumatora.android.sumatoradictionary_31.apk"
@@ -20572,7 +20602,7 @@
   {
     "name": "Sumire Japanese Keyboard Lite F-Droid",
     "description": "Private offline Japanese keyboard with user dictionary and snippets",
-    "apk": "https://f-droid.org/repo/com.kazumaproject.markdownhelperkeyboard.lite.fdroid_816.apk"
+    "apk": "https://f-droid.org/repo/com.kazumaproject.markdownhelperkeyboard.lite.fdroid_821.apk"
   },
   {
     "name": "Summit for Lemmy and PieFed",
@@ -20602,7 +20632,7 @@
   {
     "name": "Suntimes",
     "description": "Sunlight and moonlight information (clock, alarms, tiles, and widgets).",
-    "apk": "https://f-droid.org/repo/com.forrestguice.suntimeswidget_133.apk"
+    "apk": "https://f-droid.org/repo/com.forrestguice.suntimeswidget_134.apk"
   },
   {
     "name": "Suntimes Calendars",
@@ -20617,7 +20647,7 @@
   {
     "name": "Super Productivity",
     "description": "Free to do list & time tracker",
-    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1901009000.apk"
+    "apk": "https://f-droid.org/repo/com.superproductivity.superproductivity_1902009000.apk"
   },
   {
     "name": "Super Retro Mega Wars",
@@ -21037,7 +21067,7 @@
   {
     "name": "Tempus",
     "description": "An open-source and privacy focused music client for Subsonic",
-    "apk": "https://f-droid.org/repo/com.eddyizm.degoogled.tempus_49.apk"
+    "apk": "https://f-droid.org/repo/com.eddyizm.degoogled.tempus_50.apk"
   },
   {
     "name": "Tempus Romanum",
@@ -21192,7 +21222,7 @@
   {
     "name": "TG WS Proxy",
     "description": "Telegram MTProto WebSocket Bridge Proxy",
-    "apk": "https://f-droid.org/repo/io.github.valnesfjord.tgwsproxyrs_205021.apk"
+    "apk": "https://f-droid.org/repo/io.github.valnesfjord.tgwsproxyrs_205041.apk"
   },
   {
     "name": "Thai for AnySoftKeyboard",
@@ -21252,7 +21282,7 @@
   {
     "name": "The Universe Decides",
     "description": "Can't decide? Let the universe choose.",
-    "apk": "https://f-droid.org/repo/com.hugo.theuniversedecides_1001841.apk"
+    "apk": "https://f-droid.org/repo/com.hugo.theuniversedecides_1002171.apk"
   },
   {
     "name": "The Verge wallpapers for Muzei",
@@ -21307,7 +21337,7 @@
   {
     "name": "Thumb-Key",
     "description": "A privacy-conscious keyboard made for your thumbs.",
-    "apk": "https://f-droid.org/repo/com.dessalines.thumbkey_186.apk"
+    "apk": "https://f-droid.org/repo/com.dessalines.thumbkey_187.apk"
   },
   {
     "name": "Thunderbird Beta for Testers",
@@ -21332,7 +21362,7 @@
   {
     "name": "Tickdroid",
     "description": "Daily habit and event tracker for Nextcloud",
-    "apk": "https://f-droid.org/repo/com.martinhammer.tickdroid_8.apk"
+    "apk": "https://f-droid.org/repo/com.martinhammer.tickdroid_9.apk"
   },
   {
     "name": "Tickmate",
@@ -21362,7 +21392,7 @@
   {
     "name": "Tideo Auto Brightness",
     "description": "A glass-box replacement for Android's adaptive brightness",
-    "apk": "https://f-droid.org/repo/com.tideo.autobrightness_27.apk"
+    "apk": "https://f-droid.org/repo/com.tideo.autobrightness_29.apk"
   },
   {
     "name": "TIDY Text-to-Image Discovery",
@@ -21482,7 +21512,7 @@
   {
     "name": "Tine",
     "description": "Fast local-first Logseq-compatible outliner",
-    "apk": "https://f-droid.org/repo/page.tine.app_7001.apk"
+    "apk": "https://f-droid.org/repo/page.tine.app_7002.apk"
   },
   {
     "name": "Tiny Music Player",
@@ -21597,7 +21627,7 @@
   {
     "name": "Todo Agenda",
     "description": "Home screen widgets displaying events from selected calendars and task lists",
-    "apk": "https://f-droid.org/repo/org.andstatus.todoagenda_713.apk"
+    "apk": "https://f-droid.org/repo/org.andstatus.todoagenda_715.apk"
   },
   {
     "name": "Todo List (PFA)",
@@ -21627,7 +21657,7 @@
   {
     "name": "ToLoShare",
     "description": "ToLoShare Location Share via Tox",
-    "apk": "https://f-droid.org/repo/com.zoffcc.applications.toloshare_10028.apk"
+    "apk": "https://f-droid.org/repo/com.zoffcc.applications.toloshare_10029.apk"
   },
   {
     "name": "Tomato",
@@ -21967,7 +21997,7 @@
   {
     "name": "TriPeaks NEUE",
     "description": "A simple Tri Peaks game.",
-    "apk": "https://f-droid.org/repo/io.github.mimoguz.tripeaksneue_141.apk"
+    "apk": "https://f-droid.org/repo/io.github.mimoguz.tripeaksneue_151.apk"
   },
   {
     "name": "Triple Match",
@@ -22242,7 +22272,7 @@
   {
     "name": "Twig",
     "description": "Dual-pane file manager: archives, SFTP, SMB, WebDAV, S3, restic, Jellyfin",
-    "apk": "https://f-droid.org/repo/com.twig.app_301.apk"
+    "apk": "https://f-droid.org/repo/com.twig.app_307.apk"
   },
   {
     "name": "Twili Recipes",
@@ -22342,12 +22372,17 @@
   {
     "name": "Unciv",
     "description": "Open source 4X civilization-building game",
-    "apk": "https://f-droid.org/repo/com.unciv.app_1274.apk"
+    "apk": "https://f-droid.org/repo/com.unciv.app_1275.apk"
   },
   {
     "name": "UnderEat",
     "description": "Restaurant Organiser",
     "apk": "https://f-droid.org/repo/com.zoffcc.applications.undereat_10035.apk"
+  },
+  {
+    "name": "Underfoot",
+    "description": "Track walking pad sessions to Health Connect. No account, no analytics.",
+    "apk": "https://f-droid.org/repo/org.underfoot_8.apk"
   },
   {
     "name": "Unexpected Keyboard",
@@ -22397,7 +22432,7 @@
   {
     "name": "Universal Installer",
     "description": "APK/XAPK installer with silent installs via Shizuku, Root or Dhizuku.",
-    "apk": "https://f-droid.org/repo/app.pwhs.universalinstaller_41.apk"
+    "apk": "https://f-droid.org/repo/app.pwhs.universalinstaller_42.apk"
   },
   {
     "name": "unjumble",
@@ -22457,7 +22492,7 @@
   {
     "name": "Unstoppable Crypto Wallet",
     "description": "Bitcoin, Ethereum, DeFi",
-    "apk": "https://f-droid.org/repo/io.horizontalsystems.bankwallet_178.apk"
+    "apk": "https://f-droid.org/repo/io.horizontalsystems.bankwallet_179.apk"
   },
   {
     "name": "Untracker",
@@ -22832,7 +22867,7 @@
   {
     "name": "Vento VNC/RDP Client",
     "description": "Fast, fluid VNC/RDP remote desktop client",
-    "apk": "https://f-droid.org/repo/net.pgaskin.remotedesktop_4.apk"
+    "apk": "https://f-droid.org/repo/net.pgaskin.remotedesktop_5.apk"
   },
   {
     "name": "Ventoid",
@@ -22842,7 +22877,7 @@
   {
     "name": "Verdetto: QR & Barcode Scanner",
     "description": "QR & barcode scanner. See the link before it opens.",
-    "apk": "https://f-droid.org/repo/com.verdettoqr.scanner_10107.apk"
+    "apk": "https://f-droid.org/repo/com.verdettoqr.scanner_10108.apk"
   },
   {
     "name": "VergissNix",
@@ -22882,7 +22917,7 @@
   {
     "name": "Vetro",
     "description": "Minimal local-first media manager",
-    "apk": "https://f-droid.org/repo/com.phnem.vetro_340.apk"
+    "apk": "https://f-droid.org/repo/com.phnem.vetro_343.apk"
   },
   {
     "name": "Vibe",
@@ -23027,7 +23062,7 @@
   {
     "name": "Voice Audiobook Player",
     "description": "A calm audiobook player for your own files. No account, no ads.",
-    "apk": "https://f-droid.org/repo/de.ph1b.audiobook_5410002.apk"
+    "apk": "https://f-droid.org/repo/de.ph1b.audiobook_5410004.apk"
   },
   {
     "name": "Voice Keyboard",
@@ -23322,7 +23357,7 @@
   {
     "name": "Waterfly III",
     "description": "Unofficial App for Firefly III, an open source personal finance manager.",
-    "apk": "https://f-droid.org/repo/com.dreautall.waterflyiii_5601.apk"
+    "apk": "https://f-droid.org/repo/com.dreautall.waterflyiii_6271.apk"
   },
   {
     "name": "Watermarking",
@@ -23462,7 +23497,7 @@
   {
     "name": "WebSpace",
     "description": "Bring your favorite web apps to your phone",
-    "apk": "https://f-droid.org/repo/org.codeberg.theoden8.webspace_29001.apk"
+    "apk": "https://f-droid.org/repo/org.codeberg.theoden8.webspace_30001.apk"
   },
   {
     "name": "WebStack",
@@ -23566,8 +23601,8 @@
   },
   {
     "name": "Where It Went",
-    "description": "You think you know. Then you see the numbers. Track where it really went.",
-    "apk": "https://f-droid.org/repo/com.pixelpen.whereitwent.stable_30000.apk"
+    "description": "You think you know. Then you see the numbers. An offline expense tracker.",
+    "apk": "https://f-droid.org/repo/com.pixelpen.whereitwent.stable_30200.apk"
   },
   {
     "name": "Whisper",
@@ -23776,7 +23811,7 @@
   },
   {
     "name": "WM Keyboard",
-    "description": "A private, offline keyboard: 845 languages, smart typing, themes, and tools.",
+    "description": "A private, offline keyboard: 955 languages, smart typing, themes, and tools.",
     "apk": "https://f-droid.org/repo/com.wasimaster.wmkeyboard_28.apk"
   },
   {
@@ -23962,7 +23997,7 @@
   {
     "name": "Xime IME",
     "description": "A Rime-based Chinese IME for Wubi and Pinyin input",
-    "apk": "https://f-droid.org/repo/com.kingzcheung.xime_20261013.apk"
+    "apk": "https://f-droid.org/repo/com.kingzcheung.xime_20261018.apk"
   },
   {
     "name": "XiVPN",
@@ -24037,7 +24072,7 @@
   {
     "name": "Xtra",
     "description": "Third-party Twitch client",
-    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_361.apk"
+    "apk": "https://f-droid.org/repo/com.github.andreyasadchy.xtra_362.apk"
   },
   {
     "name": "xvii messenger for vk",
@@ -24242,7 +24277,7 @@
   {
     "name": "Zanshin Calendar",
     "description": "Tibetan and Japanese calendars with almanac readings, and a meditation timer",
-    "apk": "https://f-droid.org/repo/io.github.iverlein.zanshin_12.apk"
+    "apk": "https://f-droid.org/repo/io.github.iverlein.zanshin_13.apk"
   },
   {
     "name": "Zapp",
@@ -24312,7 +24347,7 @@
   {
     "name": "Zodl: Zcash Wallet",
     "description": "The most private crypto wallet. Built for financial sovereignty.",
-    "apk": "https://f-droid.org/repo/co.electriccoin.zcash.foss_2958.apk"
+    "apk": "https://f-droid.org/repo/co.electriccoin.zcash.foss_3149.apk"
   },
   {
     "name": "Zorin Connect",
